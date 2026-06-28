@@ -1,0 +1,11 @@
+Lists all required Python packages.
+
+Example:
+
+pandas
+numpy
+scikit-learn
+xgboost
+streamlit
+plotly
+fastf1
