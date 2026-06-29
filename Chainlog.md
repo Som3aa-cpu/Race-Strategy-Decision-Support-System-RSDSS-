@@ -8,4 +8,6 @@
 
 ## v0.2.0
 - Added automatic data validation
-- Began 2023 data extraction
+- Began 2023 data extraction 
+- done with 2023 starting 2024
+- API hit limit at italian GP 2024
