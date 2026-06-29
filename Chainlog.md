@@ -11,3 +11,7 @@
 - Began 2023 data extraction 
 - done with 2023 starting 2024
 - API hit limit at italian GP 2024
+- 2024 is done the pipeline working on 2025
+- all data have been extracred 
+
+## v0.3.0 

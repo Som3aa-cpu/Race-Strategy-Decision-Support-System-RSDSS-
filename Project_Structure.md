@@ -11,7 +11,7 @@ Race-Strategy-Decision-Support-System/
 ├── data/
 │   ├── raw/
 │   ├── processed/
-│   └── external/
+│
 │
 ├── docs/
 │
