@@ -15,3 +15,5 @@
 - all data have been extracred 
 
 ## v0.3.0 
+- data validation pipeline
+- cleaning data pipeline
