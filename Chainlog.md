@@ -16,4 +16,5 @@
 
 ## v0.3.0 
 - data validation pipeline
-- cleaning data pipeline
+- Implemented cleaning data pipeline
+- Successfully cleaned the 90 datasets 
