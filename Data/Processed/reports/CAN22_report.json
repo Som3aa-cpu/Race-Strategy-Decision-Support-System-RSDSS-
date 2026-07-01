@@ -1,0 +1,10 @@
+{
+  "filename": "CAN22.csv",
+  "rows_read": 1264,
+  "duplicates": 0,
+  "missing_laptime": 2,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 2,
+  "rows_kept": 1262
+}

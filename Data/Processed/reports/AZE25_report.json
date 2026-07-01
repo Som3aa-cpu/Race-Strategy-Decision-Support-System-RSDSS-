@@ -1,0 +1,10 @@
+{
+  "filename": "AZE25.csv",
+  "rows_read": 968,
+  "duplicates": 0,
+  "missing_laptime": 58,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 58,
+  "rows_kept": 910
+}

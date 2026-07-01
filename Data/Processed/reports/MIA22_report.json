@@ -1,0 +1,10 @@
+{
+  "filename": "MIA22.csv",
+  "rows_read": 1057,
+  "duplicates": 0,
+  "missing_laptime": 35,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 35,
+  "rows_kept": 1022
+}

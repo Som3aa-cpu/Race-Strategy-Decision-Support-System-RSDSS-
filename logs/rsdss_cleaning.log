@@ -1,0 +1,2164 @@
+11:38:20 | INFO     |   RSDSS — Pipeline de nettoyage F1
+11:38:20 | INFO     |   Source   : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Raw\Data\Processed\by_race
+11:38:20 | INFO     |   Sortie   : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed
+11:38:20 | INFO     |   Rapports : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\reports
+11:38:20 | INFO     | 90 fichier(s) CSV trouvé(s) dans 'D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Raw\Data\Processed\by_race'
+11:38:20 | INFO     | Lecture : ABU23.csv
+11:38:20 | ERROR    | Fichier ignoré 'ABU23.csv' — Colonnes manquantes dans ABU23.csv : ['Season']
+11:38:20 | INFO     | Lecture : ABU24.csv
+11:38:20 | ERROR    | Fichier ignoré 'ABU24.csv' — Colonnes manquantes dans ABU24.csv : ['Season']
+11:38:21 | INFO     | Lecture : ABU25.csv
+11:38:21 | ERROR    | Fichier ignoré 'ABU25.csv' — Colonnes manquantes dans ABU25.csv : ['Season']
+11:38:21 | INFO     | Lecture : AUS22.csv
+11:38:21 | ERROR    | Fichier ignoré 'AUS22.csv' — Colonnes manquantes dans AUS22.csv : ['Season']
+11:38:21 | INFO     | Lecture : AUS23.csv
+11:38:21 | ERROR    | Fichier ignoré 'AUS23.csv' — Colonnes manquantes dans AUS23.csv : ['Season']
+11:38:21 | INFO     | Lecture : AUS24.csv
+11:38:21 | ERROR    | Fichier ignoré 'AUS24.csv' — Colonnes manquantes dans AUS24.csv : ['Season']
+11:38:21 | INFO     | Lecture : AUS25.csv
+11:38:21 | ERROR    | Fichier ignoré 'AUS25.csv' — Colonnes manquantes dans AUS25.csv : ['Season']
+11:38:21 | INFO     | Lecture : AUT22.csv
+11:38:21 | ERROR    | Fichier ignoré 'AUT22.csv' — Colonnes manquantes dans AUT22.csv : ['Season']
+11:38:21 | INFO     | Lecture : AUT23.csv
+11:38:21 | ERROR    | Fichier ignoré 'AUT23.csv' — Colonnes manquantes dans AUT23.csv : ['Season']
+11:38:21 | INFO     | Lecture : AUT24.csv
+11:38:21 | ERROR    | Fichier ignoré 'AUT24.csv' — Colonnes manquantes dans AUT24.csv : ['Season']
+11:38:21 | INFO     | Lecture : AUT25.csv
+11:38:21 | ERROR    | Fichier ignoré 'AUT25.csv' — Colonnes manquantes dans AUT25.csv : ['Season']
+11:38:21 | INFO     | Lecture : AZE22.csv
+11:38:21 | ERROR    | Fichier ignoré 'AZE22.csv' — Colonnes manquantes dans AZE22.csv : ['Season']
+11:38:21 | INFO     | Lecture : AZE23.csv
+11:38:21 | ERROR    | Fichier ignoré 'AZE23.csv' — Colonnes manquantes dans AZE23.csv : ['Season']
+11:38:21 | INFO     | Lecture : AZE24.csv
+11:38:21 | ERROR    | Fichier ignoré 'AZE24.csv' — Colonnes manquantes dans AZE24.csv : ['Season']
+11:38:21 | INFO     | Lecture : AZE25.csv
+11:38:21 | ERROR    | Fichier ignoré 'AZE25.csv' — Colonnes manquantes dans AZE25.csv : ['Season']
+11:38:21 | INFO     | Lecture : BEL22.csv
+11:38:21 | ERROR    | Fichier ignoré 'BEL22.csv' — Colonnes manquantes dans BEL22.csv : ['Season']
+11:38:21 | INFO     | Lecture : BEL23.csv
+11:38:21 | ERROR    | Fichier ignoré 'BEL23.csv' — Colonnes manquantes dans BEL23.csv : ['Season']
+11:38:21 | INFO     | Lecture : BEL24.csv
+11:38:21 | ERROR    | Fichier ignoré 'BEL24.csv' — Colonnes manquantes dans BEL24.csv : ['Season']
+11:38:21 | INFO     | Lecture : BEL25.csv
+11:38:21 | ERROR    | Fichier ignoré 'BEL25.csv' — Colonnes manquantes dans BEL25.csv : ['Season']
+11:38:21 | INFO     | Lecture : BHR22.csv
+11:38:21 | ERROR    | Fichier ignoré 'BHR22.csv' — Colonnes manquantes dans BHR22.csv : ['Season']
+11:38:21 | INFO     | Lecture : BHR23.csv
+11:38:21 | ERROR    | Fichier ignoré 'BHR23.csv' — Colonnes manquantes dans BHR23.csv : ['Season']
+11:38:21 | INFO     | Lecture : BHR24.csv
+11:38:21 | ERROR    | Fichier ignoré 'BHR24.csv' — Colonnes manquantes dans BHR24.csv : ['Season']
+11:38:21 | INFO     | Lecture : BHR25.csv
+11:38:21 | ERROR    | Fichier ignoré 'BHR25.csv' — Colonnes manquantes dans BHR25.csv : ['Season']
+11:38:21 | INFO     | Lecture : BRA23.csv
+11:38:21 | ERROR    | Fichier ignoré 'BRA23.csv' — Colonnes manquantes dans BRA23.csv : ['Season']
+11:38:21 | INFO     | Lecture : BRA24.csv
+11:38:21 | ERROR    | Fichier ignoré 'BRA24.csv' — Colonnes manquantes dans BRA24.csv : ['Season']
+11:38:21 | INFO     | Lecture : BRA25.csv
+11:38:21 | ERROR    | Fichier ignoré 'BRA25.csv' — Colonnes manquantes dans BRA25.csv : ['Season']
+11:38:21 | INFO     | Lecture : CAN22.csv
+11:38:21 | ERROR    | Fichier ignoré 'CAN22.csv' — Colonnes manquantes dans CAN22.csv : ['Season']
+11:38:21 | INFO     | Lecture : CAN23.csv
+11:38:21 | ERROR    | Fichier ignoré 'CAN23.csv' — Colonnes manquantes dans CAN23.csv : ['Season']
+11:38:21 | INFO     | Lecture : CAN24.csv
+11:38:21 | ERROR    | Fichier ignoré 'CAN24.csv' — Colonnes manquantes dans CAN24.csv : ['Season']
+11:38:21 | INFO     | Lecture : CAN25.csv
+11:38:21 | ERROR    | Fichier ignoré 'CAN25.csv' — Colonnes manquantes dans CAN25.csv : ['Season']
+11:38:21 | INFO     | Lecture : CHN24.csv
+11:38:21 | ERROR    | Fichier ignoré 'CHN24.csv' — Colonnes manquantes dans CHN24.csv : ['Season']
+11:38:21 | INFO     | Lecture : CHN25.csv
+11:38:21 | ERROR    | Fichier ignoré 'CHN25.csv' — Colonnes manquantes dans CHN25.csv : ['Season']
+11:38:21 | INFO     | Lecture : EMI22.csv
+11:38:21 | ERROR    | Fichier ignoré 'EMI22.csv' — Colonnes manquantes dans EMI22.csv : ['Season']
+11:38:21 | INFO     | Lecture : EMI24.csv
+11:38:21 | ERROR    | Fichier ignoré 'EMI24.csv' — Colonnes manquantes dans EMI24.csv : ['Season']
+11:38:21 | INFO     | Lecture : EMI25.csv
+11:38:21 | ERROR    | Fichier ignoré 'EMI25.csv' — Colonnes manquantes dans EMI25.csv : ['Season']
+11:38:21 | INFO     | Lecture : ESP22.csv
+11:38:21 | ERROR    | Fichier ignoré 'ESP22.csv' — Colonnes manquantes dans ESP22.csv : ['Season']
+11:38:21 | INFO     | Lecture : ESP23.csv
+11:38:21 | ERROR    | Fichier ignoré 'ESP23.csv' — Colonnes manquantes dans ESP23.csv : ['Season']
+11:38:21 | INFO     | Lecture : ESP24.csv
+11:38:21 | ERROR    | Fichier ignoré 'ESP24.csv' — Colonnes manquantes dans ESP24.csv : ['Season']
+11:38:21 | INFO     | Lecture : ESP25.csv
+11:38:21 | ERROR    | Fichier ignoré 'ESP25.csv' — Colonnes manquantes dans ESP25.csv : ['Season']
+11:38:21 | INFO     | Lecture : FRA22.csv
+11:38:21 | ERROR    | Fichier ignoré 'FRA22.csv' — Colonnes manquantes dans FRA22.csv : ['Season']
+11:38:21 | INFO     | Lecture : GBR22.csv
+11:38:21 | ERROR    | Fichier ignoré 'GBR22.csv' — Colonnes manquantes dans GBR22.csv : ['Season']
+11:38:21 | INFO     | Lecture : GBR23.csv
+11:38:21 | ERROR    | Fichier ignoré 'GBR23.csv' — Colonnes manquantes dans GBR23.csv : ['Season']
+11:38:21 | INFO     | Lecture : GBR24.csv
+11:38:21 | ERROR    | Fichier ignoré 'GBR24.csv' — Colonnes manquantes dans GBR24.csv : ['Season']
+11:38:21 | INFO     | Lecture : GBR25.csv
+11:38:21 | ERROR    | Fichier ignoré 'GBR25.csv' — Colonnes manquantes dans GBR25.csv : ['Season']
+11:38:21 | INFO     | Lecture : HUN22.csv
+11:38:21 | ERROR    | Fichier ignoré 'HUN22.csv' — Colonnes manquantes dans HUN22.csv : ['Season']
+11:38:21 | INFO     | Lecture : HUN23.csv
+11:38:21 | ERROR    | Fichier ignoré 'HUN23.csv' — Colonnes manquantes dans HUN23.csv : ['Season']
+11:38:21 | INFO     | Lecture : HUN24.csv
+11:38:21 | ERROR    | Fichier ignoré 'HUN24.csv' — Colonnes manquantes dans HUN24.csv : ['Season']
+11:38:21 | INFO     | Lecture : HUN25.csv
+11:38:21 | ERROR    | Fichier ignoré 'HUN25.csv' — Colonnes manquantes dans HUN25.csv : ['Season']
+11:38:21 | INFO     | Lecture : ITA22.csv
+11:38:21 | ERROR    | Fichier ignoré 'ITA22.csv' — Colonnes manquantes dans ITA22.csv : ['Season']
+11:38:21 | INFO     | Lecture : ITA23.csv
+11:38:21 | ERROR    | Fichier ignoré 'ITA23.csv' — Colonnes manquantes dans ITA23.csv : ['Season']
+11:38:21 | INFO     | Lecture : ITA24.csv
+11:38:21 | ERROR    | Fichier ignoré 'ITA24.csv' — Colonnes manquantes dans ITA24.csv : ['Season']
+11:38:21 | INFO     | Lecture : ITA25.csv
+11:38:21 | ERROR    | Fichier ignoré 'ITA25.csv' — Colonnes manquantes dans ITA25.csv : ['Season']
+11:38:21 | INFO     | Lecture : JPN22.csv
+11:38:21 | ERROR    | Fichier ignoré 'JPN22.csv' — Colonnes manquantes dans JPN22.csv : ['Season']
+11:38:21 | INFO     | Lecture : JPN23.csv
+11:38:21 | ERROR    | Fichier ignoré 'JPN23.csv' — Colonnes manquantes dans JPN23.csv : ['Season']
+11:38:21 | INFO     | Lecture : JPN24.csv
+11:38:21 | ERROR    | Fichier ignoré 'JPN24.csv' — Colonnes manquantes dans JPN24.csv : ['Season']
+11:38:21 | INFO     | Lecture : JPN25.csv
+11:38:21 | ERROR    | Fichier ignoré 'JPN25.csv' — Colonnes manquantes dans JPN25.csv : ['Season']
+11:38:21 | INFO     | Lecture : LAS23.csv
+11:38:21 | ERROR    | Fichier ignoré 'LAS23.csv' — Colonnes manquantes dans LAS23.csv : ['Season']
+11:38:21 | INFO     | Lecture : LAS24.csv
+11:38:21 | ERROR    | Fichier ignoré 'LAS24.csv' — Colonnes manquantes dans LAS24.csv : ['Season']
+11:38:21 | INFO     | Lecture : LAS25.csv
+11:38:21 | ERROR    | Fichier ignoré 'LAS25.csv' — Colonnes manquantes dans LAS25.csv : ['Season']
+11:38:21 | INFO     | Lecture : MEX22.csv
+11:38:21 | ERROR    | Fichier ignoré 'MEX22.csv' — Colonnes manquantes dans MEX22.csv : ['Season']
+11:38:21 | INFO     | Lecture : MEX23.csv
+11:38:21 | ERROR    | Fichier ignoré 'MEX23.csv' — Colonnes manquantes dans MEX23.csv : ['Season']
+11:38:21 | INFO     | Lecture : MEX24.csv
+11:38:21 | ERROR    | Fichier ignoré 'MEX24.csv' — Colonnes manquantes dans MEX24.csv : ['Season']
+11:38:21 | INFO     | Lecture : MEX25.csv
+11:38:21 | ERROR    | Fichier ignoré 'MEX25.csv' — Colonnes manquantes dans MEX25.csv : ['Season']
+11:38:21 | INFO     | Lecture : MIA22.csv
+11:38:21 | ERROR    | Fichier ignoré 'MIA22.csv' — Colonnes manquantes dans MIA22.csv : ['Season']
+11:38:21 | INFO     | Lecture : MIA23.csv
+11:38:21 | ERROR    | Fichier ignoré 'MIA23.csv' — Colonnes manquantes dans MIA23.csv : ['Season']
+11:38:21 | INFO     | Lecture : MIA24.csv
+11:38:21 | ERROR    | Fichier ignoré 'MIA24.csv' — Colonnes manquantes dans MIA24.csv : ['Season']
+11:38:21 | INFO     | Lecture : MIA25.csv
+11:38:21 | ERROR    | Fichier ignoré 'MIA25.csv' — Colonnes manquantes dans MIA25.csv : ['Season']
+11:38:21 | INFO     | Lecture : MON22.csv
+11:38:21 | ERROR    | Fichier ignoré 'MON22.csv' — Colonnes manquantes dans MON22.csv : ['Season']
+11:38:21 | INFO     | Lecture : MON23.csv
+11:38:21 | ERROR    | Fichier ignoré 'MON23.csv' — Colonnes manquantes dans MON23.csv : ['Season']
+11:38:21 | INFO     | Lecture : MON24.csv
+11:38:21 | ERROR    | Fichier ignoré 'MON24.csv' — Colonnes manquantes dans MON24.csv : ['Season']
+11:38:21 | INFO     | Lecture : MON25.csv
+11:38:21 | ERROR    | Fichier ignoré 'MON25.csv' — Colonnes manquantes dans MON25.csv : ['Season']
+11:38:21 | INFO     | Lecture : NED22.csv
+11:38:21 | ERROR    | Fichier ignoré 'NED22.csv' — Colonnes manquantes dans NED22.csv : ['Season']
+11:38:21 | INFO     | Lecture : NED23.csv
+11:38:21 | ERROR    | Fichier ignoré 'NED23.csv' — Colonnes manquantes dans NED23.csv : ['Season']
+11:38:21 | INFO     | Lecture : NED24.csv
+11:38:21 | ERROR    | Fichier ignoré 'NED24.csv' — Colonnes manquantes dans NED24.csv : ['Season']
+11:38:21 | INFO     | Lecture : NED25.csv
+11:38:21 | ERROR    | Fichier ignoré 'NED25.csv' — Colonnes manquantes dans NED25.csv : ['Season']
+11:38:21 | INFO     | Lecture : QAT23.csv
+11:38:21 | ERROR    | Fichier ignoré 'QAT23.csv' — Colonnes manquantes dans QAT23.csv : ['Season']
+11:38:21 | INFO     | Lecture : QAT24.csv
+11:38:21 | ERROR    | Fichier ignoré 'QAT24.csv' — Colonnes manquantes dans QAT24.csv : ['Season']
+11:38:21 | INFO     | Lecture : QAT25.csv
+11:38:21 | ERROR    | Fichier ignoré 'QAT25.csv' — Colonnes manquantes dans QAT25.csv : ['Season']
+11:38:21 | INFO     | Lecture : SAU22.csv
+11:38:21 | ERROR    | Fichier ignoré 'SAU22.csv' — Colonnes manquantes dans SAU22.csv : ['Season']
+11:38:21 | INFO     | Lecture : SAU23.csv
+11:38:21 | ERROR    | Fichier ignoré 'SAU23.csv' — Colonnes manquantes dans SAU23.csv : ['Season']
+11:38:21 | INFO     | Lecture : SAU24.csv
+11:38:21 | ERROR    | Fichier ignoré 'SAU24.csv' — Colonnes manquantes dans SAU24.csv : ['Season']
+11:38:21 | INFO     | Lecture : SAU25.csv
+11:38:21 | ERROR    | Fichier ignoré 'SAU25.csv' — Colonnes manquantes dans SAU25.csv : ['Season']
+11:38:21 | INFO     | Lecture : SIN22.csv
+11:38:21 | ERROR    | Fichier ignoré 'SIN22.csv' — Colonnes manquantes dans SIN22.csv : ['Season']
+11:38:21 | INFO     | Lecture : SIN23.csv
+11:38:21 | ERROR    | Fichier ignoré 'SIN23.csv' — Colonnes manquantes dans SIN23.csv : ['Season']
+11:38:21 | INFO     | Lecture : SIN24.csv
+11:38:21 | ERROR    | Fichier ignoré 'SIN24.csv' — Colonnes manquantes dans SIN24.csv : ['Season']
+11:38:21 | INFO     | Lecture : SIN25.csv
+11:38:21 | ERROR    | Fichier ignoré 'SIN25.csv' — Colonnes manquantes dans SIN25.csv : ['Season']
+11:38:21 | INFO     | Lecture : USA22.csv
+11:38:21 | ERROR    | Fichier ignoré 'USA22.csv' — Colonnes manquantes dans USA22.csv : ['Season']
+11:38:21 | INFO     | Lecture : USA23.csv
+11:38:21 | ERROR    | Fichier ignoré 'USA23.csv' — Colonnes manquantes dans USA23.csv : ['Season']
+11:38:21 | INFO     | Lecture : USA24.csv
+11:38:21 | ERROR    | Fichier ignoré 'USA24.csv' — Colonnes manquantes dans USA24.csv : ['Season']
+11:38:21 | INFO     | Lecture : USA25.csv
+11:38:21 | ERROR    | Fichier ignoré 'USA25.csv' — Colonnes manquantes dans USA25.csv : ['Season']
+11:39:39 | INFO     |   RSDSS — Pipeline de nettoyage F1
+11:39:39 | INFO     |   Source   : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Raw\Data\Processed\by_race
+11:39:39 | INFO     |   Sortie   : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed
+11:39:39 | INFO     |   Rapports : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\reports
+11:39:39 | INFO     | 90 fichier(s) CSV trouvé(s) dans 'D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Raw\Data\Processed\by_race'
+11:39:39 | INFO     | Lecture : ABU23.csv
+11:39:39 | ERROR    | Fichier ignoré 'ABU23.csv' — Colonnes manquantes dans ABU23.csv : ['Season']
+11:39:39 | INFO     | Lecture : ABU24.csv
+11:39:39 | ERROR    | Fichier ignoré 'ABU24.csv' — Colonnes manquantes dans ABU24.csv : ['Season']
+11:39:39 | INFO     | Lecture : ABU25.csv
+11:39:39 | ERROR    | Fichier ignoré 'ABU25.csv' — Colonnes manquantes dans ABU25.csv : ['Season']
+11:39:39 | INFO     | Lecture : AUS22.csv
+11:39:39 | ERROR    | Fichier ignoré 'AUS22.csv' — Colonnes manquantes dans AUS22.csv : ['Season']
+11:39:39 | INFO     | Lecture : AUS23.csv
+11:39:39 | ERROR    | Fichier ignoré 'AUS23.csv' — Colonnes manquantes dans AUS23.csv : ['Season']
+11:39:39 | INFO     | Lecture : AUS24.csv
+11:39:39 | ERROR    | Fichier ignoré 'AUS24.csv' — Colonnes manquantes dans AUS24.csv : ['Season']
+11:39:39 | INFO     | Lecture : AUS25.csv
+11:39:39 | ERROR    | Fichier ignoré 'AUS25.csv' — Colonnes manquantes dans AUS25.csv : ['Season']
+11:39:39 | INFO     | Lecture : AUT22.csv
+11:39:39 | ERROR    | Fichier ignoré 'AUT22.csv' — Colonnes manquantes dans AUT22.csv : ['Season']
+11:39:39 | INFO     | Lecture : AUT23.csv
+11:39:39 | ERROR    | Fichier ignoré 'AUT23.csv' — Colonnes manquantes dans AUT23.csv : ['Season']
+11:39:39 | INFO     | Lecture : AUT24.csv
+11:39:39 | ERROR    | Fichier ignoré 'AUT24.csv' — Colonnes manquantes dans AUT24.csv : ['Season']
+11:39:39 | INFO     | Lecture : AUT25.csv
+11:39:39 | ERROR    | Fichier ignoré 'AUT25.csv' — Colonnes manquantes dans AUT25.csv : ['Season']
+11:39:39 | INFO     | Lecture : AZE22.csv
+11:39:39 | ERROR    | Fichier ignoré 'AZE22.csv' — Colonnes manquantes dans AZE22.csv : ['Season']
+11:39:39 | INFO     | Lecture : AZE23.csv
+11:39:39 | ERROR    | Fichier ignoré 'AZE23.csv' — Colonnes manquantes dans AZE23.csv : ['Season']
+11:39:39 | INFO     | Lecture : AZE24.csv
+11:39:39 | ERROR    | Fichier ignoré 'AZE24.csv' — Colonnes manquantes dans AZE24.csv : ['Season']
+11:39:39 | INFO     | Lecture : AZE25.csv
+11:39:39 | ERROR    | Fichier ignoré 'AZE25.csv' — Colonnes manquantes dans AZE25.csv : ['Season']
+11:39:39 | INFO     | Lecture : BEL22.csv
+11:39:39 | ERROR    | Fichier ignoré 'BEL22.csv' — Colonnes manquantes dans BEL22.csv : ['Season']
+11:39:39 | INFO     | Lecture : BEL23.csv
+11:39:39 | ERROR    | Fichier ignoré 'BEL23.csv' — Colonnes manquantes dans BEL23.csv : ['Season']
+11:39:39 | INFO     | Lecture : BEL24.csv
+11:39:39 | ERROR    | Fichier ignoré 'BEL24.csv' — Colonnes manquantes dans BEL24.csv : ['Season']
+11:39:39 | INFO     | Lecture : BEL25.csv
+11:39:39 | ERROR    | Fichier ignoré 'BEL25.csv' — Colonnes manquantes dans BEL25.csv : ['Season']
+11:39:39 | INFO     | Lecture : BHR22.csv
+11:39:39 | ERROR    | Fichier ignoré 'BHR22.csv' — Colonnes manquantes dans BHR22.csv : ['Season']
+11:39:39 | INFO     | Lecture : BHR23.csv
+11:39:39 | ERROR    | Fichier ignoré 'BHR23.csv' — Colonnes manquantes dans BHR23.csv : ['Season']
+11:39:39 | INFO     | Lecture : BHR24.csv
+11:39:39 | ERROR    | Fichier ignoré 'BHR24.csv' — Colonnes manquantes dans BHR24.csv : ['Season']
+11:39:39 | INFO     | Lecture : BHR25.csv
+11:39:39 | ERROR    | Fichier ignoré 'BHR25.csv' — Colonnes manquantes dans BHR25.csv : ['Season']
+11:39:39 | INFO     | Lecture : BRA23.csv
+11:39:39 | ERROR    | Fichier ignoré 'BRA23.csv' — Colonnes manquantes dans BRA23.csv : ['Season']
+11:39:39 | INFO     | Lecture : BRA24.csv
+11:39:39 | ERROR    | Fichier ignoré 'BRA24.csv' — Colonnes manquantes dans BRA24.csv : ['Season']
+11:39:39 | INFO     | Lecture : BRA25.csv
+11:39:39 | ERROR    | Fichier ignoré 'BRA25.csv' — Colonnes manquantes dans BRA25.csv : ['Season']
+11:39:39 | INFO     | Lecture : CAN22.csv
+11:39:39 | ERROR    | Fichier ignoré 'CAN22.csv' — Colonnes manquantes dans CAN22.csv : ['Season']
+11:39:39 | INFO     | Lecture : CAN23.csv
+11:39:39 | ERROR    | Fichier ignoré 'CAN23.csv' — Colonnes manquantes dans CAN23.csv : ['Season']
+11:39:39 | INFO     | Lecture : CAN24.csv
+11:39:39 | ERROR    | Fichier ignoré 'CAN24.csv' — Colonnes manquantes dans CAN24.csv : ['Season']
+11:39:39 | INFO     | Lecture : CAN25.csv
+11:39:39 | ERROR    | Fichier ignoré 'CAN25.csv' — Colonnes manquantes dans CAN25.csv : ['Season']
+11:39:39 | INFO     | Lecture : CHN24.csv
+11:39:39 | ERROR    | Fichier ignoré 'CHN24.csv' — Colonnes manquantes dans CHN24.csv : ['Season']
+11:39:39 | INFO     | Lecture : CHN25.csv
+11:39:39 | ERROR    | Fichier ignoré 'CHN25.csv' — Colonnes manquantes dans CHN25.csv : ['Season']
+11:39:39 | INFO     | Lecture : EMI22.csv
+11:39:39 | ERROR    | Fichier ignoré 'EMI22.csv' — Colonnes manquantes dans EMI22.csv : ['Season']
+11:39:39 | INFO     | Lecture : EMI24.csv
+11:39:39 | ERROR    | Fichier ignoré 'EMI24.csv' — Colonnes manquantes dans EMI24.csv : ['Season']
+11:39:39 | INFO     | Lecture : EMI25.csv
+11:39:39 | ERROR    | Fichier ignoré 'EMI25.csv' — Colonnes manquantes dans EMI25.csv : ['Season']
+11:39:39 | INFO     | Lecture : ESP22.csv
+11:39:39 | ERROR    | Fichier ignoré 'ESP22.csv' — Colonnes manquantes dans ESP22.csv : ['Season']
+11:39:39 | INFO     | Lecture : ESP23.csv
+11:39:39 | ERROR    | Fichier ignoré 'ESP23.csv' — Colonnes manquantes dans ESP23.csv : ['Season']
+11:39:39 | INFO     | Lecture : ESP24.csv
+11:39:39 | ERROR    | Fichier ignoré 'ESP24.csv' — Colonnes manquantes dans ESP24.csv : ['Season']
+11:39:39 | INFO     | Lecture : ESP25.csv
+11:39:39 | ERROR    | Fichier ignoré 'ESP25.csv' — Colonnes manquantes dans ESP25.csv : ['Season']
+11:39:39 | INFO     | Lecture : FRA22.csv
+11:39:39 | ERROR    | Fichier ignoré 'FRA22.csv' — Colonnes manquantes dans FRA22.csv : ['Season']
+11:39:39 | INFO     | Lecture : GBR22.csv
+11:39:39 | ERROR    | Fichier ignoré 'GBR22.csv' — Colonnes manquantes dans GBR22.csv : ['Season']
+11:39:39 | INFO     | Lecture : GBR23.csv
+11:39:39 | ERROR    | Fichier ignoré 'GBR23.csv' — Colonnes manquantes dans GBR23.csv : ['Season']
+11:39:39 | INFO     | Lecture : GBR24.csv
+11:39:39 | ERROR    | Fichier ignoré 'GBR24.csv' — Colonnes manquantes dans GBR24.csv : ['Season']
+11:39:39 | INFO     | Lecture : GBR25.csv
+11:39:39 | ERROR    | Fichier ignoré 'GBR25.csv' — Colonnes manquantes dans GBR25.csv : ['Season']
+11:39:39 | INFO     | Lecture : HUN22.csv
+11:39:39 | ERROR    | Fichier ignoré 'HUN22.csv' — Colonnes manquantes dans HUN22.csv : ['Season']
+11:39:39 | INFO     | Lecture : HUN23.csv
+11:39:39 | ERROR    | Fichier ignoré 'HUN23.csv' — Colonnes manquantes dans HUN23.csv : ['Season']
+11:39:39 | INFO     | Lecture : HUN24.csv
+11:39:39 | ERROR    | Fichier ignoré 'HUN24.csv' — Colonnes manquantes dans HUN24.csv : ['Season']
+11:39:39 | INFO     | Lecture : HUN25.csv
+11:39:39 | ERROR    | Fichier ignoré 'HUN25.csv' — Colonnes manquantes dans HUN25.csv : ['Season']
+11:39:39 | INFO     | Lecture : ITA22.csv
+11:39:39 | ERROR    | Fichier ignoré 'ITA22.csv' — Colonnes manquantes dans ITA22.csv : ['Season']
+11:39:39 | INFO     | Lecture : ITA23.csv
+11:39:39 | ERROR    | Fichier ignoré 'ITA23.csv' — Colonnes manquantes dans ITA23.csv : ['Season']
+11:39:39 | INFO     | Lecture : ITA24.csv
+11:39:39 | ERROR    | Fichier ignoré 'ITA24.csv' — Colonnes manquantes dans ITA24.csv : ['Season']
+11:39:39 | INFO     | Lecture : ITA25.csv
+11:39:39 | ERROR    | Fichier ignoré 'ITA25.csv' — Colonnes manquantes dans ITA25.csv : ['Season']
+11:39:39 | INFO     | Lecture : JPN22.csv
+11:39:39 | ERROR    | Fichier ignoré 'JPN22.csv' — Colonnes manquantes dans JPN22.csv : ['Season']
+11:39:39 | INFO     | Lecture : JPN23.csv
+11:39:39 | ERROR    | Fichier ignoré 'JPN23.csv' — Colonnes manquantes dans JPN23.csv : ['Season']
+11:39:39 | INFO     | Lecture : JPN24.csv
+11:39:39 | ERROR    | Fichier ignoré 'JPN24.csv' — Colonnes manquantes dans JPN24.csv : ['Season']
+11:39:39 | INFO     | Lecture : JPN25.csv
+11:39:39 | ERROR    | Fichier ignoré 'JPN25.csv' — Colonnes manquantes dans JPN25.csv : ['Season']
+11:39:39 | INFO     | Lecture : LAS23.csv
+11:39:39 | ERROR    | Fichier ignoré 'LAS23.csv' — Colonnes manquantes dans LAS23.csv : ['Season']
+11:39:39 | INFO     | Lecture : LAS24.csv
+11:39:39 | ERROR    | Fichier ignoré 'LAS24.csv' — Colonnes manquantes dans LAS24.csv : ['Season']
+11:39:39 | INFO     | Lecture : LAS25.csv
+11:39:39 | ERROR    | Fichier ignoré 'LAS25.csv' — Colonnes manquantes dans LAS25.csv : ['Season']
+11:39:39 | INFO     | Lecture : MEX22.csv
+11:39:39 | ERROR    | Fichier ignoré 'MEX22.csv' — Colonnes manquantes dans MEX22.csv : ['Season']
+11:39:39 | INFO     | Lecture : MEX23.csv
+11:39:39 | ERROR    | Fichier ignoré 'MEX23.csv' — Colonnes manquantes dans MEX23.csv : ['Season']
+11:39:39 | INFO     | Lecture : MEX24.csv
+11:39:39 | ERROR    | Fichier ignoré 'MEX24.csv' — Colonnes manquantes dans MEX24.csv : ['Season']
+11:39:39 | INFO     | Lecture : MEX25.csv
+11:39:39 | ERROR    | Fichier ignoré 'MEX25.csv' — Colonnes manquantes dans MEX25.csv : ['Season']
+11:39:39 | INFO     | Lecture : MIA22.csv
+11:39:40 | ERROR    | Fichier ignoré 'MIA22.csv' — Colonnes manquantes dans MIA22.csv : ['Season']
+11:39:40 | INFO     | Lecture : MIA23.csv
+11:39:40 | ERROR    | Fichier ignoré 'MIA23.csv' — Colonnes manquantes dans MIA23.csv : ['Season']
+11:39:40 | INFO     | Lecture : MIA24.csv
+11:39:40 | ERROR    | Fichier ignoré 'MIA24.csv' — Colonnes manquantes dans MIA24.csv : ['Season']
+11:39:40 | INFO     | Lecture : MIA25.csv
+11:39:40 | ERROR    | Fichier ignoré 'MIA25.csv' — Colonnes manquantes dans MIA25.csv : ['Season']
+11:39:40 | INFO     | Lecture : MON22.csv
+11:39:40 | ERROR    | Fichier ignoré 'MON22.csv' — Colonnes manquantes dans MON22.csv : ['Season']
+11:39:40 | INFO     | Lecture : MON23.csv
+11:39:40 | ERROR    | Fichier ignoré 'MON23.csv' — Colonnes manquantes dans MON23.csv : ['Season']
+11:39:40 | INFO     | Lecture : MON24.csv
+11:39:40 | ERROR    | Fichier ignoré 'MON24.csv' — Colonnes manquantes dans MON24.csv : ['Season']
+11:39:40 | INFO     | Lecture : MON25.csv
+11:39:40 | ERROR    | Fichier ignoré 'MON25.csv' — Colonnes manquantes dans MON25.csv : ['Season']
+11:39:40 | INFO     | Lecture : NED22.csv
+11:39:40 | ERROR    | Fichier ignoré 'NED22.csv' — Colonnes manquantes dans NED22.csv : ['Season']
+11:39:40 | INFO     | Lecture : NED23.csv
+11:39:40 | ERROR    | Fichier ignoré 'NED23.csv' — Colonnes manquantes dans NED23.csv : ['Season']
+11:39:40 | INFO     | Lecture : NED24.csv
+11:39:40 | ERROR    | Fichier ignoré 'NED24.csv' — Colonnes manquantes dans NED24.csv : ['Season']
+11:39:40 | INFO     | Lecture : NED25.csv
+11:39:40 | ERROR    | Fichier ignoré 'NED25.csv' — Colonnes manquantes dans NED25.csv : ['Season']
+11:39:40 | INFO     | Lecture : QAT23.csv
+11:39:40 | ERROR    | Fichier ignoré 'QAT23.csv' — Colonnes manquantes dans QAT23.csv : ['Season']
+11:39:40 | INFO     | Lecture : QAT24.csv
+11:39:40 | ERROR    | Fichier ignoré 'QAT24.csv' — Colonnes manquantes dans QAT24.csv : ['Season']
+11:39:40 | INFO     | Lecture : QAT25.csv
+11:39:40 | ERROR    | Fichier ignoré 'QAT25.csv' — Colonnes manquantes dans QAT25.csv : ['Season']
+11:39:40 | INFO     | Lecture : SAU22.csv
+11:39:40 | ERROR    | Fichier ignoré 'SAU22.csv' — Colonnes manquantes dans SAU22.csv : ['Season']
+11:39:40 | INFO     | Lecture : SAU23.csv
+11:39:40 | ERROR    | Fichier ignoré 'SAU23.csv' — Colonnes manquantes dans SAU23.csv : ['Season']
+11:39:40 | INFO     | Lecture : SAU24.csv
+11:39:40 | ERROR    | Fichier ignoré 'SAU24.csv' — Colonnes manquantes dans SAU24.csv : ['Season']
+11:39:40 | INFO     | Lecture : SAU25.csv
+11:39:40 | ERROR    | Fichier ignoré 'SAU25.csv' — Colonnes manquantes dans SAU25.csv : ['Season']
+11:39:40 | INFO     | Lecture : SIN22.csv
+11:39:40 | ERROR    | Fichier ignoré 'SIN22.csv' — Colonnes manquantes dans SIN22.csv : ['Season']
+11:39:40 | INFO     | Lecture : SIN23.csv
+11:39:40 | ERROR    | Fichier ignoré 'SIN23.csv' — Colonnes manquantes dans SIN23.csv : ['Season']
+11:39:40 | INFO     | Lecture : SIN24.csv
+11:39:40 | ERROR    | Fichier ignoré 'SIN24.csv' — Colonnes manquantes dans SIN24.csv : ['Season']
+11:39:40 | INFO     | Lecture : SIN25.csv
+11:39:40 | ERROR    | Fichier ignoré 'SIN25.csv' — Colonnes manquantes dans SIN25.csv : ['Season']
+11:39:40 | INFO     | Lecture : USA22.csv
+11:39:40 | ERROR    | Fichier ignoré 'USA22.csv' — Colonnes manquantes dans USA22.csv : ['Season']
+11:39:40 | INFO     | Lecture : USA23.csv
+11:39:40 | ERROR    | Fichier ignoré 'USA23.csv' — Colonnes manquantes dans USA23.csv : ['Season']
+11:39:40 | INFO     | Lecture : USA24.csv
+11:39:40 | ERROR    | Fichier ignoré 'USA24.csv' — Colonnes manquantes dans USA24.csv : ['Season']
+11:39:40 | INFO     | Lecture : USA25.csv
+11:39:40 | ERROR    | Fichier ignoré 'USA25.csv' — Colonnes manquantes dans USA25.csv : ['Season']
+11:45:11 | INFO     |   RSDSS — Pipeline de nettoyage F1
+11:45:11 | INFO     |   Source   : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Raw\Data\Processed\by_race
+11:45:11 | INFO     |   Sortie   : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed
+11:45:11 | INFO     |   Rapports : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\reports
+11:45:11 | INFO     | 90 fichier(s) CSV trouvé(s) dans 'D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Raw\Data\Processed\by_race'
+11:45:11 | INFO     | Lecture : ABU23.csv
+11:45:11 | DEBUG    |   → 1157 lignes × 17 colonnes chargées
+11:45:11 | INFO     | [ABU23.csv] Début du nettoyage — 1157 lignes
+11:45:11 | DEBUG    |   Types standardisés.
+11:45:11 | INFO     | [ABU23.csv] Terminé — 1157 valides, 0 supprimés/signalés
+11:45:11 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ABU23.csv  (1157 lignes)
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |  RAPPORT — ABU23.csv
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Lignes lues             : 1157
+11:45:11 | INFO     |   Doublons supprimés      : 0
+11:45:11 | INFO     |   Temps manquants         : 0
+11:45:11 | INFO     |   Tours trop courts       : 0
+11:45:11 | INFO     |   Tours trop longs        : 0
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Total supprimé/signalé  : 0
+11:45:11 | INFO     |   Lignes valides gardées  : 1157
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | DEBUG    |   Rapport JSON → ABU23_report.json
+11:45:11 | INFO     | Lecture : ABU24.csv
+11:45:11 | DEBUG    |   → 1035 lignes × 17 colonnes chargées
+11:45:11 | INFO     | [ABU24.csv] Début du nettoyage — 1035 lignes
+11:45:11 | DEBUG    |   Types standardisés.
+11:45:11 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:11 | INFO     | [ABU24.csv] Terminé — 1033 valides, 2 supprimés/signalés
+11:45:11 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ABU24.csv  (1035 lignes)
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |  RAPPORT — ABU24.csv
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Lignes lues             : 1035
+11:45:11 | INFO     |   Doublons supprimés      : 0
+11:45:11 | INFO     |   Temps manquants         : 2
+11:45:11 | INFO     |   Tours trop courts       : 0
+11:45:11 | INFO     |   Tours trop longs        : 0
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Total supprimé/signalé  : 2
+11:45:11 | INFO     |   Lignes valides gardées  : 1033
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | DEBUG    |   Rapport JSON → ABU24_report.json
+11:45:11 | INFO     | Lecture : ABU25.csv
+11:45:11 | DEBUG    |   → 1156 lignes × 17 colonnes chargées
+11:45:11 | INFO     | [ABU25.csv] Début du nettoyage — 1156 lignes
+11:45:11 | DEBUG    |   Types standardisés.
+11:45:11 | INFO     | [ABU25.csv] Terminé — 1156 valides, 0 supprimés/signalés
+11:45:11 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ABU25.csv  (1156 lignes)
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |  RAPPORT — ABU25.csv
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Lignes lues             : 1156
+11:45:11 | INFO     |   Doublons supprimés      : 0
+11:45:11 | INFO     |   Temps manquants         : 0
+11:45:11 | INFO     |   Tours trop courts       : 0
+11:45:11 | INFO     |   Tours trop longs        : 0
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Total supprimé/signalé  : 0
+11:45:11 | INFO     |   Lignes valides gardées  : 1156
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | DEBUG    |   Rapport JSON → ABU25_report.json
+11:45:11 | INFO     | Lecture : AUS22.csv
+11:45:11 | DEBUG    |   → 1045 lignes × 17 colonnes chargées
+11:45:11 | INFO     | [AUS22.csv] Début du nettoyage — 1045 lignes
+11:45:11 | DEBUG    |   Types standardisés.
+11:45:11 | DEBUG    |   19 tour(s) avec temps manquant signalé(s).
+11:45:11 | INFO     | [AUS22.csv] Terminé — 1026 valides, 19 supprimés/signalés
+11:45:11 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AUS22.csv  (1045 lignes)
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |  RAPPORT — AUS22.csv
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Lignes lues             : 1045
+11:45:11 | INFO     |   Doublons supprimés      : 0
+11:45:11 | INFO     |   Temps manquants         : 19
+11:45:11 | INFO     |   Tours trop courts       : 0
+11:45:11 | INFO     |   Tours trop longs        : 0
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Total supprimé/signalé  : 19
+11:45:11 | INFO     |   Lignes valides gardées  : 1026
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | DEBUG    |   Rapport JSON → AUS22_report.json
+11:45:11 | INFO     | Lecture : AUS23.csv
+11:45:11 | DEBUG    |   → 1003 lignes × 17 colonnes chargées
+11:45:11 | INFO     | [AUS23.csv] Début du nettoyage — 1003 lignes
+11:45:11 | DEBUG    |   Types standardisés.
+11:45:11 | DEBUG    |   102 tour(s) avec temps manquant signalé(s).
+11:45:11 | INFO     | [AUS23.csv] Terminé — 901 valides, 102 supprimés/signalés
+11:45:11 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AUS23.csv  (1003 lignes)
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |  RAPPORT — AUS23.csv
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Lignes lues             : 1003
+11:45:11 | INFO     |   Doublons supprimés      : 0
+11:45:11 | INFO     |   Temps manquants         : 102
+11:45:11 | INFO     |   Tours trop courts       : 0
+11:45:11 | INFO     |   Tours trop longs        : 0
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Total supprimé/signalé  : 102
+11:45:11 | INFO     |   Lignes valides gardées  : 901
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | DEBUG    |   Rapport JSON → AUS23_report.json
+11:45:11 | INFO     | Lecture : AUS24.csv
+11:45:11 | DEBUG    |   → 998 lignes × 17 colonnes chargées
+11:45:11 | INFO     | [AUS24.csv] Début du nettoyage — 998 lignes
+11:45:11 | DEBUG    |   Types standardisés.
+11:45:11 | DEBUG    |   3 tour(s) avec temps manquant signalé(s).
+11:45:11 | INFO     | [AUS24.csv] Terminé — 995 valides, 3 supprimés/signalés
+11:45:11 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AUS24.csv  (998 lignes)
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |  RAPPORT — AUS24.csv
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Lignes lues             : 998
+11:45:11 | INFO     |   Doublons supprimés      : 0
+11:45:11 | INFO     |   Temps manquants         : 3
+11:45:11 | INFO     |   Tours trop courts       : 0
+11:45:11 | INFO     |   Tours trop longs        : 0
+11:45:11 | INFO     | --------------------------------------------------
+11:45:11 | INFO     |   Total supprimé/signalé  : 3
+11:45:11 | INFO     |   Lignes valides gardées  : 995
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → AUS24_report.json
+11:45:12 | INFO     | Lecture : AUS25.csv
+11:45:12 | DEBUG    |   → 927 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [AUS25.csv] Début du nettoyage — 927 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   69 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [AUS25.csv] Terminé — 858 valides, 69 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AUS25.csv  (927 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — AUS25.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 927
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 69
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 69
+11:45:12 | INFO     |   Lignes valides gardées  : 858
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → AUS25_report.json
+11:45:12 | INFO     | Lecture : AUT22.csv
+11:45:12 | DEBUG    |   → 1324 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [AUT22.csv] Début du nettoyage — 1324 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [AUT22.csv] Terminé — 1323 valides, 1 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AUT22.csv  (1324 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — AUT22.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1324
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 1
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 1
+11:45:12 | INFO     |   Lignes valides gardées  : 1323
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → AUT22_report.json
+11:45:12 | INFO     | Lecture : AUT23.csv
+11:45:12 | DEBUG    |   → 1354 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [AUT23.csv] Début du nettoyage — 1354 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [AUT23.csv] Terminé — 1352 valides, 2 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AUT23.csv  (1354 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — AUT23.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1354
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 2
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 2
+11:45:12 | INFO     |   Lignes valides gardées  : 1352
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → AUT23_report.json
+11:45:12 | INFO     | Lecture : AUT24.csv
+11:45:12 | DEBUG    |   → 1405 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [AUT24.csv] Début du nettoyage — 1405 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | INFO     | [AUT24.csv] Terminé — 1405 valides, 0 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AUT24.csv  (1405 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — AUT24.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1405
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 0
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 0
+11:45:12 | INFO     |   Lignes valides gardées  : 1405
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → AUT24_report.json
+11:45:12 | INFO     | Lecture : AUT25.csv
+11:45:12 | DEBUG    |   → 1126 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [AUT25.csv] Début du nettoyage — 1126 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [AUT25.csv] Terminé — 1124 valides, 2 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AUT25.csv  (1126 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — AUT25.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1126
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 2
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 2
+11:45:12 | INFO     |   Lignes valides gardées  : 1124
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → AUT25_report.json
+11:45:12 | INFO     | Lecture : AZE22.csv
+11:45:12 | DEBUG    |   → 891 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [AZE22.csv] Début du nettoyage — 891 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   19 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [AZE22.csv] Terminé — 872 valides, 19 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AZE22.csv  (891 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — AZE22.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 891
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 19
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 19
+11:45:12 | INFO     |   Lignes valides gardées  : 872
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → AZE22_report.json
+11:45:12 | INFO     | Lecture : AZE23.csv
+11:45:12 | DEBUG    |   → 962 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [AZE23.csv] Début du nettoyage — 962 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   32 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [AZE23.csv] Terminé — 930 valides, 32 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AZE23.csv  (962 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — AZE23.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 962
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 32
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 32
+11:45:12 | INFO     |   Lignes valides gardées  : 930
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → AZE23_report.json
+11:45:12 | INFO     | Lecture : AZE24.csv
+11:45:12 | DEBUG    |   → 973 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [AZE24.csv] Début du nettoyage — 973 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   21 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [AZE24.csv] Terminé — 952 valides, 21 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AZE24.csv  (973 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — AZE24.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 973
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 21
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 21
+11:45:12 | INFO     |   Lignes valides gardées  : 952
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → AZE24_report.json
+11:45:12 | INFO     | Lecture : AZE25.csv
+11:45:12 | DEBUG    |   → 968 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [AZE25.csv] Début du nettoyage — 968 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   58 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [AZE25.csv] Terminé — 910 valides, 58 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\AZE25.csv  (968 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — AZE25.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 968
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 58
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 58
+11:45:12 | INFO     |   Lignes valides gardées  : 910
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → AZE25_report.json
+11:45:12 | INFO     | Lecture : BEL22.csv
+11:45:12 | DEBUG    |   → 792 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BEL22.csv] Début du nettoyage — 792 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   40 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BEL22.csv] Terminé — 752 valides, 40 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BEL22.csv  (792 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BEL22.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 792
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 40
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 40
+11:45:12 | INFO     |   Lignes valides gardées  : 752
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BEL22_report.json
+11:45:12 | INFO     | Lecture : BEL23.csv
+11:45:12 | DEBUG    |   → 816 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BEL23.csv] Début du nettoyage — 816 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BEL23.csv] Terminé — 815 valides, 1 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BEL23.csv  (816 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BEL23.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 816
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 1
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 1
+11:45:12 | INFO     |   Lignes valides gardées  : 815
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BEL23_report.json
+11:45:12 | INFO     | Lecture : BEL24.csv
+11:45:12 | DEBUG    |   → 841 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BEL24.csv] Début du nettoyage — 841 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BEL24.csv] Terminé — 840 valides, 1 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BEL24.csv  (841 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BEL24.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 841
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 1
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 1
+11:45:12 | INFO     |   Lignes valides gardées  : 840
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BEL24_report.json
+11:45:12 | INFO     | Lecture : BEL25.csv
+11:45:12 | DEBUG    |   → 879 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BEL25.csv] Début du nettoyage — 879 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   60 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BEL25.csv] Terminé — 819 valides, 60 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BEL25.csv  (879 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BEL25.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 879
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 60
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 60
+11:45:12 | INFO     |   Lignes valides gardées  : 819
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BEL25_report.json
+11:45:12 | INFO     | Lecture : BHR22.csv
+11:45:12 | DEBUG    |   → 1125 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BHR22.csv] Début du nettoyage — 1125 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   7 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BHR22.csv] Terminé — 1118 valides, 7 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BHR22.csv  (1125 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BHR22.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1125
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 7
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 7
+11:45:12 | INFO     |   Lignes valides gardées  : 1118
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BHR22_report.json
+11:45:12 | INFO     | Lecture : BHR23.csv
+11:45:12 | DEBUG    |   → 1056 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BHR23.csv] Début du nettoyage — 1056 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BHR23.csv] Terminé — 1055 valides, 1 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BHR23.csv  (1056 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BHR23.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1056
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 1
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 1
+11:45:12 | INFO     |   Lignes valides gardées  : 1055
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BHR23_report.json
+11:45:12 | INFO     | Lecture : BHR24.csv
+11:45:12 | DEBUG    |   → 1129 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BHR24.csv] Début du nettoyage — 1129 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BHR24.csv] Terminé — 1127 valides, 2 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BHR24.csv  (1129 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BHR24.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1129
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 2
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 2
+11:45:12 | INFO     |   Lignes valides gardées  : 1127
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BHR24_report.json
+11:45:12 | INFO     | Lecture : BHR25.csv
+11:45:12 | DEBUG    |   → 1128 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BHR25.csv] Début du nettoyage — 1128 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   13 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BHR25.csv] Terminé — 1115 valides, 13 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BHR25.csv  (1128 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BHR25.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1128
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 13
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 13
+11:45:12 | INFO     |   Lignes valides gardées  : 1115
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BHR25_report.json
+11:45:12 | INFO     | Lecture : BRA23.csv
+11:45:12 | DEBUG    |   → 1108 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BRA23.csv] Début du nettoyage — 1108 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   19 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BRA23.csv] Terminé — 1089 valides, 19 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BRA23.csv  (1108 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BRA23.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1108
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 19
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 19
+11:45:12 | INFO     |   Lignes valides gardées  : 1089
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BRA23_report.json
+11:45:12 | INFO     | Lecture : BRA24.csv
+11:45:12 | DEBUG    |   → 1134 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BRA24.csv] Début du nettoyage — 1134 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   37 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BRA24.csv] Terminé — 1097 valides, 37 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BRA24.csv  (1134 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BRA24.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1134
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 37
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 37
+11:45:12 | INFO     |   Lignes valides gardées  : 1097
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BRA24_report.json
+11:45:12 | INFO     | Lecture : BRA25.csv
+11:45:12 | DEBUG    |   → 1251 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [BRA25.csv] Début du nettoyage — 1251 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:12 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:12 | INFO     | [BRA25.csv] Terminé — 1249 valides, 2 supprimés/signalés
+11:45:12 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\BRA25.csv  (1251 lignes)
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |  RAPPORT — BRA25.csv
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Lignes lues             : 1251
+11:45:12 | INFO     |   Doublons supprimés      : 0
+11:45:12 | INFO     |   Temps manquants         : 2
+11:45:12 | INFO     |   Tours trop courts       : 0
+11:45:12 | INFO     |   Tours trop longs        : 0
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | INFO     |   Total supprimé/signalé  : 2
+11:45:12 | INFO     |   Lignes valides gardées  : 1249
+11:45:12 | INFO     | --------------------------------------------------
+11:45:12 | DEBUG    |   Rapport JSON → BRA25_report.json
+11:45:12 | INFO     | Lecture : CAN22.csv
+11:45:12 | DEBUG    |   → 1264 lignes × 17 colonnes chargées
+11:45:12 | INFO     | [CAN22.csv] Début du nettoyage — 1264 lignes
+11:45:12 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [CAN22.csv] Terminé — 1262 valides, 2 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\CAN22.csv  (1264 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — CAN22.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1264
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 2
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 2
+11:45:13 | INFO     |   Lignes valides gardées  : 1262
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → CAN22_report.json
+11:45:13 | INFO     | Lecture : CAN23.csv
+11:45:13 | DEBUG    |   → 1317 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [CAN23.csv] Début du nettoyage — 1317 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   3 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [CAN23.csv] Terminé — 1314 valides, 3 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\CAN23.csv  (1317 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — CAN23.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1317
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 3
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 3
+11:45:13 | INFO     |   Lignes valides gardées  : 1314
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → CAN23_report.json
+11:45:13 | INFO     | Lecture : CAN24.csv
+11:45:13 | DEBUG    |   → 1272 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [CAN24.csv] Début du nettoyage — 1272 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   5 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [CAN24.csv] Terminé — 1267 valides, 5 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\CAN24.csv  (1272 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — CAN24.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1272
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 5
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 5
+11:45:13 | INFO     |   Lignes valides gardées  : 1267
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → CAN24_report.json
+11:45:13 | INFO     | Lecture : CAN25.csv
+11:45:13 | DEBUG    |   → 1349 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [CAN25.csv] Début du nettoyage — 1349 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   3 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [CAN25.csv] Terminé — 1346 valides, 3 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\CAN25.csv  (1349 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — CAN25.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1349
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 3
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 3
+11:45:13 | INFO     |   Lignes valides gardées  : 1346
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → CAN25_report.json
+11:45:13 | INFO     | Lecture : CHN24.csv
+11:45:13 | DEBUG    |   → 1032 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [CHN24.csv] Début du nettoyage — 1032 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   25 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [CHN24.csv] Terminé — 1007 valides, 25 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\CHN24.csv  (1032 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — CHN24.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1032
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 25
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 25
+11:45:13 | INFO     |   Lignes valides gardées  : 1007
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → CHN24_report.json
+11:45:13 | INFO     | Lecture : CHN25.csv
+11:45:13 | DEBUG    |   → 1065 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [CHN25.csv] Début du nettoyage — 1065 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | INFO     | [CHN25.csv] Terminé — 1065 valides, 0 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\CHN25.csv  (1065 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — CHN25.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1065
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 0
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 0
+11:45:13 | INFO     |   Lignes valides gardées  : 1065
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → CHN25_report.json
+11:45:13 | INFO     | Lecture : EMI22.csv
+11:45:13 | DEBUG    |   → 1132 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [EMI22.csv] Début du nettoyage — 1132 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   6 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [EMI22.csv] Terminé — 1126 valides, 6 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\EMI22.csv  (1132 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — EMI22.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1132
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 6
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 6
+11:45:13 | INFO     |   Lignes valides gardées  : 1126
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → EMI22_report.json
+11:45:13 | INFO     | Lecture : EMI24.csv
+11:45:13 | DEBUG    |   → 1238 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [EMI24.csv] Début du nettoyage — 1238 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [EMI24.csv] Terminé — 1237 valides, 1 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\EMI24.csv  (1238 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — EMI24.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1238
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 1
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 1
+11:45:13 | INFO     |   Lignes valides gardées  : 1237
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → EMI24_report.json
+11:45:13 | INFO     | Lecture : EMI25.csv
+11:45:13 | DEBUG    |   → 1207 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [EMI25.csv] Début du nettoyage — 1207 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [EMI25.csv] Terminé — 1205 valides, 2 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\EMI25.csv  (1207 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — EMI25.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1207
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 2
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 2
+11:45:13 | INFO     |   Lignes valides gardées  : 1205
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → EMI25_report.json
+11:45:13 | INFO     | Lecture : ESP22.csv
+11:45:13 | DEBUG    |   → 1230 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [ESP22.csv] Début du nettoyage — 1230 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | INFO     | [ESP22.csv] Terminé — 1230 valides, 0 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ESP22.csv  (1230 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — ESP22.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1230
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 0
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 0
+11:45:13 | INFO     |   Lignes valides gardées  : 1230
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → ESP22_report.json
+11:45:13 | INFO     | Lecture : ESP23.csv
+11:45:13 | DEBUG    |   → 1312 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [ESP23.csv] Début du nettoyage — 1312 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | INFO     | [ESP23.csv] Terminé — 1312 valides, 0 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ESP23.csv  (1312 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — ESP23.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1312
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 0
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 0
+11:45:13 | INFO     |   Lignes valides gardées  : 1312
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → ESP23_report.json
+11:45:13 | INFO     | Lecture : ESP24.csv
+11:45:13 | DEBUG    |   → 1310 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [ESP24.csv] Début du nettoyage — 1310 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | INFO     | [ESP24.csv] Terminé — 1310 valides, 0 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ESP24.csv  (1310 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — ESP24.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1310
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 0
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 0
+11:45:13 | INFO     |   Lignes valides gardées  : 1310
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → ESP24_report.json
+11:45:13 | INFO     | Lecture : ESP25.csv
+11:45:13 | DEBUG    |   → 1203 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [ESP25.csv] Début du nettoyage — 1203 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [ESP25.csv] Terminé — 1202 valides, 1 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ESP25.csv  (1203 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — ESP25.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1203
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 1
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 1
+11:45:13 | INFO     |   Lignes valides gardées  : 1202
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → ESP25_report.json
+11:45:13 | INFO     | Lecture : FRA22.csv
+11:45:13 | DEBUG    |   → 958 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [FRA22.csv] Début du nettoyage — 958 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   13 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [FRA22.csv] Terminé — 945 valides, 13 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\FRA22.csv  (958 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — FRA22.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 958
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 13
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 13
+11:45:13 | INFO     |   Lignes valides gardées  : 945
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → FRA22_report.json
+11:45:13 | INFO     | Lecture : GBR22.csv
+11:45:13 | DEBUG    |   → 815 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [GBR22.csv] Début du nettoyage — 815 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   42 tour(s) avec temps manquant signalé(s).
+11:45:13 | DEBUG    |   1 tour(s) trop long(s) (> 250.0s) signalé(s).
+11:45:13 | INFO     | [GBR22.csv] Terminé — 772 valides, 43 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\GBR22.csv  (815 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — GBR22.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 815
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 42
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 1
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 43
+11:45:13 | INFO     |   Lignes valides gardées  : 772
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → GBR22_report.json
+11:45:13 | INFO     | Lecture : GBR23.csv
+11:45:13 | DEBUG    |   → 971 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [GBR23.csv] Début du nettoyage — 971 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   5 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [GBR23.csv] Terminé — 966 valides, 5 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\GBR23.csv  (971 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — GBR23.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 971
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 5
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 5
+11:45:13 | INFO     |   Lignes valides gardées  : 966
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → GBR23_report.json
+11:45:13 | INFO     | Lecture : GBR24.csv
+11:45:13 | DEBUG    |   → 960 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [GBR24.csv] Début du nettoyage — 960 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | INFO     | [GBR24.csv] Terminé — 960 valides, 0 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\GBR24.csv  (960 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — GBR24.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 960
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 0
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 0
+11:45:13 | INFO     |   Lignes valides gardées  : 960
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → GBR24_report.json
+11:45:13 | INFO     | Lecture : GBR25.csv
+11:45:13 | DEBUG    |   → 825 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [GBR25.csv] Début du nettoyage — 825 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   91 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [GBR25.csv] Terminé — 734 valides, 91 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\GBR25.csv  (825 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — GBR25.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 825
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 91
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 91
+11:45:13 | INFO     |   Lignes valides gardées  : 734
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → GBR25_report.json
+11:45:13 | INFO     | Lecture : HUN22.csv
+11:45:13 | DEBUG    |   → 1383 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [HUN22.csv] Début du nettoyage — 1383 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:13 | INFO     | [HUN22.csv] Terminé — 1382 valides, 1 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\HUN22.csv  (1383 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — HUN22.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1383
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 1
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 1
+11:45:13 | INFO     |   Lignes valides gardées  : 1382
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | DEBUG    |   Rapport JSON → HUN22_report.json
+11:45:13 | INFO     | Lecture : HUN23.csv
+11:45:13 | DEBUG    |   → 1252 lignes × 17 colonnes chargées
+11:45:13 | INFO     | [HUN23.csv] Début du nettoyage — 1252 lignes
+11:45:13 | DEBUG    |   Types standardisés.
+11:45:13 | INFO     | [HUN23.csv] Terminé — 1252 valides, 0 supprimés/signalés
+11:45:13 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\HUN23.csv  (1252 lignes)
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |  RAPPORT — HUN23.csv
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Lignes lues             : 1252
+11:45:13 | INFO     |   Doublons supprimés      : 0
+11:45:13 | INFO     |   Temps manquants         : 0
+11:45:13 | INFO     |   Tours trop courts       : 0
+11:45:13 | INFO     |   Tours trop longs        : 0
+11:45:13 | INFO     | --------------------------------------------------
+11:45:13 | INFO     |   Total supprimé/signalé  : 0
+11:45:13 | INFO     |   Lignes valides gardées  : 1252
+11:45:13 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → HUN23_report.json
+11:45:14 | INFO     | Lecture : HUN24.csv
+11:45:14 | DEBUG    |   → 1355 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [HUN24.csv] Début du nettoyage — 1355 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | INFO     | [HUN24.csv] Terminé — 1355 valides, 0 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\HUN24.csv  (1355 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — HUN24.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1355
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 0
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 0
+11:45:14 | INFO     |   Lignes valides gardées  : 1355
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → HUN24_report.json
+11:45:14 | INFO     | Lecture : HUN25.csv
+11:45:14 | DEBUG    |   → 1368 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [HUN25.csv] Début du nettoyage — 1368 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | INFO     | [HUN25.csv] Terminé — 1368 valides, 0 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\HUN25.csv  (1368 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — HUN25.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1368
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 0
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 0
+11:45:14 | INFO     |   Lignes valides gardées  : 1368
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → HUN25_report.json
+11:45:14 | INFO     | Lecture : ITA22.csv
+11:45:14 | DEBUG    |   → 971 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [ITA22.csv] Début du nettoyage — 971 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   3 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [ITA22.csv] Terminé — 968 valides, 3 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ITA22.csv  (971 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — ITA22.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 971
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 3
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 3
+11:45:14 | INFO     |   Lignes valides gardées  : 968
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → ITA22_report.json
+11:45:14 | INFO     | Lecture : ITA23.csv
+11:45:14 | DEBUG    |   → 957 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [ITA23.csv] Début du nettoyage — 957 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   9 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [ITA23.csv] Terminé — 948 valides, 9 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ITA23.csv  (957 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — ITA23.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 957
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 9
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 9
+11:45:14 | INFO     |   Lignes valides gardées  : 948
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → ITA23_report.json
+11:45:14 | INFO     | Lecture : ITA24.csv
+11:45:14 | DEBUG    |   → 1008 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [ITA24.csv] Début du nettoyage — 1008 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | INFO     | [ITA24.csv] Terminé — 1008 valides, 0 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ITA24.csv  (1008 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — ITA24.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1008
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 0
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 0
+11:45:14 | INFO     |   Lignes valides gardées  : 1008
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → ITA24_report.json
+11:45:14 | INFO     | Lecture : ITA25.csv
+11:45:14 | DEBUG    |   → 974 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [ITA25.csv] Début du nettoyage — 974 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | INFO     | [ITA25.csv] Terminé — 974 valides, 0 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\ITA25.csv  (974 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — ITA25.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 974
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 0
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 0
+11:45:14 | INFO     |   Lignes valides gardées  : 974
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → ITA25_report.json
+11:45:14 | INFO     | Lecture : JPN22.csv
+11:45:14 | DEBUG    |   → 507 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [JPN22.csv] Début du nettoyage — 507 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   75 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [JPN22.csv] Terminé — 432 valides, 75 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\JPN22.csv  (507 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — JPN22.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 507
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 75
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 75
+11:45:14 | INFO     |   Lignes valides gardées  : 432
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → JPN22_report.json
+11:45:14 | INFO     | Lecture : JPN23.csv
+11:45:14 | DEBUG    |   → 880 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [JPN23.csv] Début du nettoyage — 880 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   61 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [JPN23.csv] Terminé — 819 valides, 61 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\JPN23.csv  (880 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — JPN23.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 880
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 61
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 61
+11:45:14 | INFO     |   Lignes valides gardées  : 819
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → JPN23_report.json
+11:45:14 | INFO     | Lecture : JPN24.csv
+11:45:14 | DEBUG    |   → 907 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [JPN24.csv] Début du nettoyage — 907 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   31 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [JPN24.csv] Terminé — 876 valides, 31 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\JPN24.csv  (907 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — JPN24.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 907
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 31
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 31
+11:45:14 | INFO     |   Lignes valides gardées  : 876
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → JPN24_report.json
+11:45:14 | INFO     | Lecture : JPN25.csv
+11:45:14 | DEBUG    |   → 1059 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [JPN25.csv] Début du nettoyage — 1059 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | INFO     | [JPN25.csv] Terminé — 1059 valides, 0 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\JPN25.csv  (1059 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — JPN25.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1059
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 0
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 0
+11:45:14 | INFO     |   Lignes valides gardées  : 1059
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → JPN25_report.json
+11:45:14 | INFO     | Lecture : LAS23.csv
+11:45:14 | DEBUG    |   → 946 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [LAS23.csv] Début du nettoyage — 946 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   85 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [LAS23.csv] Terminé — 861 valides, 85 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\LAS23.csv  (946 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — LAS23.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 946
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 85
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 85
+11:45:14 | INFO     |   Lignes valides gardées  : 861
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → LAS23_report.json
+11:45:14 | INFO     | Lecture : LAS24.csv
+11:45:14 | DEBUG    |   → 938 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [LAS24.csv] Début du nettoyage — 938 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | INFO     | [LAS24.csv] Terminé — 938 valides, 0 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\LAS24.csv  (938 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — LAS24.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 938
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 0
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 0
+11:45:14 | INFO     |   Lignes valides gardées  : 938
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → LAS24_report.json
+11:45:14 | INFO     | Lecture : LAS25.csv
+11:45:14 | DEBUG    |   → 886 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [LAS25.csv] Début du nettoyage — 886 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [LAS25.csv] Terminé — 884 valides, 2 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\LAS25.csv  (886 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — LAS25.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 886
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 2
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 2
+11:45:14 | INFO     |   Lignes valides gardées  : 884
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → LAS25_report.json
+11:45:14 | INFO     | Lecture : MEX22.csv
+11:45:14 | DEBUG    |   → 1379 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [MEX22.csv] Début du nettoyage — 1379 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [MEX22.csv] Terminé — 1378 valides, 1 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MEX22.csv  (1379 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — MEX22.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1379
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 1
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 1
+11:45:14 | INFO     |   Lignes valides gardées  : 1378
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → MEX22_report.json
+11:45:14 | INFO     | Lecture : MEX23.csv
+11:45:14 | DEBUG    |   → 1282 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [MEX23.csv] Début du nettoyage — 1282 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   30 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [MEX23.csv] Terminé — 1252 valides, 30 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MEX23.csv  (1282 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — MEX23.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1282
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 30
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 30
+11:45:14 | INFO     |   Lignes valides gardées  : 1252
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → MEX23_report.json
+11:45:14 | INFO     | Lecture : MEX24.csv
+11:45:14 | DEBUG    |   → 1215 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [MEX24.csv] Début du nettoyage — 1215 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [MEX24.csv] Terminé — 1213 valides, 2 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MEX24.csv  (1215 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — MEX24.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1215
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 2
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 2
+11:45:14 | INFO     |   Lignes valides gardées  : 1213
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → MEX24_report.json
+11:45:14 | INFO     | Lecture : MEX25.csv
+11:45:14 | DEBUG    |   → 1263 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [MEX25.csv] Début du nettoyage — 1263 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [MEX25.csv] Terminé — 1262 valides, 1 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MEX25.csv  (1263 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — MEX25.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1263
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 1
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 1
+11:45:14 | INFO     |   Lignes valides gardées  : 1262
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → MEX25_report.json
+11:45:14 | INFO     | Lecture : MIA22.csv
+11:45:14 | DEBUG    |   → 1057 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [MIA22.csv] Début du nettoyage — 1057 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   35 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [MIA22.csv] Terminé — 1022 valides, 35 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MIA22.csv  (1057 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — MIA22.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1057
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 35
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 35
+11:45:14 | INFO     |   Lignes valides gardées  : 1022
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → MIA22_report.json
+11:45:14 | INFO     | Lecture : MIA23.csv
+11:45:14 | DEBUG    |   → 1138 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [MIA23.csv] Début du nettoyage — 1138 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | INFO     | [MIA23.csv] Terminé — 1138 valides, 0 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MIA23.csv  (1138 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — MIA23.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1138
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 0
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 0
+11:45:14 | INFO     |   Lignes valides gardées  : 1138
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → MIA23_report.json
+11:45:14 | INFO     | Lecture : MIA24.csv
+11:45:14 | DEBUG    |   → 1111 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [MIA24.csv] Début du nettoyage — 1111 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   5 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [MIA24.csv] Terminé — 1106 valides, 5 supprimés/signalés
+11:45:14 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MIA24.csv  (1111 lignes)
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |  RAPPORT — MIA24.csv
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Lignes lues             : 1111
+11:45:14 | INFO     |   Doublons supprimés      : 0
+11:45:14 | INFO     |   Temps manquants         : 5
+11:45:14 | INFO     |   Tours trop courts       : 0
+11:45:14 | INFO     |   Tours trop longs        : 0
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | INFO     |   Total supprimé/signalé  : 5
+11:45:14 | INFO     |   Lignes valides gardées  : 1106
+11:45:14 | INFO     | --------------------------------------------------
+11:45:14 | DEBUG    |   Rapport JSON → MIA24_report.json
+11:45:14 | INFO     | Lecture : MIA25.csv
+11:45:14 | DEBUG    |   → 1005 lignes × 17 colonnes chargées
+11:45:14 | INFO     | [MIA25.csv] Début du nettoyage — 1005 lignes
+11:45:14 | DEBUG    |   Types standardisés.
+11:45:14 | DEBUG    |   3 tour(s) avec temps manquant signalé(s).
+11:45:14 | INFO     | [MIA25.csv] Terminé — 1002 valides, 3 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MIA25.csv  (1005 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — MIA25.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1005
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 3
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 3
+11:45:15 | INFO     |   Lignes valides gardées  : 1002
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → MIA25_report.json
+11:45:15 | INFO     | Lecture : MON22.csv
+11:45:15 | DEBUG    |   → 1179 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [MON22.csv] Début du nettoyage — 1179 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   26 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [MON22.csv] Terminé — 1153 valides, 26 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MON22.csv  (1179 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — MON22.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1179
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 26
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 26
+11:45:15 | INFO     |   Lignes valides gardées  : 1153
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → MON22_report.json
+11:45:15 | INFO     | Lecture : MON23.csv
+11:45:15 | DEBUG    |   → 1515 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [MON23.csv] Début du nettoyage — 1515 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   3 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [MON23.csv] Terminé — 1512 valides, 3 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MON23.csv  (1515 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — MON23.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1515
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 3
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 3
+11:45:15 | INFO     |   Lignes valides gardées  : 1512
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → MON23_report.json
+11:45:15 | INFO     | Lecture : MON24.csv
+11:45:15 | DEBUG    |   → 1237 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [MON24.csv] Début du nettoyage — 1237 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   11 tour(s) avec temps manquant signalé(s).
+11:45:15 | DEBUG    |   16 tour(s) trop long(s) (> 250.0s) signalé(s).
+11:45:15 | INFO     | [MON24.csv] Terminé — 1210 valides, 27 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MON24.csv  (1237 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — MON24.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1237
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 11
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 16
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 27
+11:45:15 | INFO     |   Lignes valides gardées  : 1210
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → MON24_report.json
+11:45:15 | INFO     | Lecture : MON25.csv
+11:45:15 | DEBUG    |   → 1425 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [MON25.csv] Début du nettoyage — 1425 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [MON25.csv] Terminé — 1423 valides, 2 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\MON25.csv  (1425 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — MON25.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1425
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 2
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 2
+11:45:15 | INFO     |   Lignes valides gardées  : 1423
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → MON25_report.json
+11:45:15 | INFO     | Lecture : NED22.csv
+11:45:15 | DEBUG    |   → 1392 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [NED22.csv] Début du nettoyage — 1392 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   4 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [NED22.csv] Terminé — 1388 valides, 4 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\NED22.csv  (1392 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — NED22.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1392
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 4
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 4
+11:45:15 | INFO     |   Lignes valides gardées  : 1388
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → NED22_report.json
+11:45:15 | INFO     | Lecture : NED23.csv
+11:45:15 | DEBUG    |   → 1343 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [NED23.csv] Début du nettoyage — 1343 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   33 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [NED23.csv] Terminé — 1310 valides, 33 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\NED23.csv  (1343 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — NED23.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1343
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 33
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 33
+11:45:15 | INFO     |   Lignes valides gardées  : 1310
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → NED23_report.json
+11:45:15 | INFO     | Lecture : NED24.csv
+11:45:15 | DEBUG    |   → 1426 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [NED24.csv] Début du nettoyage — 1426 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | INFO     | [NED24.csv] Terminé — 1426 valides, 0 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\NED24.csv  (1426 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — NED24.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1426
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 0
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 0
+11:45:15 | INFO     |   Lignes valides gardées  : 1426
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → NED24_report.json
+11:45:15 | INFO     | Lecture : NED25.csv
+11:45:15 | DEBUG    |   → 1364 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [NED25.csv] Début du nettoyage — 1364 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   2 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [NED25.csv] Terminé — 1362 valides, 2 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\NED25.csv  (1364 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — NED25.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1364
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 2
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 2
+11:45:15 | INFO     |   Lignes valides gardées  : 1362
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → NED25_report.json
+11:45:15 | INFO     | Lecture : QAT23.csv
+11:45:15 | DEBUG    |   → 1006 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [QAT23.csv] Début du nettoyage — 1006 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   6 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [QAT23.csv] Terminé — 1000 valides, 6 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\QAT23.csv  (1006 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — QAT23.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1006
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 6
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 6
+11:45:15 | INFO     |   Lignes valides gardées  : 1000
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → QAT23_report.json
+11:45:15 | INFO     | Lecture : QAT24.csv
+11:45:15 | DEBUG    |   → 943 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [QAT24.csv] Début du nettoyage — 943 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   20 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [QAT24.csv] Terminé — 923 valides, 20 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\QAT24.csv  (943 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — QAT24.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 943
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 20
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 20
+11:45:15 | INFO     |   Lignes valides gardées  : 923
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → QAT24_report.json
+11:45:15 | INFO     | Lecture : QAT25.csv
+11:45:15 | DEBUG    |   → 1067 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [QAT25.csv] Début du nettoyage — 1067 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   23 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [QAT25.csv] Terminé — 1044 valides, 23 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\QAT25.csv  (1067 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — QAT25.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1067
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 23
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 23
+11:45:15 | INFO     |   Lignes valides gardées  : 1044
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → QAT25_report.json
+11:45:15 | INFO     | Lecture : SAU22.csv
+11:45:15 | DEBUG    |   → 820 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [SAU22.csv] Début du nettoyage — 820 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   48 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [SAU22.csv] Terminé — 772 valides, 48 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\SAU22.csv  (820 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — SAU22.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 820
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 48
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 48
+11:45:15 | INFO     |   Lignes valides gardées  : 772
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → SAU22_report.json
+11:45:15 | INFO     | Lecture : SAU23.csv
+11:45:15 | DEBUG    |   → 943 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [SAU23.csv] Début du nettoyage — 943 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   19 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [SAU23.csv] Terminé — 924 valides, 19 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\SAU23.csv  (943 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — SAU23.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 943
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 19
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 19
+11:45:15 | INFO     |   Lignes valides gardées  : 924
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → SAU23_report.json
+11:45:15 | INFO     | Lecture : SAU24.csv
+11:45:15 | DEBUG    |   → 901 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [SAU24.csv] Début du nettoyage — 901 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   28 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [SAU24.csv] Terminé — 873 valides, 28 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\SAU24.csv  (901 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — SAU24.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 901
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 28
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 28
+11:45:15 | INFO     |   Lignes valides gardées  : 873
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → SAU24_report.json
+11:45:15 | INFO     | Lecture : SAU25.csv
+11:45:15 | DEBUG    |   → 898 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [SAU25.csv] Début du nettoyage — 898 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   37 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [SAU25.csv] Terminé — 861 valides, 37 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\SAU25.csv  (898 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — SAU25.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 898
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 37
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 37
+11:45:15 | INFO     |   Lignes valides gardées  : 861
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → SAU25_report.json
+11:45:15 | INFO     | Lecture : SIN22.csv
+11:45:15 | DEBUG    |   → 945 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [SIN22.csv] Début du nettoyage — 945 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   108 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [SIN22.csv] Terminé — 837 valides, 108 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\SIN22.csv  (945 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — SIN22.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 945
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 108
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 108
+11:45:15 | INFO     |   Lignes valides gardées  : 837
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → SIN22_report.json
+11:45:15 | INFO     | Lecture : SIN23.csv
+11:45:15 | DEBUG    |   → 1088 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [SIN23.csv] Début du nettoyage — 1088 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   26 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [SIN23.csv] Terminé — 1062 valides, 26 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\SIN23.csv  (1088 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — SIN23.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1088
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 26
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 26
+11:45:15 | INFO     |   Lignes valides gardées  : 1062
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → SIN23_report.json
+11:45:15 | INFO     | Lecture : SIN24.csv
+11:45:15 | DEBUG    |   → 1177 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [SIN24.csv] Début du nettoyage — 1177 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [SIN24.csv] Terminé — 1176 valides, 1 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\SIN24.csv  (1177 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — SIN24.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1177
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 1
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 1
+11:45:15 | INFO     |   Lignes valides gardées  : 1176
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → SIN24_report.json
+11:45:15 | INFO     | Lecture : SIN25.csv
+11:45:15 | DEBUG    |   → 1229 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [SIN25.csv] Début du nettoyage — 1229 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | INFO     | [SIN25.csv] Terminé — 1229 valides, 0 supprimés/signalés
+11:45:15 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\SIN25.csv  (1229 lignes)
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |  RAPPORT — SIN25.csv
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Lignes lues             : 1229
+11:45:15 | INFO     |   Doublons supprimés      : 0
+11:45:15 | INFO     |   Temps manquants         : 0
+11:45:15 | INFO     |   Tours trop courts       : 0
+11:45:15 | INFO     |   Tours trop longs        : 0
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | INFO     |   Total supprimé/signalé  : 0
+11:45:15 | INFO     |   Lignes valides gardées  : 1229
+11:45:15 | INFO     | --------------------------------------------------
+11:45:15 | DEBUG    |   Rapport JSON → SIN25_report.json
+11:45:15 | INFO     | Lecture : USA22.csv
+11:45:15 | DEBUG    |   → 992 lignes × 17 colonnes chargées
+11:45:15 | INFO     | [USA22.csv] Début du nettoyage — 992 lignes
+11:45:15 | DEBUG    |   Types standardisés.
+11:45:15 | DEBUG    |   74 tour(s) avec temps manquant signalé(s).
+11:45:15 | INFO     | [USA22.csv] Terminé — 918 valides, 74 supprimés/signalés
+11:45:16 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\USA22.csv  (992 lignes)
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |  RAPPORT — USA22.csv
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |   Lignes lues             : 992
+11:45:16 | INFO     |   Doublons supprimés      : 0
+11:45:16 | INFO     |   Temps manquants         : 74
+11:45:16 | INFO     |   Tours trop courts       : 0
+11:45:16 | INFO     |   Tours trop longs        : 0
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |   Total supprimé/signalé  : 74
+11:45:16 | INFO     |   Lignes valides gardées  : 918
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | DEBUG    |   Rapport JSON → USA22_report.json
+11:45:16 | INFO     | Lecture : USA23.csv
+11:45:16 | DEBUG    |   → 1014 lignes × 17 colonnes chargées
+11:45:16 | INFO     | [USA23.csv] Début du nettoyage — 1014 lignes
+11:45:16 | DEBUG    |   Types standardisés.
+11:45:16 | INFO     | [USA23.csv] Terminé — 1014 valides, 0 supprimés/signalés
+11:45:16 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\USA23.csv  (1014 lignes)
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |  RAPPORT — USA23.csv
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |   Lignes lues             : 1014
+11:45:16 | INFO     |   Doublons supprimés      : 0
+11:45:16 | INFO     |   Temps manquants         : 0
+11:45:16 | INFO     |   Tours trop courts       : 0
+11:45:16 | INFO     |   Tours trop longs        : 0
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |   Total supprimé/signalé  : 0
+11:45:16 | INFO     |   Lignes valides gardées  : 1014
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | DEBUG    |   Rapport JSON → USA23_report.json
+11:45:16 | INFO     | Lecture : USA24.csv
+11:45:16 | DEBUG    |   → 1059 lignes × 17 colonnes chargées
+11:45:16 | INFO     | [USA24.csv] Début du nettoyage — 1059 lignes
+11:45:16 | DEBUG    |   Types standardisés.
+11:45:16 | DEBUG    |   28 tour(s) avec temps manquant signalé(s).
+11:45:16 | INFO     | [USA24.csv] Terminé — 1031 valides, 28 supprimés/signalés
+11:45:16 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\USA24.csv  (1059 lignes)
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |  RAPPORT — USA24.csv
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |   Lignes lues             : 1059
+11:45:16 | INFO     |   Doublons supprimés      : 0
+11:45:16 | INFO     |   Temps manquants         : 28
+11:45:16 | INFO     |   Tours trop courts       : 0
+11:45:16 | INFO     |   Tours trop longs        : 0
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |   Total supprimé/signalé  : 28
+11:45:16 | INFO     |   Lignes valides gardées  : 1031
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | DEBUG    |   Rapport JSON → USA24_report.json
+11:45:16 | INFO     | Lecture : USA25.csv
+11:45:16 | DEBUG    |   → 1067 lignes × 17 colonnes chargées
+11:45:16 | INFO     | [USA25.csv] Début du nettoyage — 1067 lignes
+11:45:16 | DEBUG    |   Types standardisés.
+11:45:16 | DEBUG    |   1 tour(s) avec temps manquant signalé(s).
+11:45:16 | INFO     | [USA25.csv] Terminé — 1066 valides, 1 supprimés/signalés
+11:45:16 | INFO     |   → Sauvegardé : D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\USA25.csv  (1067 lignes)
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |  RAPPORT — USA25.csv
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |   Lignes lues             : 1067
+11:45:16 | INFO     |   Doublons supprimés      : 0
+11:45:16 | INFO     |   Temps manquants         : 1
+11:45:16 | INFO     |   Tours trop courts       : 0
+11:45:16 | INFO     |   Tours trop longs        : 0
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | INFO     |   Total supprimé/signalé  : 1
+11:45:16 | INFO     |   Lignes valides gardées  : 1066
+11:45:16 | INFO     | --------------------------------------------------
+11:45:16 | DEBUG    |   Rapport JSON → USA25_report.json
+11:45:16 | INFO     | ==================================================
+11:45:16 | INFO     |   RÉSUMÉ GLOBAL — 90 fichier(s) traité(s)
+11:45:16 | INFO     |   Total lignes lues    : 98914
+11:45:16 | INFO     |   Total valides gardés : 97341
+11:45:16 | INFO     |   Total supprimés      : 1573
+11:45:16 | INFO     | ==================================================

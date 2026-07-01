@@ -1,0 +1,10 @@
+{
+  "filename": "JPN24.csv",
+  "rows_read": 907,
+  "duplicates": 0,
+  "missing_laptime": 31,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 31,
+  "rows_kept": 876
+}

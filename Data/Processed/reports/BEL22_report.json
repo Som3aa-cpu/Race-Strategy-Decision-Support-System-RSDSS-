@@ -1,0 +1,10 @@
+{
+  "filename": "BEL22.csv",
+  "rows_read": 792,
+  "duplicates": 0,
+  "missing_laptime": 40,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 40,
+  "rows_kept": 752
+}

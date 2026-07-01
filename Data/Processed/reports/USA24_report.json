@@ -1,0 +1,10 @@
+{
+  "filename": "USA24.csv",
+  "rows_read": 1059,
+  "duplicates": 0,
+  "missing_laptime": 28,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 28,
+  "rows_kept": 1031
+}

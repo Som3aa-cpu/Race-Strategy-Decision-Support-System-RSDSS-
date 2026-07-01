@@ -1,0 +1,10 @@
+{
+  "filename": "ITA23.csv",
+  "rows_read": 957,
+  "duplicates": 0,
+  "missing_laptime": 9,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 9,
+  "rows_kept": 948
+}

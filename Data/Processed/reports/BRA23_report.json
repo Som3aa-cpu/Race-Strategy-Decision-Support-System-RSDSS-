@@ -1,0 +1,10 @@
+{
+  "filename": "BRA23.csv",
+  "rows_read": 1108,
+  "duplicates": 0,
+  "missing_laptime": 19,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 19,
+  "rows_kept": 1089
+}

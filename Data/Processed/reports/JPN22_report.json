@@ -1,0 +1,10 @@
+{
+  "filename": "JPN22.csv",
+  "rows_read": 507,
+  "duplicates": 0,
+  "missing_laptime": 75,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 75,
+  "rows_kept": 432
+}

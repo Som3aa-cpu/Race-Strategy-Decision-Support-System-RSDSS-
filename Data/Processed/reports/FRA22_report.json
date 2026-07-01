@@ -1,0 +1,10 @@
+{
+  "filename": "FRA22.csv",
+  "rows_read": 958,
+  "duplicates": 0,
+  "missing_laptime": 13,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 13,
+  "rows_kept": 945
+}

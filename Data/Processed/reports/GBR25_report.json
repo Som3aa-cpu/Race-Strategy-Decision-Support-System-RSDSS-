@@ -1,0 +1,10 @@
+{
+  "filename": "GBR25.csv",
+  "rows_read": 825,
+  "duplicates": 0,
+  "missing_laptime": 91,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 91,
+  "rows_kept": 734
+}

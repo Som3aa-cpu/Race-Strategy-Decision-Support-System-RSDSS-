@@ -1,0 +1,10 @@
+{
+  "filename": "SIN22.csv",
+  "rows_read": 945,
+  "duplicates": 0,
+  "missing_laptime": 108,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 108,
+  "rows_kept": 837
+}

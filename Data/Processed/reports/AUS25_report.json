@@ -1,0 +1,10 @@
+{
+  "filename": "AUS25.csv",
+  "rows_read": 927,
+  "duplicates": 0,
+  "missing_laptime": 69,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 69,
+  "rows_kept": 858
+}

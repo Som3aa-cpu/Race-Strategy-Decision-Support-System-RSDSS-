@@ -1,0 +1,10 @@
+{
+  "filename": "GBR22.csv",
+  "rows_read": 815,
+  "duplicates": 0,
+  "missing_laptime": 42,
+  "short_laps": 0,
+  "long_laps": 1,
+  "rows_removed": 43,
+  "rows_kept": 772
+}

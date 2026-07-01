@@ -1,0 +1,10 @@
+{
+  "filename": "MON24.csv",
+  "rows_read": 1237,
+  "duplicates": 0,
+  "missing_laptime": 11,
+  "short_laps": 0,
+  "long_laps": 16,
+  "rows_removed": 27,
+  "rows_kept": 1210
+}

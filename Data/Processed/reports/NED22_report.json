@@ -1,0 +1,10 @@
+{
+  "filename": "NED22.csv",
+  "rows_read": 1392,
+  "duplicates": 0,
+  "missing_laptime": 4,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 4,
+  "rows_kept": 1388
+}

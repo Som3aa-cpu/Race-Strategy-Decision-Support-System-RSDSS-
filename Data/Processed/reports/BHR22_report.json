@@ -1,0 +1,10 @@
+{
+  "filename": "BHR22.csv",
+  "rows_read": 1125,
+  "duplicates": 0,
+  "missing_laptime": 7,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 7,
+  "rows_kept": 1118
+}

@@ -1,0 +1,10 @@
+{
+  "filename": "QAT24.csv",
+  "rows_read": 943,
+  "duplicates": 0,
+  "missing_laptime": 20,
+  "short_laps": 0,
+  "long_laps": 0,
+  "rows_removed": 20,
+  "rows_kept": 923
+}
