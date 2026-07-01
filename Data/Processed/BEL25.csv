@@ -1,5 +1,5 @@
 RaceID,Year,RaceName,Circuit,Driver,Team,LapNumber,Position,LapTime_Seconds,Compound,TireAge,Stint,PitOutTime,PitInTime,AirTemp,TrackTemp,Rainfall,ValidLap,ExclusionReason
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,1,5,191.296,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,1,5,191.296,INTERMEDIATE,1.0,1,0 days 02:14:56.100000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,2,5,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,3,5,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,4,5,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -10,8 +10,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,8,6,122.471,INTERME
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,9,6,123.577,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,10,6,124.104,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,11,6,123.439,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,12,7,126.684,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,13,8,133.243,MEDIUM,1.0,2,,,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,12,7,126.684,INTERMEDIATE,12.0,1,,0 days 02:42:48.435000,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,13,8,133.243,MEDIUM,1.0,2,0 days 02:43:12.373000,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,14,6,110.222,MEDIUM,2.0,2,,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,15,6,108.611,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,16,6,107.973,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -43,7 +43,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,41,6,107.03,MEDIUM,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,42,6,106.887,MEDIUM,30.0,2,,,17.0,22.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,43,6,106.883,MEDIUM,31.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALB,Williams,44,6,107.252,MEDIUM,32.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,1,20,218.679,INTERMEDIATE,1.0,1,,,17.7,24.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,1,20,218.679,INTERMEDIATE,1.0,1,0 days 02:15:57.928000,,17.7,24.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,2,20,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,3,20,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,4,20,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -53,8 +53,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,7,20,123.279,IN
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,8,20,123.891,INTERMEDIATE,8.0,1,,,17.5,25.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,9,20,125.329,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,10,19,125.6,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,11,20,129.812,INTERMEDIATE,11.0,1,,,17.6,25.3,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,12,20,133.186,MEDIUM,1.0,2,,,17.5,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,11,20,129.812,INTERMEDIATE,11.0,1,,0 days 02:41:06.983000,17.6,25.3,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,12,20,133.186,MEDIUM,1.0,2,0 days 02:41:30.291000,,17.5,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,13,16,112.275,MEDIUM,2.0,2,,,17.5,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,14,13,114.222,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,15,13,110.223,MEDIUM,4.0,2,,,17.5,25.8,False,True,
@@ -71,8 +71,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,25,14,108.036,M
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,26,14,107.91,MEDIUM,15.0,2,,,17.5,24.2,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,27,15,108.484,MEDIUM,16.0,2,,,17.5,24.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,28,15,108.72,MEDIUM,17.0,2,,,17.5,24.2,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,29,16,112.557,MEDIUM,18.0,2,,,17.5,24.8,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,30,17,121.996,,,3,,,17.5,24.7,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,29,16,112.557,MEDIUM,18.0,2,,0 days 03:14:19.358000,17.5,24.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,30,17,121.996,,,3,0 days 03:14:42.983000,,17.5,24.7,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,31,17,106.059,,,3,,,17.5,24.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,32,17,105.849,,,3,,,17.5,23.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,33,17,106.388,,,3,,,17.5,23.7,False,True,
@@ -87,7 +87,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,41,17,107.298,,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,42,17,107.268,,,3,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,43,17,106.733,,,3,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ALO,Aston Martin,44,17,107.306,,,3,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,1,19,216.399,INTERMEDIATE,1.0,1,,,17.7,24.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,1,19,216.399,INTERMEDIATE,1.0,1,0 days 02:15:56.303000,,17.7,24.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,2,19,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,3,19,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,4,19,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -98,8 +98,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,8,18,124.219,INTERM
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,9,18,125.404,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,10,18,125.624,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,11,16,125.433,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,12,15,128.264,INTERMEDIATE,12.0,1,,,17.5,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,13,18,130.637,MEDIUM,1.0,2,,,17.5,26.0,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,12,15,128.264,INTERMEDIATE,12.0,1,,0 days 02:43:09.607000,17.5,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,13,18,130.637,MEDIUM,1.0,2,0 days 02:43:33.126000,,17.5,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,14,17,110.31,MEDIUM,2.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,15,17,108.819,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,16,17,109.928,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -116,8 +116,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,26,15,107.83,MEDIUM
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,27,14,107.002,MEDIUM,15.0,2,,,17.5,24.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,28,14,107.952,MEDIUM,16.0,2,,,17.5,24.2,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,29,14,108.05,MEDIUM,17.0,2,,,17.5,24.8,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,30,14,112.443,MEDIUM,18.0,2,,,17.5,24.7,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,31,16,120.749,,,3,,,17.5,24.0,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,30,14,112.443,MEDIUM,18.0,2,,0 days 03:16:05.447000,17.5,24.7,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,31,16,120.749,,,3,0 days 03:16:28.553000,,17.5,24.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,32,16,104.861,,,3,,,17.5,23.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,33,16,106.738,,,3,,,17.5,23.7,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,34,16,108.012,,,3,,,17.5,23.5,False,True,
@@ -131,7 +131,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,41,16,107.08,,,3,,,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,42,16,107.13,,,3,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,43,16,106.845,,,3,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,ANT,Mercedes,44,16,106.911,,,3,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,1,12,201.972,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,1,12,201.972,INTERMEDIATE,1.0,1,0 days 02:15:27.631000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,2,12,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,3,12,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,4,12,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -142,8 +142,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,8,12,123.403,IN
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,9,12,124.288,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,10,12,124.996,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,11,11,122.741,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,12,12,127.261,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,13,15,133.833,MEDIUM,1.0,2,,,17.5,26.0,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,12,12,127.261,INTERMEDIATE,12.0,1,,0 days 02:42:58.076000,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,13,15,133.833,MEDIUM,1.0,2,0 days 02:43:22.451000,,17.5,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,14,14,115.086,MEDIUM,2.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,15,14,110.255,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,16,14,109.864,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -175,7 +175,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,41,12,107.514,M
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,42,12,106.984,MEDIUM,30.0,2,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,43,11,106.709,MEDIUM,31.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BEA,Haas F1 Team,44,11,107.114,MEDIUM,32.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,1,10,199.512,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,1,10,199.512,INTERMEDIATE,1.0,1,0 days 02:15:17.861000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,2,10,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,3,10,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,4,10,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -186,8 +186,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,8,10,122.601,INT
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,9,10,123.996,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,10,10,124.833,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,11,10,124.626,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,12,10,127.969,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,13,12,132.477,MEDIUM,1.0,2,,,17.5,26.0,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,12,10,127.969,INTERMEDIATE,12.0,1,,0 days 02:42:57.217000,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,13,12,132.477,MEDIUM,1.0,2,0 days 02:43:20.426000,,17.5,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,14,10,111.961,MEDIUM,2.0,2,,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,15,10,108.368,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,16,10,108.832,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -219,7 +219,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,41,9,106.966,MED
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,42,9,107.18,MEDIUM,30.0,2,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,43,9,106.988,MEDIUM,31.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,BOR,Kick Sauber,44,9,107.072,MEDIUM,32.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,1,15,207.44,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,1,15,207.44,INTERMEDIATE,1.0,1,0 days 02:15:39.242000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,2,15,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,3,15,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,4,15,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -230,8 +230,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,8,16,124.446,INTERMED
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,9,16,125.097,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,10,16,125.749,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,11,13,124.737,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,12,13,127.109,INTERMEDIATE,12.0,1,,,17.5,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,13,17,130.177,MEDIUM,1.0,2,,,17.5,26.0,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,12,13,127.109,INTERMEDIATE,12.0,1,,0 days 02:43:07.154000,17.5,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,13,17,130.177,MEDIUM,1.0,2,0 days 02:43:30.110000,,17.5,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,14,15,111.412,MEDIUM,2.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,15,15,109.709,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,16,15,110.201,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -246,8 +246,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,24,17,108.876,MEDIUM,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,25,17,108.423,MEDIUM,13.0,2,,,17.5,24.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,26,17,108.515,MEDIUM,14.0,2,,,17.5,24.2,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,27,17,108.807,MEDIUM,15.0,2,,,17.5,24.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,28,18,112.935,MEDIUM,16.0,2,,,17.5,24.2,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,29,19,122.751,,,3,,,17.5,24.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,28,18,112.935,MEDIUM,16.0,2,,0 days 03:12:40.319000,17.5,24.2,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,29,19,122.751,,,3,0 days 03:13:03.729000,,17.5,24.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,30,19,106.104,,,3,,,17.5,24.7,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,31,19,106.44,,,3,,,17.5,24.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,32,19,106.555,,,3,,,17.5,23.8,False,True,
@@ -263,7 +263,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,41,19,107.158,,,3,,,1
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,42,19,107.11,,,3,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,43,19,106.878,,,3,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,COL,Alpine,44,19,106.488,,,3,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,1,13,204.447,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,1,13,204.447,INTERMEDIATE,1.0,1,0 days 02:15:31.943000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,2,13,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,3,13,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,4,13,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -273,8 +273,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,7,13,122.794,INTERMED
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,8,13,123.228,INTERMEDIATE,8.0,1,,,17.5,25.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,9,14,126.857,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,10,14,125.517,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,11,18,130.058,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,12,19,135.495,MEDIUM,1.0,2,,,17.5,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,11,18,130.058,INTERMEDIATE,11.0,1,,0 days 02:41:02.999000,17.6,25.4,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,12,19,135.495,MEDIUM,1.0,2,0 days 02:41:29.713000,,17.5,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,13,14,112.956,MEDIUM,2.0,2,,,17.5,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,14,11,110.871,MEDIUM,3.0,2,,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,15,11,110.22,MEDIUM,4.0,2,,,17.5,25.8,False,True,
@@ -307,7 +307,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,41,10,107.253,MEDIUM,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,42,10,107.177,MEDIUM,31.0,2,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,43,10,107.531,MEDIUM,32.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,GAS,Alpine,44,10,107.363,MEDIUM,33.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,1,8,196.869,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,1,8,196.869,INTERMEDIATE,1.0,1,0 days 02:15:09.438000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,2,8,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,3,8,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,4,8,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -319,15 +319,15 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,9,8,123.822,INT
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,10,8,124.736,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,11,8,124.304,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,12,8,124.24,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,13,4,125.678,INTERMEDIATE,13.0,1,,,17.5,25.8,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,14,16,132.38,MEDIUM,4.0,2,,,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,13,4,125.678,INTERMEDIATE,13.0,1,,0 days 02:44:56.400000,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,14,16,132.38,MEDIUM,4.0,2,0 days 02:45:19.993000,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,15,16,110.02,MEDIUM,5.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,16,16,110.008,MEDIUM,6.0,2,,,17.6,26.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,17,17,110.02,MEDIUM,7.0,2,,,17.8,26.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,18,18,110.018,MEDIUM,8.0,2,,,17.9,26.2,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,19,19,110.271,MEDIUM,9.0,2,,,17.9,26.3,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,20,19,114.281,MEDIUM,10.0,2,,,17.9,26.3,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,21,20,126.369,HARD,1.0,3,,,17.9,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,20,19,114.281,MEDIUM,10.0,2,,0 days 02:58:13.418000,17.9,26.3,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,21,20,126.369,HARD,1.0,3,0 days 02:58:36.896000,,17.9,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,22,20,108.7,HARD,2.0,3,,,18.1,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,23,20,108.18,HARD,3.0,3,,,18.0,25.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,24,20,108.089,HARD,4.0,3,,,17.8,24.5,False,True,
@@ -350,7 +350,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,40,20,108.196,H
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,41,20,109.323,HARD,21.0,3,,,17.0,22.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,42,20,108.079,HARD,22.0,3,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAD,Racing Bulls,43,20,107.667,HARD,23.0,3,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,1,18,213.712,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,1,18,213.712,INTERMEDIATE,1.0,1,0 days 02:15:53.006000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,2,18,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,3,18,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,4,18,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -360,8 +360,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,7,16,122.51,INTERMED
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,8,14,121.599,INTERMEDIATE,8.0,1,,,17.5,25.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,9,13,124.389,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,10,13,123.457,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,11,14,130.597,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,12,17,132.214,MEDIUM,1.0,2,,,17.5,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,11,14,130.597,INTERMEDIATE,11.0,1,,0 days 02:40:59.936000,17.6,25.4,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,12,17,132.214,MEDIUM,1.0,2,0 days 02:41:23.170000,,17.5,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,13,9,111.05,MEDIUM,2.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,14,7,109.564,MEDIUM,3.0,2,,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,15,7,108.587,MEDIUM,4.0,2,,,17.5,25.8,False,True,
@@ -394,7 +394,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,41,7,106.876,MEDIUM,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,42,7,106.961,MEDIUM,31.0,2,,,17.0,22.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,43,7,106.534,MEDIUM,32.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HAM,Ferrari,44,7,106.96,MEDIUM,33.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,1,14,206.488,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,1,14,206.488,INTERMEDIATE,1.0,1,0 days 02:15:36.143000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,2,14,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,3,14,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,4,14,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -404,8 +404,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,7,14,122.875,INT
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,8,15,123.968,INTERMEDIATE,8.0,1,,,17.5,25.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,9,15,125.89,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,10,15,126.075,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,11,19,129.695,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,12,18,131.678,MEDIUM,1.0,2,,,17.5,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,11,19,129.695,INTERMEDIATE,11.0,1,,0 days 02:41:03.577000,17.6,25.4,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,12,18,131.678,MEDIUM,1.0,2,0 days 02:41:27.174000,,17.5,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,13,13,114.954,MEDIUM,2.0,2,,,17.5,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,14,9,110.286,MEDIUM,3.0,2,,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,15,9,108.769,MEDIUM,4.0,2,,,17.5,25.8,False,True,
@@ -425,8 +425,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,28,10,107.998,ME
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,29,10,108.068,MEDIUM,18.0,2,,,17.5,24.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,30,10,108.188,MEDIUM,19.0,2,,,17.6,24.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,31,10,108.416,MEDIUM,20.0,2,,,17.5,24.0,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,32,10,112.356,MEDIUM,21.0,2,,,17.5,23.8,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,33,15,123.242,,,3,,,17.5,23.7,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,32,10,112.356,MEDIUM,21.0,2,,0 days 03:19:34.128000,17.5,23.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,33,15,123.242,,,3,0 days 03:19:58.010000,,17.5,23.7,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,34,14,105.077,,,3,,,17.5,23.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,35,14,105.725,,,3,,,17.4,23.6,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,36,14,105.868,,,3,,,17.3,23.1,False,True,
@@ -438,7 +438,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,41,13,106.282,,,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,42,13,106.778,,,3,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,43,13,107.604,,,3,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,HUL,Kick Sauber,44,12,106.061,,,3,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,1,9,198.369,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,1,9,198.369,INTERMEDIATE,1.0,1,0 days 02:15:14.179000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,2,9,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,3,9,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,4,9,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -449,8 +449,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,8,9,122.746,INT
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,9,9,124.162,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,10,9,124.537,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,11,9,124.295,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,12,9,127.696,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,13,11,133.813,MEDIUM,1.0,2,,,17.5,26.0,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,12,9,127.696,INTERMEDIATE,12.0,1,,0 days 02:42:55.029000,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,13,11,133.813,MEDIUM,1.0,2,0 days 02:43:18.264000,,17.5,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,14,8,110.724,MEDIUM,2.0,2,,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,15,8,108.668,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,16,8,108.569,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -482,7 +482,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,41,8,106.787,ME
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,42,8,108.182,MEDIUM,30.0,2,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,43,8,106.728,MEDIUM,31.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LAW,Racing Bulls,44,8,107.142,MEDIUM,32.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,1,3,188.456,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,1,3,188.456,INTERMEDIATE,1.0,1,0 days 02:14:48.268000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,2,3,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,3,3,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,4,3,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -493,8 +493,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,8,3,121.82,INTERMEDI
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,9,3,123.71,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,10,3,124.208,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,11,3,122.478,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,12,3,125.855,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,13,5,136.663,MEDIUM,1.0,2,,,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,12,3,125.855,INTERMEDIATE,12.0,1,,0 days 02:42:42.092000,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,13,5,136.663,MEDIUM,1.0,2,0 days 02:43:05.873000,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,14,3,109.97,MEDIUM,2.0,2,,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,15,3,108.193,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,16,3,107.507,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -526,7 +526,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,41,3,106.184,MEDIUM,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,42,3,106.315,MEDIUM,30.0,2,,,17.0,22.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,43,3,106.58,MEDIUM,31.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,LEC,Ferrari,44,3,107.204,MEDIUM,32.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,1,1,184.619,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,1,1,184.619,INTERMEDIATE,1.0,1,0 days 02:14:41.752000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,2,1,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,3,1,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,4,1,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -538,8 +538,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,9,2,121.841,INTERMED
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,10,2,122.285,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,11,2,121.576,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,12,1,120.458,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,13,1,122.962,INTERMEDIATE,13.0,1,,,17.5,25.8,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,14,2,130.916,HARD,1.0,2,,,17.4,26.0,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,13,1,122.962,INTERMEDIATE,13.0,1,,0 days 02:44:31.199000,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,14,2,130.916,HARD,1.0,2,0 days 02:44:55.556000,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,15,2,108.961,HARD,2.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,16,2,107.849,HARD,3.0,2,,,17.6,26.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,17,2,106.917,HARD,4.0,2,,,17.8,26.1,False,True,
@@ -570,7 +570,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,41,2,105.544,HARD,28
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,42,2,105.257,HARD,29.0,2,,,17.0,22.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,43,2,107.721,HARD,30.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,NOR,McLaren,44,2,106.09,HARD,31.0,2,,,16.9,22.3,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,1,11,201.517,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,1,11,201.517,INTERMEDIATE,1.0,1,0 days 02:15:21.919000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,2,11,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,3,11,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,4,11,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -582,8 +582,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,9,11,124.581,IN
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,10,11,125.31,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,11,12,125.656,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,12,11,124.249,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,13,10,129.199,INTERMEDIATE,13.0,1,,,17.5,26.0,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,14,20,132.478,MEDIUM,8.0,2,,,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,13,10,129.199,INTERMEDIATE,13.0,1,,0 days 02:45:06.946000,17.5,26.0,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,14,20,132.478,MEDIUM,8.0,2,0 days 02:45:30.902000,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,15,20,111.387,MEDIUM,9.0,2,,,17.5,26.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,16,20,109.369,MEDIUM,10.0,2,,,17.6,26.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,17,20,108.933,MEDIUM,11.0,2,,,17.8,26.1,False,True,
@@ -614,7 +614,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,41,15,107.129,M
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,42,15,106.969,MEDIUM,36.0,2,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,43,15,106.923,MEDIUM,37.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,OCO,Haas F1 Team,44,15,106.744,MEDIUM,38.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,1,2,185.558,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,1,2,185.558,INTERMEDIATE,1.0,1,0 days 02:14:45.252000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,2,2,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,3,2,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,4,2,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -625,8 +625,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,8,1,120.611,INTERMED
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,9,1,121.409,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,10,1,122.104,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,11,1,121.466,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,12,2,126.019,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,13,2,130.324,MEDIUM,1.0,2,,,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,12,2,126.019,INTERMEDIATE,12.0,1,,0 days 02:42:31.751000,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,13,2,130.324,MEDIUM,1.0,2,0 days 02:42:55.576000,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,14,1,110.884,MEDIUM,2.0,2,,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,15,1,109.089,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,16,1,107.694,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -658,7 +658,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,41,1,106.144,MEDIUM,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,42,1,105.933,MEDIUM,30.0,2,,,17.0,22.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,43,1,105.706,MEDIUM,31.0,2,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,PIA,McLaren,44,1,107.821,MEDIUM,32.0,2,,,16.9,22.3,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,1,6,193.707,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,1,6,193.707,INTERMEDIATE,1.0,1,0 days 02:14:59.051000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,2,6,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,3,6,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,4,6,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -669,8 +669,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,8,5,122.472,INTERME
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,9,5,123.892,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,10,5,124.205,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,11,5,123.386,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,12,5,126.737,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,13,7,133.416,MEDIUM,1.0,2,,,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,12,5,126.737,INTERMEDIATE,12.0,1,,0 days 02:42:46.609000,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,13,7,133.416,MEDIUM,1.0,2,0 days 02:43:10.342000,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,14,5,110.359,MEDIUM,2.0,2,,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,15,5,108.518,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,16,5,107.719,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -702,7 +702,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,41,5,106.601,MEDIUM
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,42,5,106.73,MEDIUM,30.0,2,,,17.0,22.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,43,5,106.566,MEDIUM,31.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,RUS,Mercedes,44,5,106.969,MEDIUM,32.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,1,17,211.318,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,1,17,211.318,INTERMEDIATE,1.0,1,0 days 02:15:46.818000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,2,17,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,3,17,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,4,17,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -713,8 +713,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,8,17,124.324,INTERM
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,9,17,125.122,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,10,17,125.764,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,11,15,124.978,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,12,14,127.24,INTERMEDIATE,12.0,1,,,17.5,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,13,20,134.944,MEDIUM,1.0,2,,,17.5,26.0,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,12,14,127.24,INTERMEDIATE,12.0,1,,0 days 02:43:07.529000,17.5,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,13,20,134.944,MEDIUM,1.0,2,0 days 02:43:35.063000,,17.5,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,14,19,109.827,MEDIUM,2.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,15,19,109.04,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,16,19,109.141,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -727,8 +727,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,22,18,109.473,MEDIU
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,23,18,108.981,MEDIUM,11.0,2,,,18.0,25.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,24,18,108.692,MEDIUM,12.0,2,,,17.8,24.5,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,25,18,108.596,MEDIUM,13.0,2,,,17.5,24.3,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,26,18,113.275,MEDIUM,14.0,2,,,17.5,24.2,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,27,19,124.265,HARD,,3,,,17.5,24.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,26,18,113.275,MEDIUM,14.0,2,,0 days 03:09:04.295000,17.5,24.2,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,27,19,124.265,HARD,,3,0 days 03:09:27.926000,,17.5,24.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,28,19,106.425,HARD,,3,,,17.5,24.2,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,29,18,106.613,HARD,,3,,,17.5,24.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,30,18,106.073,HARD,,3,,,17.5,24.7,False,True,
@@ -746,7 +746,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,41,18,107.108,HARD,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,42,18,107.125,HARD,,3,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,43,18,106.894,HARD,,3,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,SAI,Williams,44,18,106.423,HARD,,3,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,1,16,209.116,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,1,16,209.116,INTERMEDIATE,1.0,1,0 days 02:15:42.640000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,2,16,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,3,16,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,4,16,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -757,8 +757,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,8,19,123.866,IN
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,9,19,125.241,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,10,20,126.686,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,11,17,125.288,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,12,16,127.592,INTERMEDIATE,12.0,1,,,17.5,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,13,19,130.73,MEDIUM,1.0,2,,,17.5,26.0,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,12,16,127.592,INTERMEDIATE,12.0,1,,0 days 02:43:10.435000,17.5,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,13,19,130.73,MEDIUM,1.0,2,0 days 02:43:34.204000,,17.5,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,14,18,110.331,MEDIUM,2.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,15,18,109.237,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,16,18,109.318,MEDIUM,4.0,2,,,17.6,26.3,False,True,
@@ -790,7 +790,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,41,14,107.3,MED
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,42,14,107.338,MEDIUM,30.0,2,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,43,14,107.588,MEDIUM,31.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,STR,Aston Martin,44,14,107.294,MEDIUM,32.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,1,7,195.676,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,1,7,195.676,INTERMEDIATE,1.0,1,0 days 02:15:05.161000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,2,7,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,3,7,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,4,7,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -802,8 +802,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,9,7,123.48,I
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,10,7,124.98,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,11,7,124.137,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,12,6,123.373,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,13,3,127.153,INTERMEDIATE,13.0,1,,,17.5,25.8,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,14,12,131.357,MEDIUM,1.0,2,,,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,13,3,127.153,INTERMEDIATE,13.0,1,,0 days 02:44:54.915000,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,14,12,131.357,MEDIUM,1.0,2,0 days 02:45:18.118000,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,15,12,109.875,MEDIUM,2.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,16,12,109.865,MEDIUM,3.0,2,,,17.6,26.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,17,12,108.733,MEDIUM,4.0,2,,,17.8,26.1,False,True,
@@ -834,7 +834,7 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,41,11,107.25
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,42,11,107.241,MEDIUM,29.0,2,,,17.0,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,43,12,108.348,MEDIUM,30.0,2,,,16.9,22.3,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,TSU,Red Bull Racing,44,13,108.375,MEDIUM,31.0,2,,,16.9,22.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,1,4,190.061,INTERMEDIATE,1.0,1,,,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,1,4,190.061,INTERMEDIATE,1.0,1,0 days 02:14:52.932000,,17.6,25.1,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,2,4,,INTERMEDIATE,2.0,1,,,17.6,24.9,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,3,4,,INTERMEDIATE,3.0,1,,,17.4,24.4,False,False,Missing Lap Time
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,4,4,,INTERMEDIATE,4.0,1,,,17.4,24.9,False,False,Missing Lap Time
@@ -845,8 +845,8 @@ BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,8,4,121.993,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,9,4,123.462,INTERMEDIATE,9.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,10,4,123.978,INTERMEDIATE,10.0,1,,,17.5,25.9,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,11,4,122.968,INTERMEDIATE,11.0,1,,,17.6,25.4,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,12,4,125.626,INTERMEDIATE,12.0,1,,,17.6,25.1,False,True,
-BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,13,6,136.999,MEDIUM,1.0,2,,,17.5,25.8,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,12,4,125.626,INTERMEDIATE,12.0,1,,0 days 02:42:42.509000,17.6,25.1,False,True,
+BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,13,6,136.999,MEDIUM,1.0,2,0 days 02:43:08.560000,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,14,4,110.286,MEDIUM,2.0,2,,,17.4,26.0,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,15,4,108.161,MEDIUM,3.0,2,,,17.5,25.8,False,True,
 BEL25,2025,Belgian Grand Prix,Spa-Francorchamps,VER,Red Bull Racing,16,4,107.574,MEDIUM,4.0,2,,,17.6,26.3,False,True,

@@ -23,7 +23,7 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,ALB,Williams,21,16,140.921,INTERMEDIA
 SIN22,2022,Singapore Grand Prix,Marina Bay,ALB,Williams,22,16,149.359,INTERMEDIATE,22.0,1,,,27.3,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,ALB,Williams,23,16,123.038,INTERMEDIATE,23.0,1,,,27.2,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,ALB,Williams,24,16,122.121,INTERMEDIATE,24.0,1,,,27.2,27.6,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,ALB,Williams,25,17,,INTERMEDIATE,25.0,1,,,27.1,27.5,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,ALB,Williams,25,17,,INTERMEDIATE,25.0,1,,0 days 03:02:43.904000,27.1,27.5,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,ALO,Alpine,1,6,132.818,INTERMEDIATE,1.0,1,,,26.8,29.5,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,ALO,Alpine,2,6,124.847,INTERMEDIATE,2.0,1,,,26.9,29.9,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,ALO,Alpine,3,6,123.306,INTERMEDIATE,3.0,1,,,26.9,29.8,False,True,
@@ -77,8 +77,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,29,13,,INTERMEDIATE,29
 SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,30,13,119.285,INTERMEDIATE,30.0,1,,,27.1,27.9,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,31,13,119.572,INTERMEDIATE,31.0,1,,,27.1,27.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,32,13,119.484,INTERMEDIATE,32.0,1,,,27.1,27.9,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,33,13,127.048,INTERMEDIATE,33.0,1,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,34,13,,SOFT,1.0,2,,,27.1,28.2,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,33,13,127.048,INTERMEDIATE,33.0,1,,0 days 03:19:14.269000,27.1,28.0,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,34,13,,SOFT,1.0,2,0 days 03:19:46.433000,,27.1,28.2,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,35,12,131.632,SOFT,2.0,2,,,27.1,28.0,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,36,12,,SOFT,3.0,2,,,27.2,28.4,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,BOT,Alfa Romeo,37,12,129.167,SOFT,4.0,2,,,27.1,29.0,False,True,
@@ -136,8 +136,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,29,7,,INTERMEDIATE,32.
 SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,30,7,126.509,INTERMEDIATE,33.0,1,,,27.1,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,31,7,119.033,INTERMEDIATE,34.0,1,,,27.1,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,32,7,118.769,INTERMEDIATE,35.0,1,,,27.0,27.7,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,33,9,127.555,INTERMEDIATE,36.0,1,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,34,11,149.129,MEDIUM,1.0,2,,,27.1,28.5,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,33,9,127.555,INTERMEDIATE,36.0,1,,0 days 03:18:45.993000,27.1,28.0,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,34,11,149.129,MEDIUM,1.0,2,0 days 03:19:15.820000,,27.1,28.5,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,35,10,121.565,MEDIUM,2.0,2,,,27.1,28.2,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,36,10,,MEDIUM,3.0,2,,,27.2,28.4,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,GAS,AlphaTauri,37,10,,MEDIUM,4.0,2,,,27.2,29.0,False,False,Missing Lap Time
@@ -196,8 +196,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,30,4,133.306,INTERMEDIAT
 SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,31,4,117.601,INTERMEDIATE,31.0,1,,,27.1,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,32,4,117.973,INTERMEDIATE,32.0,1,,,27.0,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,33,5,134.994,INTERMEDIATE,33.0,1,,,27.1,27.7,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,34,6,127.369,INTERMEDIATE,34.0,1,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,35,9,,MEDIUM,1.0,2,,,27.1,28.2,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,34,6,127.369,INTERMEDIATE,34.0,1,,0 days 03:20:36.612000,27.1,28.0,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,35,9,,MEDIUM,1.0,2,0 days 03:21:17.626000,,27.1,28.2,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,36,9,,MEDIUM,2.0,2,,,27.2,28.4,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,37,9,,MEDIUM,3.0,2,,,27.2,29.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,HAM,Mercedes,38,9,,MEDIUM,4.0,2,,,27.0,28.8,False,False,Missing Lap Time
@@ -228,7 +228,7 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,LAT,Williams,3,17,127.657,INTERMEDIAT
 SIN22,2022,Singapore Grand Prix,Marina Bay,LAT,Williams,4,18,126.887,INTERMEDIATE,4.0,1,,,26.8,29.4,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,LAT,Williams,5,18,125.585,INTERMEDIATE,5.0,1,,,26.9,29.4,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,LAT,Williams,6,18,126.2,INTERMEDIATE,6.0,1,,,26.9,29.6,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,LAT,Williams,7,19,,INTERMEDIATE,7.0,1,,,27.1,29.2,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,LAT,Williams,7,19,,INTERMEDIATE,7.0,1,,0 days 02:24:02.580000,27.1,29.2,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,1,2,126.402,INTERMEDIATE,1.0,1,,,26.8,29.5,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,2,2,121.214,INTERMEDIATE,2.0,1,,,26.9,29.9,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,3,2,120.939,INTERMEDIATE,3.0,1,,,26.9,29.8,False,True,
@@ -262,8 +262,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,30,2,135.377,INTERMEDIATE
 SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,31,2,116.259,INTERMEDIATE,31.0,1,,,27.1,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,32,2,117.226,INTERMEDIATE,32.0,1,,,27.0,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,33,2,116.811,INTERMEDIATE,33.0,1,,,27.1,27.7,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,34,2,125.037,INTERMEDIATE,34.0,1,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,35,3,147.541,MEDIUM,1.0,2,,,27.1,28.2,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,34,2,125.037,INTERMEDIATE,34.0,1,,0 days 03:19:56.796000,27.1,28.0,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,35,3,147.541,MEDIUM,1.0,2,0 days 03:20:28.812000,,27.1,28.2,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,36,2,137.673,MEDIUM,2.0,2,,,27.1,28.1,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,37,2,,MEDIUM,3.0,2,,,27.2,29.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,LEC,Ferrari,38,2,,MEDIUM,4.0,2,,,27.0,28.8,False,False,Missing Lap Time
@@ -294,8 +294,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,3,12,125.679,INTERME
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,4,12,124.881,INTERMEDIATE,4.0,1,,,26.8,29.4,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,5,12,124.36,INTERMEDIATE,5.0,1,,,26.9,29.3,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,6,12,124.122,INTERMEDIATE,6.0,1,,,27.0,29.4,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,7,16,131.492,INTERMEDIATE,7.0,1,,,27.1,29.4,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,8,18,,INTERMEDIATE,4.0,2,,,27.1,28.8,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,7,16,131.492,INTERMEDIATE,7.0,1,,0 days 02:22:46.260000,27.1,29.4,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,8,18,,INTERMEDIATE,4.0,2,0 days 02:23:25.494000,,27.1,28.8,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,9,18,,INTERMEDIATE,5.0,2,,,27.2,29.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,10,18,124.183,INTERMEDIATE,6.0,2,,,27.0,28.8,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,11,18,121.895,INTERMEDIATE,7.0,2,,,27.0,29.1,False,True,
@@ -320,8 +320,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,29,14,,INTERMEDIATE,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,30,14,118.71,INTERMEDIATE,26.0,2,,,27.1,27.9,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,31,14,118.604,INTERMEDIATE,27.0,2,,,27.1,27.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,32,14,118.696,INTERMEDIATE,28.0,2,,,27.1,27.9,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,33,14,127.629,INTERMEDIATE,29.0,2,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,34,14,,MEDIUM,1.0,3,,,27.1,28.2,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,33,14,127.629,INTERMEDIATE,29.0,2,,0 days 03:19:17.787000,27.1,28.0,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,34,14,,MEDIUM,1.0,3,0 days 03:19:50.384000,,27.1,28.2,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,35,13,130.97,MEDIUM,2.0,3,,,27.1,28.0,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,36,13,,MEDIUM,3.0,3,,,27.2,28.4,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,MAG,Haas F1 Team,37,13,129.626,MEDIUM,4.0,3,,,27.1,29.0,False,True,
@@ -380,15 +380,15 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,30,11,121.745,INTERM
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,31,11,118.777,INTERMEDIATE,31.0,1,,,27.1,27.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,32,11,118.692,INTERMEDIATE,32.0,1,,,27.1,27.9,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,33,11,119.069,INTERMEDIATE,33.0,1,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,34,10,127.583,INTERMEDIATE,34.0,1,,,27.1,28.5,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,35,11,,MEDIUM,1.0,2,,,27.1,28.2,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,34,10,127.583,INTERMEDIATE,34.0,1,,0 days 03:21:04.456000,27.1,28.5,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,35,11,,MEDIUM,1.0,2,0 days 03:21:35.673000,,27.1,28.2,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,36,11,,MEDIUM,2.0,2,,,27.2,28.4,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,37,11,140.553,MEDIUM,3.0,2,,,27.2,29.0,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,38,11,,MEDIUM,4.0,2,,,27.0,28.8,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,39,11,144.621,MEDIUM,5.0,2,,,27.0,28.8,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,40,10,120.769,MEDIUM,6.0,2,,,27.1,28.8,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,41,13,,MEDIUM,7.0,2,,,27.0,29.3,False,False,Missing Lap Time
-SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,42,13,,SOFT,1.0,3,,,27.1,29.6,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,41,13,,MEDIUM,7.0,2,,0 days 03:38:35.329000,27.0,29.3,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,42,13,,SOFT,1.0,3,0 days 03:39:10.144000,,27.1,29.6,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,43,13,119.502,SOFT,2.0,3,,,27.2,29.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,44,13,121.846,SOFT,3.0,3,,,27.3,29.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,MSC,Haas F1 Team,45,13,117.253,SOFT,4.0,3,,,27.3,29.6,False,True,
@@ -440,8 +440,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,32,5,118.753,INTERMEDIATE
 SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,33,4,119.385,INTERMEDIATE,33.0,1,,,27.1,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,34,4,118.369,INTERMEDIATE,34.0,1,,,27.1,28.0,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,35,4,118.746,INTERMEDIATE,35.0,1,,,27.1,28.2,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,36,3,146.728,INTERMEDIATE,36.0,1,,,27.1,28.1,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,37,4,,MEDIUM,1.0,2,,,27.2,29.0,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,36,3,146.728,INTERMEDIATE,36.0,1,,0 days 03:24:51.928000,27.1,28.1,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,37,4,,MEDIUM,1.0,2,0 days 03:25:22.443000,,27.2,29.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,38,4,,MEDIUM,2.0,2,,,27.0,28.8,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,39,4,149.021,MEDIUM,3.0,2,,,27.0,28.8,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,NOR,McLaren,40,4,119.591,MEDIUM,4.0,2,,,27.1,28.8,False,True,
@@ -525,8 +525,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,31,1,117.451,INTE
 SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,32,1,117.603,INTERMEDIATE,32.0,1,,,27.0,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,33,1,116.945,INTERMEDIATE,33.0,1,,,27.1,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,34,1,116.267,INTERMEDIATE,34.0,1,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,35,1,126.352,INTERMEDIATE,35.0,1,,,27.1,28.2,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,36,1,,MEDIUM,1.0,2,,,27.1,28.0,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,35,1,126.352,INTERMEDIATE,35.0,1,,0 days 03:21:51.839000,27.1,28.2,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,36,1,,MEDIUM,1.0,2,0 days 03:22:21.380000,,27.1,28.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,37,1,,MEDIUM,2.0,2,,,27.2,29.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,38,1,,MEDIUM,3.0,2,,,27.0,28.8,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,PER,Red Bull Racing,39,1,,MEDIUM,4.0,2,,,27.0,28.8,False,False,Missing Lap Time
@@ -585,8 +585,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,32,10,119.098,INTERMEDIAT
 SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,33,10,119.323,INTERMEDIATE,33.0,1,,,27.1,28.0,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,34,9,118.69,INTERMEDIATE,34.0,1,,,27.1,28.5,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,35,6,119.07,INTERMEDIATE,35.0,1,,,27.1,28.2,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,36,5,,INTERMEDIATE,36.0,1,,,27.1,28.1,False,False,Missing Lap Time
-SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,37,6,,SOFT,1.0,2,,,27.2,29.0,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,36,5,,INTERMEDIATE,36.0,1,,0 days 03:25:24.340000,27.1,28.1,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,37,6,,SOFT,1.0,2,0 days 03:25:55.283000,,27.2,29.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,38,6,,SOFT,2.0,2,,,27.0,28.8,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,39,6,144.18,SOFT,3.0,2,,,27.0,28.8,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,40,5,118.5,SOFT,4.0,2,,,27.1,28.8,False,True,
@@ -609,7 +609,7 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,56,5,111.176,SOFT,20.0,2,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,57,5,111.006,SOFT,21.0,2,,,27.5,29.3,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,58,5,112.526,SOFT,22.0,2,,,27.6,29.5,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RIC,McLaren,59,5,112.08,SOFT,23.0,2,,,27.7,29.4,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,1,19,144.57,INTERMEDIATE,1.0,1,,,26.8,29.5,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,1,19,144.57,INTERMEDIATE,1.0,1,0 days 02:08:08.401000,,26.8,29.5,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,2,18,128.743,INTERMEDIATE,2.0,1,,,26.9,29.9,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,3,18,127.696,INTERMEDIATE,3.0,1,,,26.9,29.8,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,4,17,124.604,INTERMEDIATE,4.0,1,,,26.8,29.4,False,True,
@@ -629,8 +629,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,17,16,122.744,INTERMEDIA
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,18,16,122.454,INTERMEDIATE,18.0,1,,,27.3,28.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,19,16,122.174,INTERMEDIATE,19.0,1,,,27.3,27.8,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,20,16,122.244,INTERMEDIATE,20.0,1,,,27.3,27.6,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,21,15,147.932,INTERMEDIATE,21.0,1,,,27.2,27.5,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,22,17,,MEDIUM,1.0,2,,,27.3,27.7,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,21,15,147.932,INTERMEDIATE,21.0,1,,0 days 02:53:16.553000,27.2,27.5,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,22,17,,MEDIUM,1.0,2,0 days 02:53:46.927000,,27.3,27.7,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,23,17,129.869,MEDIUM,2.0,2,,,27.2,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,24,17,125.338,MEDIUM,3.0,2,,,27.2,27.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,25,16,133.65,MEDIUM,4.0,2,,,27.1,27.7,False,True,
@@ -643,14 +643,14 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,31,15,119.791,MEDIUM,10.
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,32,15,117.392,MEDIUM,11.0,2,,,27.1,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,33,15,116.177,MEDIUM,12.0,2,,,27.1,28.0,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,34,15,114.795,MEDIUM,13.0,2,,,27.1,28.2,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,35,14,134.468,MEDIUM,14.0,2,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,36,14,,MEDIUM,1.0,3,,,27.2,28.8,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,35,14,134.468,MEDIUM,14.0,2,,0 days 03:24:08.556000,27.1,28.0,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,36,14,,MEDIUM,1.0,3,0 days 03:24:38.284000,,27.2,28.8,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,37,14,122.336,MEDIUM,2.0,3,,,27.1,29.0,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,38,14,131.341,MEDIUM,3.0,3,,,27.0,28.8,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,39,14,139.959,MEDIUM,4.0,3,,,27.0,28.8,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,40,11,119.931,MEDIUM,5.0,3,,,27.1,28.8,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,41,14,,MEDIUM,6.0,3,,,27.1,29.4,False,False,Missing Lap Time
-SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,42,14,145.466,SOFT,1.0,4,,,27.1,29.6,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,41,14,,MEDIUM,6.0,3,,0 days 03:38:46.529000,27.1,29.4,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,42,14,145.466,SOFT,1.0,4,0 days 03:39:19.773000,,27.1,29.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,43,14,115.808,SOFT,2.0,4,,,27.2,29.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,44,14,124.133,SOFT,3.0,4,,,27.3,29.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,45,14,115.047,SOFT,4.0,4,,,27.3,29.6,False,True,
@@ -659,8 +659,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,47,13,110.505,SOFT,6.0,4
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,48,13,111.603,SOFT,7.0,4,,,27.5,28.8,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,49,13,118.702,SOFT,8.0,4,,,27.5,28.8,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,50,13,109.567,SOFT,9.0,4,,,27.6,28.8,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,51,14,121.663,SOFT,10.0,4,,,27.6,28.5,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,52,14,136.484,SOFT,1.0,5,,,27.6,28.6,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,51,14,121.663,SOFT,10.0,4,,0 days 03:58:32.826000,27.6,28.5,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,52,14,136.484,SOFT,1.0,5,0 days 03:59:02.734000,,27.6,28.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,53,14,110.349,SOFT,2.0,5,,,27.6,28.5,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,54,14,106.458,SOFT,3.0,5,,,27.5,29.1,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,RUS,Mercedes,55,14,111.674,SOFT,4.0,5,,,27.5,29.2,False,True,
@@ -700,8 +700,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,31,3,117.456,INTERMEDIATE
 SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,32,3,118.538,INTERMEDIATE,32.0,1,,,27.0,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,33,3,118.78,INTERMEDIATE,33.0,1,,,27.1,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,34,3,118.296,INTERMEDIATE,34.0,1,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,35,2,127.162,INTERMEDIATE,35.0,1,,,27.1,28.2,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,36,4,,MEDIUM,1.0,2,,,27.1,28.1,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,35,2,127.162,INTERMEDIATE,35.0,1,,0 days 03:22:17.599000,27.1,28.2,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,36,4,,MEDIUM,1.0,2,0 days 03:22:48.193000,,27.1,28.1,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,37,3,,MEDIUM,2.0,2,,,27.2,29.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,38,3,,MEDIUM,3.0,2,,,27.0,28.8,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,SAI,Ferrari,39,3,,MEDIUM,4.0,2,,,27.0,28.8,False,False,Missing Lap Time
@@ -759,8 +759,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,31,9,119.26,INTERMED
 SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,32,9,118.733,INTERMEDIATE,32.0,1,,,27.1,27.9,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,33,8,118.974,INTERMEDIATE,33.0,1,,,27.1,28.0,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,34,7,119.151,INTERMEDIATE,34.0,1,,,27.1,28.5,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,35,7,126.733,INTERMEDIATE,35.0,1,,,27.1,28.2,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,36,7,,MEDIUM,1.0,2,,,27.2,28.4,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,35,7,126.733,INTERMEDIATE,35.0,1,,0 days 03:22:50.921000,27.1,28.2,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,36,7,,MEDIUM,1.0,2,0 days 03:23:20.806000,,27.2,28.4,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,37,7,,MEDIUM,2.0,2,,,27.2,29.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,38,7,,MEDIUM,3.0,2,,,27.0,28.8,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,STR,Aston Martin,39,7,142.974,MEDIUM,4.0,2,,,27.0,28.8,False,True,
@@ -816,8 +816,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,TSU,AlphaTauri,29,12,,INTERMEDIATE,35
 SIN22,2022,Singapore Grand Prix,Marina Bay,TSU,AlphaTauri,30,12,119.934,INTERMEDIATE,36.0,1,,,27.1,27.9,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,TSU,AlphaTauri,31,12,119.622,INTERMEDIATE,37.0,1,,,27.1,27.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,TSU,AlphaTauri,32,12,118.716,INTERMEDIATE,38.0,1,,,27.1,27.9,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,TSU,AlphaTauri,33,12,126.961,INTERMEDIATE,39.0,1,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,TSU,AlphaTauri,34,12,,MEDIUM,1.0,2,,,27.1,28.2,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,TSU,AlphaTauri,33,12,126.961,INTERMEDIATE,39.0,1,,0 days 03:19:11.678000,27.1,28.0,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,TSU,AlphaTauri,34,12,,MEDIUM,1.0,2,0 days 03:19:42.984000,,27.1,28.2,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,TSU,AlphaTauri,35,,,MEDIUM,2.0,2,,,27.1,28.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,1,12,138.601,INTERMEDIATE,1.0,1,,,26.8,29.5,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,2,10,124.389,INTERMEDIATE,2.0,1,,,26.9,29.9,False,True,
@@ -853,13 +853,13 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,31,6,119.035,INTE
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,32,6,118.925,INTERMEDIATE,32.0,1,,,27.0,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,33,6,119.987,INTERMEDIATE,33.0,1,,,27.1,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,34,5,119.73,INTERMEDIATE,34.0,1,,,27.1,28.0,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,35,5,125.082,INTERMEDIATE,35.0,1,,,27.1,28.2,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,36,6,,MEDIUM,1.0,2,,,27.1,28.1,False,False,Missing Lap Time
+SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,35,5,125.082,INTERMEDIATE,35.0,1,,0 days 03:22:34.434000,27.1,28.2,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,36,6,,MEDIUM,1.0,2,0 days 03:23:03.847000,,27.1,28.1,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,37,5,,MEDIUM,2.0,2,,,27.2,29.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,38,5,,MEDIUM,3.0,2,,,27.0,28.8,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,39,5,148.08,MEDIUM,4.0,2,,,27.0,28.8,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,40,13,133.541,MEDIUM,5.0,2,,,27.1,28.8,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,41,12,138.778,SOFT,1.0,3,,,27.0,29.3,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,40,13,133.541,MEDIUM,5.0,2,,0 days 03:35:36.119000,27.1,28.8,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,41,12,138.778,SOFT,1.0,3,0 days 03:36:05.921000,,27.0,29.3,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,42,12,113.17,SOFT,2.0,3,,,27.1,29.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,43,12,111.37,SOFT,3.0,3,,,27.1,29.6,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,VER,Red Bull Racing,44,12,110.616,SOFT,4.0,3,,,27.2,29.6,False,True,
@@ -911,8 +911,8 @@ SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,30,8,127.022,INTERME
 SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,31,8,118.68,INTERMEDIATE,31.0,1,,,27.1,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,32,8,118.943,INTERMEDIATE,32.0,1,,,27.0,27.7,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,33,7,118.895,INTERMEDIATE,33.0,1,,,27.1,27.7,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,34,8,126.308,INTERMEDIATE,34.0,1,,,27.1,28.5,False,True,
-SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,35,8,148.18,MEDIUM,1.0,2,,,27.1,28.2,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,34,8,126.308,INTERMEDIATE,34.0,1,,0 days 03:20:45.310000,27.1,28.5,False,True,
+SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,35,8,148.18,MEDIUM,1.0,2,0 days 03:21:15.001000,,27.1,28.2,False,True,
 SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,36,8,,MEDIUM,2.0,2,,,27.2,28.4,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,37,8,,MEDIUM,3.0,2,,,27.2,29.0,False,False,Missing Lap Time
 SIN22,2022,Singapore Grand Prix,Marina Bay,VET,Aston Martin,38,8,,MEDIUM,4.0,2,,,27.0,28.8,False,False,Missing Lap Time

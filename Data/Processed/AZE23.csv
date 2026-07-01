@@ -5,8 +5,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,3,12,108.815,MEDIUM,3.0,1,,,2
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,4,12,109.004,MEDIUM,4.0,1,,,24.9,43.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,5,12,108.689,MEDIUM,5.0,1,,,25.0,43.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,6,12,108.53,MEDIUM,6.0,1,,,24.8,42.3,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,7,14,112.993,MEDIUM,7.0,1,,,24.8,41.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,8,18,126.167,HARD,1.0,2,,,25.0,42.0,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,7,14,112.993,MEDIUM,7.0,1,,0 days 01:15:56.666000,24.8,41.7,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,8,18,126.167,HARD,1.0,2,0 days 01:16:17.744000,,25.0,42.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,9,17,107.968,HARD,2.0,2,,,25.0,42.4,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,10,16,120.959,HARD,3.0,2,,,25.2,42.6,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALB,Williams,11,15,149.002,HARD,4.0,2,,,25.0,40.9,False,True,
@@ -60,8 +60,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,7,6,107.955,MEDIUM,7.0,1,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,8,6,107.062,MEDIUM,8.0,1,,,25.0,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,9,5,108.83,MEDIUM,9.0,1,,,25.0,42.2,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,10,5,107.416,MEDIUM,10.0,1,,,25.2,42.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,11,4,148.557,MEDIUM,11.0,1,,,25.1,41.0,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,12,5,,HARD,1.0,2,,,24.8,41.0,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,11,4,148.557,MEDIUM,11.0,1,,0 days 01:23:34.533000,25.1,41.0,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,12,5,,HARD,1.0,2,0 days 01:23:57.689000,,24.8,41.0,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,13,5,,HARD,2.0,2,,,25.0,41.7,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,14,4,108.907,HARD,3.0,2,,,25.1,42.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ALO,Aston Martin,15,4,106.929,HARD,4.0,2,,,25.1,43.0,False,True,
@@ -106,14 +106,14 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,2,18,110.064,MEDIUM,2.0,1,,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,3,18,109.439,MEDIUM,3.0,1,,,24.9,43.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,4,18,108.992,MEDIUM,4.0,1,,,24.9,43.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,5,17,109.019,MEDIUM,5.0,1,,,25.0,43.3,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,6,19,113.204,MEDIUM,6.0,1,,,24.8,42.3,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,7,20,124.955,HARD,1.0,2,,,24.8,41.7,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,6,19,113.204,MEDIUM,6.0,1,,0 days 01:14:13.480000,24.8,42.3,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,7,20,124.955,HARD,1.0,2,0 days 01:14:34.636000,,24.8,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,8,20,108.297,HARD,2.0,2,,,25.0,42.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,9,20,109.739,HARD,3.0,2,,,25.0,42.4,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,10,19,124.641,HARD,4.0,2,,,25.2,42.6,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,11,19,,HARD,5.0,2,,,25.0,40.9,False,False,Missing Lap Time
-AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,12,19,133.014,HARD,6.0,2,,,24.8,41.0,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,13,19,140.098,HARD,1.0,3,,,25.0,41.7,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,12,19,133.014,HARD,6.0,2,,0 days 01:26:46.748000,24.8,41.0,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,13,19,140.098,HARD,1.0,3,0 days 01:27:09.107000,,25.0,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,14,19,113.128,HARD,2.0,3,,,25.1,42.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,15,19,109.679,HARD,3.0,3,,,25.0,43.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,16,19,108.513,HARD,4.0,3,,,25.0,42.5,False,True,
@@ -134,8 +134,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,30,18,107.849,HARD,18.0,3,,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,31,18,107.971,HARD,19.0,3,,,25.4,40.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,32,18,108.046,HARD,20.0,3,,,25.4,40.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,33,19,109.361,HARD,21.0,3,,,25.5,40.1,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,34,19,111.998,HARD,22.0,3,,,25.4,39.4,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,35,19,124.784,MEDIUM,1.0,4,,,25.5,39.4,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,34,19,111.998,HARD,22.0,3,,0 days 02:07:13.407000,25.4,39.4,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,35,19,124.784,MEDIUM,1.0,4,0 days 02:07:34.360000,,25.5,39.4,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,36,19,106.304,MEDIUM,2.0,4,,,25.4,39.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,37,18,106.722,MEDIUM,3.0,4,,,25.3,38.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,BOT,Alfa Romeo,38,18,106.823,MEDIUM,4.0,4,,,25.3,38.8,False,True,
@@ -165,8 +165,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,1,15,119.785,MEDIUM,1.0,1,,,25.
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,2,15,109.99,MEDIUM,2.0,1,,,25.0,43.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,3,15,109.075,MEDIUM,3.0,1,,,24.9,43.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,4,15,108.873,MEDIUM,4.0,1,,,24.9,43.0,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,5,19,113.152,MEDIUM,5.0,1,,,25.0,43.3,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,6,20,124.865,HARD,1.0,2,,,24.8,42.3,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,5,19,113.152,MEDIUM,5.0,1,,0 days 01:12:21.623000,25.0,43.3,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,6,20,124.865,HARD,1.0,2,0 days 01:12:41.904000,,24.8,42.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,7,19,107.722,HARD,2.0,2,,,24.8,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,8,19,109.057,HARD,3.0,2,,,25.0,42.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,9,18,107.851,HARD,4.0,2,,,25.0,42.4,False,True,
@@ -183,8 +183,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,19,15,108.031,HARD,14.0,2,,,25.
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,20,15,107.796,HARD,15.0,2,,,25.4,41.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,21,15,107.873,HARD,16.0,2,,,25.4,40.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,22,15,108.054,HARD,17.0,2,,,25.4,41.4,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,23,16,112.208,HARD,18.0,2,,,25.4,40.3,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,24,19,124.713,HARD,1.0,3,,,25.3,40.9,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,23,16,112.208,HARD,18.0,2,,0 days 01:47:14.101000,25.4,40.3,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,24,19,124.713,HARD,1.0,3,0 days 01:47:35.257000,,25.3,40.9,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,25,19,106.561,HARD,2.0,3,,,25.4,40.5,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,26,19,106.173,HARD,3.0,3,,,25.6,40.5,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,GAS,Alpine,27,19,106.462,HARD,4.0,3,,,25.5,40.5,False,True,
@@ -220,8 +220,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,5,5,107.791,MEDIUM,5.0,1,,,25
 AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,6,5,107.916,MEDIUM,6.0,1,,,24.8,42.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,7,5,107.816,MEDIUM,7.0,1,,,24.8,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,8,5,107.929,MEDIUM,8.0,1,,,25.0,41.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,9,7,113.178,MEDIUM,9.0,1,,,25.0,42.2,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,10,11,131.469,HARD,1.0,2,,,25.2,42.7,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,9,7,113.178,MEDIUM,9.0,1,,0 days 01:19:22.287000,25.0,42.2,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,10,11,131.469,HARD,1.0,2,0 days 01:19:42.600000,,25.2,42.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,11,11,149.985,HARD,2.0,2,,,25.0,40.9,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,12,10,145.161,HARD,3.0,2,,,24.8,41.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,13,10,,HARD,4.0,2,,,25.0,41.7,False,False,Missing Lap Time
@@ -263,7 +263,7 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,48,6,105.346,HARD,39.0,2,,,24
 AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,49,6,105.439,HARD,40.0,2,,,24.8,35.6,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,50,6,105.385,HARD,41.0,2,,,24.7,35.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HAM,Mercedes,51,6,105.42,HARD,42.0,2,,,24.7,35.1,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,1,20,122.623,HARD,1.0,1,,,25.0,43.3,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,1,20,122.623,HARD,1.0,1,0 days 01:03:15.883000,,25.0,43.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,2,20,110.227,HARD,2.0,1,,,25.0,43.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,3,20,110.097,HARD,3.0,1,,,24.9,43.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,4,20,108.731,HARD,4.0,1,,,24.9,43.0,False,True,
@@ -311,8 +311,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,45,11,109.701,HARD,45.0,1
 AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,46,12,107.65,HARD,46.0,1,,,25.0,36.5,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,47,12,108.374,HARD,47.0,1,,,24.9,35.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,48,14,109.008,HARD,48.0,1,,,24.8,35.6,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,49,16,113.182,HARD,49.0,1,,,24.8,35.1,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,50,17,126.546,SOFT,1.0,2,,,24.7,35.1,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,49,16,113.182,HARD,49.0,1,,0 days 02:33:46.582000,24.8,35.1,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,HUL,Haas F1 Team,50,17,126.546,SOFT,1.0,2,0 days 02:34:11.269000,,24.7,35.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,1,1,110.109,MEDIUM,1.0,1,,,25.0,43.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,2,1,107.656,MEDIUM,2.0,1,,,25.0,42.9,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,3,2,108.151,MEDIUM,3.0,1,,,25.0,43.1,False,True,
@@ -323,8 +323,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,7,3,107.157,MEDIUM,7.0,1,,,24.
 AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,8,3,107.707,MEDIUM,8.0,1,,,25.0,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,9,3,107.421,MEDIUM,9.0,1,,,25.0,42.2,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,10,2,107.034,MEDIUM,10.0,1,,,25.2,42.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,11,2,144.96,MEDIUM,11.0,1,,,25.1,41.0,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,12,2,,HARD,1.0,2,,,24.8,41.0,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,11,2,144.96,MEDIUM,11.0,1,,0 days 01:23:24.830000,25.1,41.0,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,12,2,,HARD,1.0,2,0 days 01:23:45.798000,,24.8,41.0,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,13,2,,HARD,2.0,2,,,25.0,41.7,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,14,3,108.511,HARD,3.0,2,,,25.1,42.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,LEC,Ferrari,15,3,106.741,HARD,4.0,2,,,25.1,43.0,False,True,
@@ -373,8 +373,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,6,13,108.951,MEDIUM,6.0,1
 AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,7,12,108.645,MEDIUM,7.0,1,,,24.8,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,8,11,108.972,MEDIUM,8.0,1,,,25.0,42.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,9,10,109.051,MEDIUM,9.0,1,,,25.0,42.2,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,10,12,122.819,MEDIUM,10.0,1,,,25.2,42.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,11,17,,HARD,1.0,2,,,25.0,40.9,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,10,12,122.819,MEDIUM,10.0,1,,0 days 01:21:34.597000,25.2,42.7,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,11,17,,HARD,1.0,2,0 days 01:22:05.534000,,25.0,40.9,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,12,17,129.751,HARD,2.0,2,,,24.8,41.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,13,17,145.627,HARD,3.0,2,,,25.0,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,MAG,Haas F1 Team,14,17,112.642,HARD,4.0,2,,,25.1,42.8,False,True,
@@ -423,8 +423,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,5,8,108.08,MEDIUM,5.0,1,,,25.0
 AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,6,8,108.216,MEDIUM,6.0,1,,,24.8,42.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,7,8,108.248,MEDIUM,7.0,1,,,24.8,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,8,8,108.336,MEDIUM,8.0,1,,,25.0,41.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,9,9,112.343,MEDIUM,9.0,1,,,25.0,42.2,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,10,13,135.72,HARD,1.0,2,,,25.2,42.6,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,9,9,112.343,MEDIUM,9.0,1,,0 days 01:19:26.272000,25.0,42.2,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,10,13,135.72,HARD,1.0,2,0 days 01:19:46.631000,,25.2,42.6,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,11,12,147.163,HARD,2.0,2,,,25.0,40.9,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,12,11,140.862,HARD,3.0,2,,,24.8,41.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,13,11,,HARD,4.0,2,,,25.0,41.7,False,False,Missing Lap Time
@@ -466,7 +466,7 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,48,10,106.197,HARD,39.0,2,,,24
 AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,49,10,105.738,HARD,40.0,2,,,24.8,35.6,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,50,9,106.056,HARD,41.0,2,,,24.7,35.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,NOR,McLaren,51,9,106.397,HARD,42.0,2,,,24.6,34.8,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,1,19,122.501,HARD,1.0,1,,,25.0,43.3,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,1,19,122.501,HARD,1.0,1,0 days 01:03:15.242000,,25.0,43.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,2,19,110.023,HARD,2.0,1,,,25.0,43.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,3,19,109.485,HARD,3.0,1,,,24.9,43.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,4,19,109.023,HARD,4.0,1,,,24.9,43.0,False,True,
@@ -515,8 +515,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,46,9,106.606,HARD,46.0,1,,,25.0
 AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,47,9,106.527,HARD,47.0,1,,,24.9,35.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,48,9,106.414,HARD,48.0,1,,,24.8,35.6,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,49,9,105.908,HARD,49.0,1,,,24.8,35.6,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,50,10,110.932,HARD,50.0,1,,,24.7,35.1,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,51,15,121.249,SOFT,1.0,2,,,24.6,34.8,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,50,10,110.932,HARD,50.0,1,,0 days 02:35:19.705000,24.7,35.1,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,OCO,Alpine,51,15,121.249,SOFT,1.0,2,0 days 02:35:40.064000,,24.6,34.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,1,3,111.373,MEDIUM,1.0,1,,,25.0,43.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,2,3,107.717,MEDIUM,2.0,1,,,25.0,43.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,3,3,107.657,MEDIUM,3.0,1,,,25.0,43.1,False,True,
@@ -527,8 +527,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,7,2,106.885,MEDIUM,7.0
 AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,8,2,106.807,MEDIUM,8.0,1,,,25.0,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,9,2,106.448,MEDIUM,9.0,1,,,25.0,42.2,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,10,1,106.905,MEDIUM,10.0,1,,,25.2,42.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,11,1,142.994,MEDIUM,11.0,1,,,25.1,41.0,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,12,1,,HARD,1.0,2,,,24.8,41.0,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,11,1,142.994,MEDIUM,11.0,1,,0 days 01:23:19.580000,25.1,41.0,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,12,1,,HARD,1.0,2,0 days 01:23:40.064000,,24.8,41.0,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,13,1,,HARD,2.0,2,,,25.0,41.7,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,14,1,105.798,HARD,3.0,2,,,25.1,42.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PER,Red Bull Racing,15,1,105.803,HARD,4.0,2,,,25.1,43.0,False,True,
@@ -575,8 +575,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,4,11,109.002,MEDIUM,4.0,1,,,24
 AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,5,11,108.298,MEDIUM,5.0,1,,,25.0,43.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,6,11,108.485,MEDIUM,6.0,1,,,24.8,42.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,7,11,109.102,MEDIUM,7.0,1,,,24.8,41.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,8,12,112.245,MEDIUM,8.0,1,,,25.0,42.0,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,9,16,125.475,HARD,1.0,2,,,25.0,42.4,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,8,12,112.245,MEDIUM,8.0,1,,0 days 01:17:43.320000,25.0,42.0,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,9,16,125.475,HARD,1.0,2,0 days 01:18:04.289000,,25.0,42.4,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,10,15,120.729,HARD,2.0,2,,,25.2,42.6,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,11,14,148.314,HARD,3.0,2,,,25.0,40.9,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,PIA,McLaren,12,13,135.556,HARD,4.0,2,,,24.8,41.0,False,True,
@@ -629,8 +629,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,7,9,108.314,MEDIUM,7.0,1,,,24
 AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,8,9,108.088,MEDIUM,8.0,1,,,25.0,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,9,8,107.757,MEDIUM,9.0,1,,,25.0,42.2,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,10,7,107.662,MEDIUM,10.0,1,,,25.2,42.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,11,5,,MEDIUM,11.0,1,,,25.0,40.9,False,False,Missing Lap Time
-AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,12,6,,HARD,1.0,2,,,24.8,41.0,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,11,5,,MEDIUM,11.0,1,,0 days 01:23:41.142000,25.0,40.9,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,12,6,,HARD,1.0,2,0 days 01:24:01.579000,,24.8,41.0,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,13,6,,HARD,2.0,2,,,25.0,41.7,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,14,7,110.486,HARD,3.0,2,,,25.1,42.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,15,8,108.356,HARD,4.0,2,,,25.0,43.0,False,True,
@@ -667,8 +667,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,45,8,105.74,HARD,34.0,2,,,25.
 AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,46,8,105.753,HARD,35.0,2,,,25.0,36.5,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,47,8,105.662,HARD,36.0,2,,,25.0,36.2,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,48,8,105.734,HARD,37.0,2,,,24.8,35.8,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,49,8,112.152,HARD,38.0,2,,,24.8,35.6,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,50,8,124.793,SOFT,1.0,3,,,24.7,35.1,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,49,8,112.152,HARD,38.0,2,,0 days 02:33:09.254000,24.8,35.6,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,50,8,124.793,SOFT,1.0,3,0 days 02:33:30.613000,,24.7,35.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,RUS,Mercedes,51,8,103.37,SOFT,2.0,3,,,24.6,34.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,1,4,112.645,MEDIUM,1.0,1,,,25.0,43.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,2,4,107.774,MEDIUM,2.0,1,,,25.0,43.1,False,True,
@@ -680,8 +680,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,7,4,107.262,MEDIUM,7.0,1,,,24.
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,8,4,107.591,MEDIUM,8.0,1,,,25.0,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,9,4,107.803,MEDIUM,9.0,1,,,25.0,42.2,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,10,4,107.412,MEDIUM,10.0,1,,,25.2,42.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,11,3,,MEDIUM,11.0,1,,,25.1,41.0,False,False,Missing Lap Time
-AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,12,4,,HARD,1.0,2,,,24.8,41.0,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,11,3,,MEDIUM,11.0,1,,0 days 01:23:32.127000,25.1,41.0,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,12,4,,HARD,1.0,2,0 days 01:23:54.079000,,24.8,41.0,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,13,4,,HARD,2.0,2,,,25.0,41.7,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,14,5,109.508,HARD,3.0,2,,,25.1,42.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAI,Ferrari,15,5,107.279,HARD,4.0,2,,,25.1,43.0,False,True,
@@ -728,8 +728,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,4,14,108.85,MEDIUM,4.0,1,,,24
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,5,14,108.875,MEDIUM,5.0,1,,,25.0,43.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,6,14,109.285,MEDIUM,6.0,1,,,24.8,42.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,7,13,109.731,MEDIUM,7.0,1,,,24.8,41.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,8,17,114.13,MEDIUM,8.0,1,,,25.0,42.0,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,9,19,125.742,HARD,1.0,2,,,25.0,42.4,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,8,17,114.13,MEDIUM,8.0,1,,0 days 01:17:49.852000,25.0,42.0,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,9,19,125.742,HARD,1.0,2,0 days 01:18:10.914000,,25.0,42.4,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,10,18,121.898,HARD,2.0,2,,,25.2,42.6,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,11,18,,HARD,3.0,2,,,25.0,40.9,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,SAR,Williams,12,18,129.271,HARD,4.0,2,,,24.8,41.0,False,True,
@@ -782,8 +782,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,7,7,108.173,MEDIUM,7.0,1,
 AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,8,7,107.944,MEDIUM,8.0,1,,,25.0,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,9,6,108.023,MEDIUM,9.0,1,,,25.0,42.2,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,10,6,107.893,MEDIUM,10.0,1,,,25.2,42.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,11,6,,MEDIUM,11.0,1,,,25.0,40.9,False,False,Missing Lap Time
-AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,12,7,,HARD,4.0,2,,,24.8,41.0,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,11,6,,MEDIUM,11.0,1,,0 days 01:23:41.205000,25.0,40.9,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,12,7,,HARD,4.0,2,0 days 01:24:04.345000,,24.8,41.0,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,13,7,,HARD,5.0,2,,,25.0,41.7,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,14,6,109.323,HARD,6.0,2,,,25.1,42.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,STR,Aston Martin,15,6,107.521,HARD,7.0,2,,,25.0,43.0,False,True,
@@ -830,8 +830,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,4,10,108.477,MEDIUM,4.0,1,,
 AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,5,10,108.599,MEDIUM,5.0,1,,,25.0,43.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,6,10,108.228,MEDIUM,6.0,1,,,24.8,42.3,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,7,10,108.26,MEDIUM,7.0,1,,,24.8,41.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,8,10,112.849,MEDIUM,8.0,1,,,25.0,42.0,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,9,15,125.578,HARD,1.0,2,,,25.0,42.4,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,8,10,112.849,MEDIUM,8.0,1,,0 days 01:17:41.992000,25.0,42.0,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,9,15,125.578,HARD,1.0,2,0 days 01:18:02.476000,,25.0,42.4,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,10,14,118.85,HARD,2.0,2,,,25.2,42.6,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,11,13,149.329,HARD,3.0,2,,,25.0,40.9,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,TSU,AlphaTauri,12,12,136.115,HARD,4.0,2,,,24.8,41.0,False,True,
@@ -883,8 +883,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,6,1,107.202,MEDIUM,6.0
 AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,7,1,106.995,MEDIUM,7.0,1,,,24.8,41.6,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,8,1,106.801,MEDIUM,8.0,1,,,25.0,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,9,1,106.944,MEDIUM,9.0,1,,,25.0,42.2,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,10,3,110.778,MEDIUM,10.0,1,,,25.2,42.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,11,7,,HARD,1.0,2,,,25.0,40.9,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,10,3,110.778,MEDIUM,10.0,1,,0 days 01:20:59.833000,25.2,42.7,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,11,7,,HARD,1.0,2,0 days 01:21:20.582000,,25.0,40.9,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,12,3,,HARD,2.0,2,,,24.8,41.0,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,13,3,,HARD,3.0,2,,,25.0,41.7,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,VER,Red Bull Racing,14,2,106.936,HARD,4.0,2,,,25.1,42.8,False,True,
@@ -935,8 +935,8 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,7,15,109.112,MEDIUM,7.0,1,,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,8,13,109.251,MEDIUM,8.0,1,,,25.0,42.0,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,9,11,109.363,MEDIUM,9.0,1,,,25.0,42.2,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,10,8,109.532,MEDIUM,10.0,1,,,25.2,42.7,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,11,8,,MEDIUM,11.0,1,,,25.0,40.9,False,False,Missing Lap Time
-AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,12,14,,HARD,1.0,2,,,24.8,41.0,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,11,8,,MEDIUM,11.0,1,,0 days 01:24:00.845000,25.0,40.9,False,False,Missing Lap Time
+AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,12,14,,HARD,1.0,2,0 days 01:24:23.063000,,24.8,41.0,False,False,Missing Lap Time
 AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,13,14,149.111,HARD,2.0,2,,,25.0,41.7,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,14,16,114.037,HARD,3.0,2,,,25.1,42.8,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,15,16,109.022,HARD,4.0,2,,,25.0,43.0,False,True,
@@ -960,4 +960,4 @@ AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,32,16,107.617,HARD,21.0,2,,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,33,16,107.662,HARD,22.0,2,,,25.5,40.1,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,34,16,107.627,HARD,23.0,2,,,25.4,39.4,False,True,
 AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,35,16,107.587,HARD,24.0,2,,,25.5,39.4,False,True,
-AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,36,18,113.661,HARD,25.0,2,,,25.4,39.1,False,True,
+AZE23,2023,Azerbaijan Grand Prix,Baku,ZHO,Alfa Romeo,36,18,113.661,HARD,25.0,2,,0 days 02:10:43.091000,25.4,39.1,False,True,

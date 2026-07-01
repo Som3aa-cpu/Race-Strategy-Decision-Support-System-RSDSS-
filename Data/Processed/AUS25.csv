@@ -1,9 +1,9 @@
 RaceID,Year,RaceName,Circuit,Driver,Team,LapNumber,Position,LapTime_Seconds,Compound,TireAge,Stint,PitOutTime,PitInTime,AirTemp,TrackTemp,Rainfall,ValidLap,ExclusionReason
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,1,7,132.195,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,2,7,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,3,7,,INTERMEDIATE,1.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,4,7,,INTERMEDIATE,2.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,5,7,142.084,INTERMEDIATE,3.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,2,7,,INTERMEDIATE,2.0,1,,0 days 01:15:48.835000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,3,7,,INTERMEDIATE,1.0,2,0 days 01:16:03.745000,0 days 01:18:31.238000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,4,7,,INTERMEDIATE,2.0,3,0 days 01:18:48.304000,0 days 01:21:07.775000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,5,7,142.084,INTERMEDIATE,3.0,4,0 days 01:21:22.068000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,6,7,139.612,INTERMEDIATE,4.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,7,7,129.065,INTERMEDIATE,5.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,8,7,98.281,INTERMEDIATE,6.0,4,,,15.9,19.1,False,True,
@@ -31,8 +31,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,29,7,90.023,INTERMEDIATE
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,30,7,89.628,INTERMEDIATE,28.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,31,7,90.053,INTERMEDIATE,29.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,32,7,90.186,INTERMEDIATE,30.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,33,7,110.179,INTERMEDIATE,31.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,34,7,147.472,MEDIUM,1.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,33,7,110.179,INTERMEDIATE,31.0,4,,0 days 02:08:14.228000,15.9,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,34,7,147.472,MEDIUM,1.0,5,0 days 02:08:32.903000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,35,7,102.979,MEDIUM,2.0,5,,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,36,7,102.745,MEDIUM,3.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,37,7,127.286,MEDIUM,4.0,5,,,16.2,19.2,False,True,
@@ -42,8 +42,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,40,7,131.839,MEDIUM,7.0,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,41,7,127.143,MEDIUM,8.0,5,,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,42,7,87.127,MEDIUM,9.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,43,7,84.597,MEDIUM,10.0,5,,,16.6,19.3,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,44,9,105.335,MEDIUM,11.0,5,,,16.4,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,45,9,96.573,INTERMEDIATE,1.0,6,,,16.1,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,44,9,105.335,MEDIUM,11.0,5,,0 days 02:29:41.637000,16.4,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,45,9,96.573,INTERMEDIATE,1.0,6,0 days 02:30:00.469000,,16.1,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,46,7,92.795,INTERMEDIATE,2.0,6,,,15.7,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,47,4,125.49,INTERMEDIATE,3.0,6,,,15.3,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,48,4,119.008,INTERMEDIATE,4.0,6,,,15.1,18.8,True,True,
@@ -57,10 +57,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,55,4,90.301,INTERMEDIATE
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,56,5,90.298,INTERMEDIATE,12.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALB,Williams,57,5,89.944,INTERMEDIATE,13.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,1,10,137.178,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,2,10,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,3,10,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,4,10,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,5,10,142.181,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,2,10,,INTERMEDIATE,2.0,1,,0 days 01:15:54.830000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,3,10,,INTERMEDIATE,3.0,2,0 days 01:16:10.400000,0 days 01:18:37.191000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,4,10,,INTERMEDIATE,4.0,3,0 days 01:18:53.529000,0 days 01:21:13.968000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,5,10,142.181,INTERMEDIATE,5.0,4,0 days 01:21:29.030000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,6,10,139.493,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,7,10,125.594,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,8,10,98.354,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -90,10 +90,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,31,10,88.85,INTERMED
 AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,32,10,88.819,INTERMEDIATE,32.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ALO,Aston Martin,33,,,INTERMEDIATE,33.0,4,,,16.1,19.0,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,1,13,142.352,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,2,13,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,3,13,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,4,13,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,5,13,139.163,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,2,13,,INTERMEDIATE,2.0,1,,0 days 01:16:01.429000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,3,13,,INTERMEDIATE,3.0,2,0 days 01:16:16.265000,0 days 01:18:43.529000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,4,13,,INTERMEDIATE,4.0,3,0 days 01:18:59.964000,0 days 01:21:21.148000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,5,13,139.163,INTERMEDIATE,5.0,4,0 days 01:21:35.283000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,6,13,141.111,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,7,13,123.412,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,8,13,98.729,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -121,8 +121,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,29,11,89.919,INTERMEDIAT
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,30,11,89.794,INTERMEDIATE,30.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,31,11,89.245,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,32,11,89.032,INTERMEDIATE,32.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,33,10,112.635,INTERMEDIATE,33.0,4,,,16.1,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,34,10,142.596,HARD,1.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,33,10,112.635,INTERMEDIATE,33.0,4,,0 days 02:08:23.095000,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,34,10,142.596,HARD,1.0,5,0 days 02:08:42.155000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,35,10,104.67,HARD,2.0,5,,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,36,10,101.655,HARD,3.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,37,10,127.298,HARD,4.0,5,,,16.2,19.2,False,True,
@@ -132,8 +132,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,40,10,129.615,HARD,7.0,5
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,41,10,126.22,HARD,8.0,5,,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,42,10,87.505,HARD,9.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,43,10,84.901,HARD,10.0,5,,,16.6,19.3,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,44,11,108.276,HARD,11.0,5,,,16.4,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,45,11,95.593,INTERMEDIATE,1.0,6,,,15.9,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,44,11,108.276,HARD,11.0,5,,0 days 02:29:44.044000,16.4,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,45,11,95.593,INTERMEDIATE,1.0,6,0 days 02:30:06.012000,,15.9,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,46,8,90.78,INTERMEDIATE,2.0,6,,,15.7,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,47,5,125.75,INTERMEDIATE,3.0,6,,,15.3,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,48,5,118.429,INTERMEDIATE,4.0,6,,,15.1,18.8,True,True,
@@ -146,11 +146,11 @@ AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,54,5,90.562,INTERMEDIATE
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,55,5,90.602,INTERMEDIATE,11.0,6,,,15.9,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,56,4,88.149,INTERMEDIATE,12.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,ANT,Mercedes,57,4,88.65,INTERMEDIATE,13.0,6,,,16.1,18.7,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,1,17,149.413,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,2,17,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,3,17,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,4,17,,INTERMEDIATE,4.0,3,,,15.9,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,5,17,125.412,INTERMEDIATE,1.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,1,17,149.413,INTERMEDIATE,1.0,1,0 days 01:11:12.042000,,15.8,19.2,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,2,17,,INTERMEDIATE,2.0,1,,0 days 01:16:08.478000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,3,17,,INTERMEDIATE,3.0,2,0 days 01:16:23.180000,0 days 01:18:51.042000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,4,17,,INTERMEDIATE,4.0,3,0 days 01:19:07.407000,0 days 01:21:30.664000,15.9,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,5,17,125.412,INTERMEDIATE,1.0,4,0 days 01:21:52.962000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,6,17,142.075,INTERMEDIATE,2.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,7,17,122.192,INTERMEDIATE,3.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,8,17,102.054,INTERMEDIATE,4.0,4,,,15.9,19.1,False,True,
@@ -184,13 +184,13 @@ AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,35,15,131.067,INTERM
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,36,15,,INTERMEDIATE,32.0,4,,,16.2,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,37,15,138.672,INTERMEDIATE,33.0,4,,,16.3,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,38,15,132.858,INTERMEDIATE,34.0,4,,,16.4,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,39,16,130.476,INTERMEDIATE,35.0,4,,,16.4,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,40,16,113.822,MEDIUM,,5,,,16.5,19.3,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,39,16,130.476,INTERMEDIATE,35.0,4,,0 days 02:22:42.794000,16.4,19.2,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,40,16,113.822,MEDIUM,,5,0 days 02:23:05.453000,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,41,16,89.149,MEDIUM,,5,,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,42,16,87.603,MEDIUM,,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,43,16,91.057,MEDIUM,,5,,,16.6,19.3,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,44,16,122.961,MEDIUM,,5,,,16.1,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,45,16,101.777,INTERMEDIATE,1.0,6,,,15.7,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,44,16,122.961,MEDIUM,,5,,0 days 02:31:10.506000,16.1,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,45,16,101.777,INTERMEDIATE,1.0,6,0 days 02:31:29.994000,,15.7,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,46,15,125.498,INTERMEDIATE,2.0,6,,,15.3,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,47,14,118.594,INTERMEDIATE,3.0,6,,,15.1,18.8,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,48,14,144.788,INTERMEDIATE,4.0,6,,,15.1,18.8,False,True,
@@ -204,10 +204,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,55,14,91.284,INTERME
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,56,14,90.226,INTERMEDIATE,12.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BEA,Haas F1 Team,57,14,90.553,INTERMEDIATE,13.0,6,,,16.2,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,1,14,144.063,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,2,14,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,3,14,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,4,14,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,5,14,138.316,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,2,14,,INTERMEDIATE,2.0,1,,0 days 01:16:03.063000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,3,14,,INTERMEDIATE,3.0,2,0 days 01:16:17.705000,0 days 01:18:45.520000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,4,14,,INTERMEDIATE,4.0,3,0 days 01:19:01.883000,0 days 01:21:23.257000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,5,14,138.316,INTERMEDIATE,5.0,4,0 days 01:21:37.664000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,6,14,140.976,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,7,14,123.467,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,8,14,100.265,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -235,8 +235,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,29,14,91.329,INTERMED
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,30,14,91.146,INTERMEDIATE,30.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,31,14,90.446,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,32,14,89.83,INTERMEDIATE,32.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,33,13,130.326,INTERMEDIATE,33.0,4,,,16.1,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,34,13,124.556,MEDIUM,1.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,33,13,130.326,INTERMEDIATE,33.0,4,,0 days 02:08:59.204000,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,34,13,124.556,MEDIUM,1.0,5,0 days 02:09:23.220000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,35,13,132.146,MEDIUM,2.0,5,,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,36,13,,MEDIUM,3.0,5,,,16.2,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,37,13,140.921,MEDIUM,4.0,5,,,16.3,19.2,False,True,
@@ -246,15 +246,15 @@ AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,40,13,92.438,MEDIUM,7
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,41,13,88.125,MEDIUM,8.0,5,,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,42,13,84.77,MEDIUM,9.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,43,13,84.192,MEDIUM,10.0,5,,,16.6,19.3,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,44,13,112.582,MEDIUM,11.0,5,,,16.4,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,45,13,96.255,INTERMEDIATE,1.0,6,,,15.9,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,44,13,112.582,MEDIUM,11.0,5,,0 days 02:29:55.899000,16.4,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,45,13,96.255,INTERMEDIATE,1.0,6,0 days 02:30:21.968000,,15.9,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,BOR,Kick Sauber,46,,,INTERMEDIATE,2.0,6,,,15.5,19.3,True,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,DOO,Alpine,1,,,INTERMEDIATE,1.0,1,,,15.8,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,1,9,134.132,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,2,9,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,3,9,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,4,9,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,5,9,141.36,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,2,9,,INTERMEDIATE,2.0,1,,0 days 01:15:53.611000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,3,9,,INTERMEDIATE,3.0,2,0 days 01:16:08.591000,0 days 01:18:36.076000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,4,9,,INTERMEDIATE,4.0,3,0 days 01:18:51.914000,0 days 01:21:12.398000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,5,9,141.36,INTERMEDIATE,5.0,4,0 days 01:21:27.130000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,6,9,139.952,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,7,9,126.733,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,8,9,98.441,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -282,8 +282,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,29,9,90.051,INTERMEDIATE,2
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,30,9,90.124,INTERMEDIATE,30.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,31,9,89.299,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,32,9,89.383,INTERMEDIATE,32.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,33,9,111.3,INTERMEDIATE,33.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,34,9,145.049,HARD,1.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,33,9,111.3,INTERMEDIATE,33.0,4,,0 days 02:08:17.990000,15.9,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,34,9,145.049,HARD,1.0,5,0 days 02:08:37.599000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,35,9,105.531,HARD,2.0,5,,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,36,9,101.62,HARD,3.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,37,9,127.218,HARD,4.0,5,,,16.2,19.2,False,True,
@@ -295,8 +295,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,42,9,87.942,HARD,9.0,5,,,1
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,43,9,85.02,HARD,10.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,44,4,88.332,HARD,11.0,5,,,16.4,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,45,4,92.969,HARD,12.0,5,,,16.1,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,46,11,116.069,HARD,13.0,5,,,15.7,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,47,8,126.74,INTERMEDIATE,1.0,6,,,15.3,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,46,11,116.069,HARD,13.0,5,,0 days 02:32:55.194000,15.7,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,47,8,126.74,INTERMEDIATE,1.0,6,0 days 02:33:14.929000,,15.3,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,48,8,121.785,INTERMEDIATE,2.0,6,,,15.1,18.8,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,49,8,144.669,INTERMEDIATE,3.0,6,,,15.1,18.8,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,50,8,137.754,INTERMEDIATE,4.0,6,,,15.2,18.8,False,True,
@@ -309,10 +309,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,56,11,90.866,INTERMEDIATE,
 AUS25,2025,Australian Grand Prix,Melbourne,GAS,Alpine,57,11,91.312,INTERMEDIATE,11.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAD,Racing Bulls,1,,,INTERMEDIATE,1.0,1,,,15.8,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,1,8,132.883,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,2,8,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,3,8,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,4,8,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,5,8,141.772,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,2,8,,INTERMEDIATE,2.0,1,,0 days 01:15:51.246000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,3,8,,INTERMEDIATE,3.0,2,0 days 01:16:05.978000,0 days 01:18:33.930000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,4,8,,INTERMEDIATE,4.0,3,0 days 01:18:50.272000,0 days 01:21:09.633000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,5,8,141.772,INTERMEDIATE,5.0,4,0 days 01:21:24.483000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,6,8,140.418,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,7,8,127.498,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,8,8,98.311,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -340,8 +340,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,29,8,90.127,INTERMEDIATE,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,30,8,89.737,INTERMEDIATE,30.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,31,8,90.422,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,32,8,90.234,INTERMEDIATE,32.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,33,8,110.479,INTERMEDIATE,33.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,34,8,146.885,HARD,2.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,33,8,110.479,INTERMEDIATE,33.0,4,,0 days 02:08:16.061000,15.9,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,34,8,146.885,HARD,2.0,5,0 days 02:08:34.670000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,35,8,103.401,HARD,3.0,5,,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,36,8,102.431,HARD,4.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,37,8,128.079,HARD,5.0,5,,,16.2,19.2,False,True,
@@ -354,8 +354,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,43,8,84.218,HARD,11.0,5,,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,44,3,89.454,HARD,12.0,5,,,16.4,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,45,2,93.045,HARD,13.0,5,,,16.1,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,46,1,96.714,HARD,14.0,5,,,15.7,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,47,9,,HARD,15.0,5,,,15.3,19.3,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,48,9,119.219,INTERMEDIATE,1.0,6,,,15.1,18.8,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,47,9,,HARD,15.0,5,,0 days 02:35:04.708000,15.3,19.3,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,48,9,119.219,INTERMEDIATE,1.0,6,0 days 02:35:25.627000,,15.1,18.8,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,49,9,144.575,INTERMEDIATE,2.0,6,,,15.1,18.8,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,50,9,137.095,INTERMEDIATE,3.0,6,,,15.2,18.8,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,51,9,131.311,INTERMEDIATE,4.0,6,,,15.1,18.8,False,True,
@@ -366,10 +366,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,55,9,89.874,INTERMEDIATE,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,56,9,90.095,INTERMEDIATE,9.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HAM,Ferrari,57,10,92.418,INTERMEDIATE,10.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,1,12,141.221,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,2,12,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,3,12,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,4,12,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,5,12,139.058,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,2,12,,INTERMEDIATE,2.0,1,,0 days 01:15:59.421000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,3,12,,INTERMEDIATE,3.0,2,0 days 01:16:14.730000,0 days 01:18:41.760000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,4,12,,INTERMEDIATE,4.0,3,0 days 01:18:57.772000,0 days 01:21:19.330000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,5,12,139.058,INTERMEDIATE,5.0,4,0 days 01:21:33.532000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,6,12,141.111,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,7,12,124.116,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,8,12,98.959,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -397,8 +397,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,29,13,90.378,INTERMED
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,30,13,90.691,INTERMEDIATE,30.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,31,13,90.071,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,32,13,90.109,INTERMEDIATE,32.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,33,12,125.643,INTERMEDIATE,33.0,4,,,16.1,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,34,12,124.547,MEDIUM,1.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,33,12,125.643,INTERMEDIATE,33.0,4,,0 days 02:08:53.146000,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,34,12,124.547,MEDIUM,1.0,5,0 days 02:09:14.269000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,35,12,103.738,MEDIUM,2.0,5,,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,36,12,99.268,MEDIUM,3.0,5,,,16.2,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,37,12,120.019,MEDIUM,4.0,5,,,16.3,19.2,False,True,
@@ -408,8 +408,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,40,12,130.024,MEDIUM,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,41,12,123.528,MEDIUM,8.0,5,,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,42,12,87.472,MEDIUM,9.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,43,12,85.243,MEDIUM,10.0,5,,,16.6,19.3,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,44,12,106.696,MEDIUM,11.0,5,,,16.4,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,45,12,97.137,INTERMEDIATE,1.0,6,,,15.9,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,44,12,106.696,MEDIUM,11.0,5,,0 days 02:29:46.305000,16.4,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,45,12,97.137,INTERMEDIATE,1.0,6,0 days 02:30:06.468000,,15.9,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,46,12,91.21,INTERMEDIATE,2.0,6,,,15.7,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,47,7,125.179,INTERMEDIATE,3.0,6,,,15.3,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,48,7,120.075,INTERMEDIATE,4.0,6,,,15.1,18.8,True,True,
@@ -422,11 +422,11 @@ AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,54,7,90.994,INTERMEDI
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,55,7,90.437,INTERMEDIATE,11.0,6,,,15.9,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,56,7,90.36,INTERMEDIATE,12.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,HUL,Kick Sauber,57,7,90.86,INTERMEDIATE,13.0,6,,,16.1,18.7,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,1,16,148.795,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,2,16,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,3,16,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,4,16,,INTERMEDIATE,1.0,3,,,15.9,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,5,16,131.293,INTERMEDIATE,4.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,1,16,148.795,INTERMEDIATE,1.0,1,0 days 01:11:10.858000,,15.8,19.2,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,2,16,,INTERMEDIATE,2.0,1,,0 days 01:16:07.402000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,3,16,,INTERMEDIATE,3.0,2,0 days 01:16:22.171000,0 days 01:18:50.242000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,4,16,,INTERMEDIATE,1.0,3,0 days 01:19:06.403000,0 days 01:21:27.905000,15.9,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,5,16,131.293,INTERMEDIATE,4.0,4,0 days 01:21:46.674000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,6,16,141.609,INTERMEDIATE,5.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,7,16,122.216,INTERMEDIATE,6.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,8,16,100.582,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
@@ -454,8 +454,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,29,15,90.803,INTE
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,30,15,91.312,INTERMEDIATE,29.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,31,15,91.649,INTERMEDIATE,30.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,32,15,93.76,INTERMEDIATE,31.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,33,15,128.342,INTERMEDIATE,32.0,4,,,16.1,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,34,16,124.275,MEDIUM,1.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,33,15,128.342,INTERMEDIATE,32.0,4,,0 days 02:09:10.507000,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,34,16,124.275,MEDIUM,1.0,5,0 days 02:09:30.536000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,35,16,128.71,MEDIUM,2.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,36,16,,MEDIUM,3.0,5,,,16.2,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,37,16,137.76,MEDIUM,4.0,5,,,16.3,19.2,False,True,
@@ -470,10 +470,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,45,7,97.844,MEDIU
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,46,9,99.457,MEDIUM,13.0,5,,,15.7,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LAW,Red Bull Racing,47,,,MEDIUM,14.0,5,,,15.2,18.8,True,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,1,5,128.48,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,2,5,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,3,5,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,4,5,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,5,5,142.597,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,2,5,,INTERMEDIATE,2.0,1,,0 days 01:15:44.366000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,3,5,,INTERMEDIATE,3.0,2,0 days 01:15:58.544000,0 days 01:18:26.003000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,4,5,,INTERMEDIATE,4.0,3,0 days 01:18:40.624000,0 days 01:21:02.246000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,5,5,142.597,INTERMEDIATE,5.0,4,0 days 01:21:16.471000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,6,5,138.85,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,7,5,133.209,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,8,5,98.19,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -502,8 +502,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,30,5,89.367,INTERMEDIATE,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,31,5,89.546,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,32,5,89.337,INTERMEDIATE,32.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,33,5,93.966,INTERMEDIATE,33.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,34,5,133.905,INTERMEDIATE,34.0,4,,,16.1,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,35,5,126.872,HARD,2.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,34,5,133.905,INTERMEDIATE,34.0,4,,0 days 02:09:55.018000,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,35,5,126.872,HARD,2.0,5,0 days 02:10:13.161000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,36,5,102.406,HARD,3.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,37,5,148.223,HARD,4.0,5,,,16.2,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,38,5,139.475,HARD,5.0,5,,,16.3,19.2,False,True,
@@ -515,8 +515,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,43,6,85.271,HARD,10.0,5,,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,44,5,96.363,HARD,11.0,5,,,16.4,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,45,5,91.269,HARD,12.0,5,,,16.1,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,46,2,96.429,HARD,13.0,5,,,15.7,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,47,10,,HARD,14.0,5,,,15.3,19.3,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,48,10,116.044,INTERMEDIATE,1.0,6,,,15.1,18.8,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,47,10,,HARD,14.0,5,,0 days 02:35:06.901000,15.3,19.3,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,48,10,116.044,INTERMEDIATE,1.0,6,0 days 02:35:31.368000,,15.1,18.8,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,49,10,142.777,INTERMEDIATE,2.0,6,,,15.1,18.8,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,50,10,139.782,INTERMEDIATE,3.0,6,,,15.2,18.8,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,51,10,127.996,INTERMEDIATE,4.0,6,,,15.1,18.8,False,True,
@@ -527,10 +527,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,55,8,89.975,INTERMEDIATE,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,56,8,89.801,INTERMEDIATE,9.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,LEC,Ferrari,57,8,90.964,INTERMEDIATE,10.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,1,1,117.099,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,2,1,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,3,1,,INTERMEDIATE,3.0,2,,,15.8,19.2,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,4,1,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,5,1,143.648,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,2,1,,INTERMEDIATE,2.0,1,,0 days 01:15:36.644000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,3,1,,INTERMEDIATE,3.0,2,0 days 01:15:50.143000,0 days 01:18:18.691000,15.8,19.2,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,4,1,,INTERMEDIATE,4.0,3,0 days 01:18:31.544000,0 days 01:20:54.690000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,5,1,143.648,INTERMEDIATE,5.0,4,0 days 01:21:07.473000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,6,1,140.423,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,7,1,137.108,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,8,1,96.278,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -559,8 +559,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,30,1,88.032,INTERMEDIATE,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,31,1,87.695,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,32,1,87.8,INTERMEDIATE,32.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,33,1,87.495,INTERMEDIATE,33.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,34,1,122.273,INTERMEDIATE,34.0,4,,,16.1,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,35,1,123.448,HARD,2.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,34,1,122.273,INTERMEDIATE,34.0,4,,0 days 02:09:00.096000,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,35,1,123.448,HARD,2.0,5,0 days 02:09:18.613000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,36,1,136.883,HARD,3.0,5,,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,37,1,,HARD,4.0,5,,,16.2,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,38,1,141.02,HARD,5.0,5,,,16.3,19.2,False,True,
@@ -569,8 +569,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,40,1,135.337,HARD,7.0,5,,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,41,1,133.937,HARD,8.0,5,,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,42,1,83.797,HARD,9.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,43,1,82.167,HARD,10.0,5,,,16.6,19.3,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,44,6,105.587,HARD,11.0,5,,,16.4,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,45,6,96.407,INTERMEDIATE,1.0,6,,,16.1,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,44,6,105.587,HARD,11.0,5,,0 days 02:29:33.442000,16.4,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,45,6,96.407,INTERMEDIATE,1.0,6,0 days 02:29:51.347000,,16.1,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,46,3,91.567,INTERMEDIATE,2.0,6,,,15.7,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,47,1,113.728,INTERMEDIATE,3.0,6,,,15.3,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,48,1,136.995,INTERMEDIATE,4.0,6,,,15.1,18.8,True,True,
@@ -584,10 +584,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,55,1,89.195,INTERMEDIATE,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,56,1,87.996,INTERMEDIATE,12.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,NOR,McLaren,57,1,87.126,INTERMEDIATE,13.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,1,15,145.769,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,2,15,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,3,15,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,4,15,,INTERMEDIATE,4.0,3,,,15.9,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,5,15,130.528,INTERMEDIATE,1.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,2,15,,INTERMEDIATE,2.0,1,,0 days 01:16:05.054000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,3,15,,INTERMEDIATE,3.0,2,0 days 01:16:19.513000,0 days 01:18:47.469000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,4,15,,INTERMEDIATE,4.0,3,0 days 01:19:04.029000,0 days 01:21:25.943000,15.9,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,5,15,130.528,INTERMEDIATE,1.0,4,0 days 01:21:45.607000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,6,15,140.986,INTERMEDIATE,2.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,7,15,123.018,INTERMEDIATE,3.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,8,15,100.522,INTERMEDIATE,4.0,4,,,15.9,19.1,False,True,
@@ -621,15 +621,15 @@ AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,35,14,132.165,INTERM
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,36,14,,INTERMEDIATE,32.0,4,,,16.2,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,37,14,140.137,INTERMEDIATE,33.0,4,,,16.3,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,38,14,132.933,INTERMEDIATE,34.0,4,,,16.4,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,39,15,124.201,INTERMEDIATE,35.0,4,,,16.4,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,40,15,102.035,MEDIUM,1.0,5,,,16.4,19.3,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,39,15,124.201,INTERMEDIATE,35.0,4,,0 days 02:22:37.662000,16.4,19.2,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,40,15,102.035,MEDIUM,1.0,5,0 days 02:22:56.609000,,16.4,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,41,15,89.339,MEDIUM,2.0,5,,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,42,15,86.764,MEDIUM,3.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,43,15,88.505,MEDIUM,4.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,44,14,93.574,MEDIUM,5.0,5,,,16.4,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,45,14,96.259,MEDIUM,6.0,5,,,15.9,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,46,13,141.745,MEDIUM,7.0,5,,,15.5,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,47,12,127.226,INTERMEDIATE,1.0,6,,,15.1,18.8,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,46,13,141.745,MEDIUM,7.0,5,,0 days 02:34:14.801000,15.5,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,47,12,127.226,INTERMEDIATE,1.0,6,0 days 02:34:34.762000,,15.1,18.8,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,48,12,106.416,INTERMEDIATE,2.0,6,,,15.1,18.8,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,49,12,101.743,INTERMEDIATE,3.0,6,,,15.1,18.8,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,50,12,122.853,INTERMEDIATE,4.0,6,,,15.2,18.8,False,True,
@@ -641,10 +641,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,55,13,92.26,INTERMED
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,56,13,91.913,INTERMEDIATE,10.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,OCO,Haas F1 Team,57,13,90.924,INTERMEDIATE,11.0,6,,,16.2,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,1,3,120.807,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,2,3,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,3,3,,INTERMEDIATE,3.0,2,,,15.8,19.2,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,4,3,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,5,3,143.155,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,2,3,,INTERMEDIATE,2.0,1,,0 days 01:15:40.060000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,3,3,,INTERMEDIATE,3.0,2,0 days 01:15:53.106000,0 days 01:18:21.675000,15.8,19.2,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,4,3,,INTERMEDIATE,4.0,3,0 days 01:18:35.632000,0 days 01:20:58.263000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,5,3,143.155,INTERMEDIATE,5.0,4,0 days 01:21:11.064000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,6,3,139.873,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,7,3,135.569,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,8,3,97.251,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -673,8 +673,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,30,2,88.331,INTERMEDIATE,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,31,2,87.916,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,32,2,89.379,INTERMEDIATE,32.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,33,2,88.226,INTERMEDIATE,33.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,34,2,127.025,INTERMEDIATE,34.0,4,,,16.1,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,35,2,123.781,HARD,2.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,34,2,127.025,INTERMEDIATE,34.0,4,,0 days 02:09:07.101000,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,35,2,123.781,HARD,2.0,5,0 days 02:09:26.718000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,36,2,131.212,HARD,3.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,37,2,,HARD,4.0,5,,,16.2,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,38,2,138.892,HARD,5.0,5,,,16.3,19.2,False,True,
@@ -683,8 +683,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,40,2,133.016,HARD,7.0,5,,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,41,2,133.553,HARD,8.0,5,,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,42,2,84.583,HARD,9.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,43,2,83.242,HARD,10.0,5,,,16.6,19.3,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,44,15,,HARD,11.0,5,,,16.1,19.3,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,45,15,98.184,INTERMEDIATE,1.0,6,,,15.7,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,44,15,,HARD,11.0,5,,0 days 02:30:59.848000,16.1,19.3,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,45,15,98.184,INTERMEDIATE,1.0,6,0 days 02:31:19.599000,,15.7,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,46,14,111.022,INTERMEDIATE,2.0,6,,,15.3,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,47,13,120.17,INTERMEDIATE,3.0,6,,,15.1,18.8,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,48,13,102.413,INTERMEDIATE,4.0,6,,,15.1,18.8,True,True,
@@ -698,10 +698,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,55,10,90.051,INTERMEDIATE
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,56,10,88.559,INTERMEDIATE,12.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,PIA,McLaren,57,9,89.517,INTERMEDIATE,13.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,1,4,124.644,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,2,4,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,3,4,,INTERMEDIATE,3.0,2,,,15.8,19.2,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,4,4,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,5,4,141.712,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,2,4,,INTERMEDIATE,2.0,1,,0 days 01:15:41.818000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,3,4,,INTERMEDIATE,3.0,2,0 days 01:15:55.644000,0 days 01:18:23.749000,15.8,19.2,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,4,4,,INTERMEDIATE,4.0,3,0 days 01:18:37.950000,0 days 01:21:00.668000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,5,4,141.712,INTERMEDIATE,5.0,4,0 days 01:21:14.431000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,6,4,139.485,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,7,4,134.684,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,8,4,97.824,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -730,8 +730,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,30,4,89.789,INTERMEDIATE
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,31,4,89.041,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,32,4,89.361,INTERMEDIATE,32.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,33,4,90.553,INTERMEDIATE,33.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,34,4,135.518,INTERMEDIATE,34.0,4,,,16.1,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,35,4,125.981,HARD,1.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,34,4,135.518,INTERMEDIATE,34.0,4,,0 days 02:09:45.950000,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,35,4,125.981,HARD,1.0,5,0 days 02:10:05.197000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,36,4,104.906,HARD,2.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,37,4,,HARD,3.0,5,,,16.2,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,38,4,138.272,HARD,4.0,5,,,16.3,19.2,False,True,
@@ -740,8 +740,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,40,4,131.368,HARD,6.0,5,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,41,4,131.214,HARD,7.0,5,,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,42,4,86.239,HARD,8.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,43,4,85.065,HARD,9.0,5,,,16.6,19.3,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,44,8,106.238,HARD,10.0,5,,,16.4,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,45,8,96.33,INTERMEDIATE,1.0,6,,,16.1,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,44,8,106.238,HARD,10.0,5,,0 days 02:29:40.154000,16.4,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,45,8,96.33,INTERMEDIATE,1.0,6,0 days 02:29:59.594000,,16.1,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,46,6,91.87,INTERMEDIATE,2.0,6,,,15.7,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,47,3,122.439,INTERMEDIATE,3.0,6,,,15.3,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,48,3,123.129,INTERMEDIATE,4.0,6,,,15.1,18.8,True,True,
@@ -756,10 +756,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,56,3,89.454,INTERMEDIATE
 AUS25,2025,Australian Grand Prix,Melbourne,RUS,Mercedes,57,3,89.117,INTERMEDIATE,13.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,SAI,Williams,1,,,INTERMEDIATE,1.0,1,,,15.8,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,1,11,139.485,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,2,11,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,3,11,,INTERMEDIATE,1.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,4,11,,INTERMEDIATE,1.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,5,11,140.409,INTERMEDIATE,1.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,2,11,,INTERMEDIATE,2.0,1,,0 days 01:15:57.307000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,3,11,,INTERMEDIATE,1.0,2,0 days 01:16:13.028000,0 days 01:18:40.020000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,4,11,,INTERMEDIATE,1.0,3,0 days 01:18:56.155000,0 days 01:21:17.105000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,5,11,140.409,INTERMEDIATE,1.0,4,0 days 01:21:31.574000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,6,11,140.973,INTERMEDIATE,2.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,7,11,124.687,INTERMEDIATE,3.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,8,11,98.664,INTERMEDIATE,4.0,4,,,15.9,19.1,False,True,
@@ -787,8 +787,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,29,12,90.935,INTERME
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,30,12,90.853,INTERMEDIATE,26.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,31,12,91.077,INTERMEDIATE,27.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,32,12,90.657,INTERMEDIATE,28.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,33,11,122.766,INTERMEDIATE,29.0,4,,,16.1,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,34,11,124.993,HARD,2.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,33,11,122.766,INTERMEDIATE,29.0,4,,0 days 02:08:44.912000,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,34,11,124.993,HARD,2.0,5,0 days 02:09:03.663000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,35,11,105.462,HARD,3.0,5,,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,36,11,99.85,HARD,4.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,37,11,126.301,HARD,5.0,5,,,16.2,19.2,False,True,
@@ -798,8 +798,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,40,11,129.9,HARD,8.0
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,41,11,124.101,HARD,9.0,5,,,16.5,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,42,11,87.301,HARD,10.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,43,11,85.538,HARD,11.0,5,,,16.6,19.3,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,44,10,104.738,HARD,12.0,5,,,16.4,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,45,10,97.256,INTERMEDIATE,1.0,6,,,15.9,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,44,10,104.738,HARD,12.0,5,,0 days 02:29:44.983000,16.4,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,45,10,97.256,INTERMEDIATE,1.0,6,0 days 02:30:03.907000,,15.9,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,46,10,92.361,INTERMEDIATE,2.0,6,,,15.7,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,47,6,125.678,INTERMEDIATE,3.0,6,,,15.3,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,48,6,119.297,INTERMEDIATE,4.0,6,,,15.1,18.8,True,True,
@@ -813,10 +813,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,55,6,90.387,INTERMED
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,56,6,90.323,INTERMEDIATE,12.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,STR,Aston Martin,57,6,90.957,INTERMEDIATE,13.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,1,6,130.655,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,2,6,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,3,6,,INTERMEDIATE,3.0,2,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,4,6,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,5,6,141.441,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,2,6,,INTERMEDIATE,2.0,1,,0 days 01:15:46.618000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,3,6,,INTERMEDIATE,3.0,2,0 days 01:16:01.530000,0 days 01:18:29.345000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,4,6,,INTERMEDIATE,4.0,3,0 days 01:18:44.490000,0 days 01:21:06.137000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,5,6,141.441,INTERMEDIATE,5.0,4,0 days 01:21:19.691000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,6,6,139.381,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,7,6,131.451,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,8,6,98.464,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -844,8 +844,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,29,6,90.031,INTERMED
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,30,6,90.184,INTERMEDIATE,30.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,31,6,90.082,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,32,6,90.492,INTERMEDIATE,32.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,33,6,110.651,INTERMEDIATE,33.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,34,6,146.811,MEDIUM,1.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,33,6,110.651,INTERMEDIATE,33.0,4,,0 days 02:08:13.310000,15.9,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,34,6,146.811,MEDIUM,1.0,5,0 days 02:08:32.258000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,35,6,102.362,MEDIUM,2.0,5,,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,36,6,99.366,MEDIUM,3.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,37,6,131.741,MEDIUM,4.0,5,,,16.2,19.2,False,True,
@@ -858,8 +858,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,43,5,84.194,MEDIUM,1
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,44,2,88.252,MEDIUM,11.0,5,,,16.4,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,45,3,95.983,MEDIUM,12.0,5,,,16.1,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,46,4,100.978,MEDIUM,13.0,5,,,15.7,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,47,11,,MEDIUM,14.0,5,,,15.3,19.3,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,48,11,116.286,INTERMEDIATE,1.0,6,,,15.1,18.8,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,47,11,,MEDIUM,14.0,5,,0 days 02:35:13.664000,15.3,19.3,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,48,11,116.286,INTERMEDIATE,1.0,6,0 days 02:35:32.932000,,15.1,18.8,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,49,11,142.564,INTERMEDIATE,2.0,6,,,15.1,18.8,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,50,11,140.101,INTERMEDIATE,3.0,6,,,15.2,18.8,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,51,11,127.055,INTERMEDIATE,4.0,6,,,15.1,18.8,False,True,
@@ -870,10 +870,10 @@ AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,55,12,91.891,INTERME
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,56,12,91.524,INTERMEDIATE,9.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,TSU,Racing Bulls,57,12,91.511,INTERMEDIATE,10.0,6,,,16.1,18.7,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,1,2,119.392,INTERMEDIATE,1.0,1,,,15.8,19.2,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,2,2,,INTERMEDIATE,2.0,1,,,15.8,19.2,False,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,3,2,,INTERMEDIATE,3.0,2,,,15.8,19.2,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,4,2,,INTERMEDIATE,4.0,3,,,15.8,19.0,True,False,Missing Lap Time
-AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,5,2,143.609,INTERMEDIATE,5.0,4,,,15.8,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,2,2,,INTERMEDIATE,2.0,1,,0 days 01:15:38.205000,15.8,19.2,False,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,3,2,,INTERMEDIATE,3.0,2,0 days 01:15:51.658000,0 days 01:18:20.223000,15.8,19.2,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,4,2,,INTERMEDIATE,4.0,3,0 days 01:18:34.029000,0 days 01:20:56.543000,15.8,19.0,True,False,Missing Lap Time
+AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,5,2,143.609,INTERMEDIATE,5.0,4,0 days 01:21:09.534000,,15.8,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,6,2,139.654,INTERMEDIATE,6.0,4,,,15.9,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,7,2,136.447,INTERMEDIATE,7.0,4,,,15.9,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,8,2,96.83,INTERMEDIATE,8.0,4,,,15.9,19.1,False,True,
@@ -902,8 +902,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,30,3,88.237,INTER
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,31,3,88.127,INTERMEDIATE,31.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,32,3,88.208,INTERMEDIATE,32.0,4,,,15.8,19.1,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,33,3,88.046,INTERMEDIATE,33.0,4,,,15.9,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,34,3,128.598,INTERMEDIATE,34.0,4,,,16.1,19.0,False,True,
-AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,35,3,124.508,MEDIUM,1.0,5,,,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,34,3,128.598,INTERMEDIATE,34.0,4,,0 days 02:09:24.559000,16.1,19.0,False,True,
+AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,35,3,124.508,MEDIUM,1.0,5,0 days 02:09:43.218000,,16.1,19.0,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,36,3,116.334,MEDIUM,2.0,5,,,16.1,19.2,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,37,3,,MEDIUM,3.0,5,,,16.2,19.2,False,False,Missing Lap Time
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,38,3,137.91,MEDIUM,4.0,5,,,16.3,19.2,False,True,
@@ -914,8 +914,8 @@ AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,42,3,85.317,MEDIU
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,43,3,83.081,MEDIUM,9.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,44,1,86.789,MEDIUM,10.0,5,,,16.6,19.3,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,45,1,92.874,MEDIUM,11.0,5,,,16.1,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,46,5,112.606,MEDIUM,12.0,5,,,15.7,19.3,True,True,
-AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,47,2,127.213,INTERMEDIATE,1.0,6,,,15.3,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,46,5,112.606,MEDIUM,12.0,5,,0 days 02:32:42.968000,15.7,19.3,True,True,
+AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,47,2,127.213,INTERMEDIATE,1.0,6,0 days 02:33:01.788000,,15.3,19.3,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,48,2,122.406,INTERMEDIATE,2.0,6,,,15.1,18.8,True,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,49,2,144.892,INTERMEDIATE,3.0,6,,,15.1,18.8,False,True,
 AUS25,2025,Australian Grand Prix,Melbourne,VER,Red Bull Racing,50,2,142.085,INTERMEDIATE,4.0,6,,,15.2,18.8,False,True,

@@ -1,14 +1,14 @@
 RaceID,Year,RaceName,Circuit,Driver,Team,LapNumber,Position,LapTime_Seconds,Compound,TireAge,Stint,PitOutTime,PitInTime,AirTemp,TrackTemp,Rainfall,ValidLap,ExclusionReason
 JPN22,2022,Japanese Grand Prix,Suzuka,ALB,Williams,1,,,INTERMEDIATE,1.0,1,,,17.5,21.1,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,1,6,139.009,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,2,6,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,3,6,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,2,6,,INTERMEDIATE,2.0,1,,0 days 01:07:52.426000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,3,6,,WET,1.0,2,0 days 03:14:29.304000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,4,6,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,5,6,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,6,6,116.3,WET,4.0,2,,,15.9,18.5,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,7,5,113.315,WET,5.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,8,1,112.739,WET,6.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,9,9,132.203,INTERMEDIATE,1.0,3,,,15.9,18.4,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,8,1,112.739,WET,6.0,2,,0 days 03:28:28.491000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,9,9,132.203,INTERMEDIATE,1.0,3,0 days 03:28:52.623000,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,10,8,108.497,INTERMEDIATE,2.0,3,,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,11,7,109.226,INTERMEDIATE,3.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,12,7,106.995,INTERMEDIATE,4.0,3,,,15.8,18.3,True,True,
@@ -21,20 +21,20 @@ JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,18,7,108.852,INTERMEDIATE,10.0,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,19,7,108.965,INTERMEDIATE,11.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,20,7,109.103,INTERMEDIATE,12.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,21,7,109.038,INTERMEDIATE,13.0,3,,,15.9,18.2,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,22,7,111.629,INTERMEDIATE,14.0,3,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,23,9,125.304,INTERMEDIATE,1.0,4,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,22,7,111.629,INTERMEDIATE,14.0,3,,0 days 03:54:11.273000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,23,9,125.304,INTERMEDIATE,1.0,4,0 days 03:54:35.415000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,24,8,104.469,INTERMEDIATE,2.0,4,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,25,8,104.412,INTERMEDIATE,3.0,4,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,26,8,105.047,INTERMEDIATE,4.0,4,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,27,8,106.296,INTERMEDIATE,5.0,4,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ALO,Alpine,28,6,108.054,INTERMEDIATE,6.0,4,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,1,14,156.668,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,2,14,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,3,14,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,2,14,,INTERMEDIATE,2.0,1,,0 days 01:08:11.867000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,3,14,,WET,1.0,2,0 days 03:14:59.399000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,4,14,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,5,14,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,6,16,122.174,WET,4.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,7,18,132.897,INTERMEDIATE,1.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,6,16,122.174,WET,4.0,2,,0 days 03:24:56.442000,15.9,18.5,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,7,18,132.897,INTERMEDIATE,1.0,3,0 days 03:25:21.620000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,8,16,110.819,INTERMEDIATE,2.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,9,17,112.751,INTERMEDIATE,3.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,10,16,108.646,INTERMEDIATE,4.0,3,,,15.8,18.2,True,True,
@@ -56,14 +56,14 @@ JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,25,15,111.252,INTERMEDIATE,
 JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,26,15,110.481,INTERMEDIATE,20.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,27,15,110.336,INTERMEDIATE,21.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,BOT,Alfa Romeo,28,15,110.089,INTERMEDIATE,22.0,3,,,15.9,18.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,1,18,169.982,INTERMEDIATE,1.0,1,,,17.5,21.2,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,2,18,,WET,1.0,2,,,17.4,21.2,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,3,18,,WET,1.0,3,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,1,18,169.982,INTERMEDIATE,1.0,1,0 days 01:02:46.728000,0 days 01:05:24.564000,17.5,21.2,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,2,18,,WET,1.0,2,0 days 01:06:05.782000,0 days 01:08:22.943000,17.4,21.2,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,3,18,,WET,1.0,3,0 days 03:15:11.895000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,4,18,,WET,2.0,3,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,5,16,,WET,3.0,3,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,6,15,117.895,WET,4.0,3,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,7,14,117.813,WET,5.0,3,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,8,18,131.737,INTERMEDIATE,1.0,4,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,7,14,117.813,WET,5.0,3,,0 days 03:26:52.247000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,8,18,131.737,INTERMEDIATE,1.0,4,0 days 03:27:17.225000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,9,18,109.38,INTERMEDIATE,2.0,4,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,10,17,108.87,INTERMEDIATE,3.0,4,,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,11,17,107.854,INTERMEDIATE,4.0,4,,,15.9,18.2,True,True,
@@ -74,8 +74,8 @@ JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,15,16,109.763,INTERMEDIATE,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,16,16,110.492,INTERMEDIATE,9.0,4,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,17,16,110.916,INTERMEDIATE,10.0,4,,,15.8,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,18,16,110.802,INTERMEDIATE,11.0,4,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,19,16,113.384,INTERMEDIATE,12.0,4,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,20,18,127.438,INTERMEDIATE,1.0,5,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,19,16,113.384,INTERMEDIATE,12.0,4,,0 days 03:49:14.025000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,20,18,127.438,INTERMEDIATE,1.0,5,0 days 03:49:38.060000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,21,18,105.592,INTERMEDIATE,2.0,5,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,22,18,105.387,INTERMEDIATE,3.0,5,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,23,18,106.686,INTERMEDIATE,4.0,5,,,15.9,18.3,True,True,
@@ -85,13 +85,13 @@ JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,26,17,109.689,INTERMEDIATE,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,27,17,110.958,INTERMEDIATE,8.0,5,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,GAS,AlphaTauri,28,17,109.735,INTERMEDIATE,9.0,5,,,15.9,18.1,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,1,5,136.349,INTERMEDIATE,2.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,2,5,,INTERMEDIATE,3.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,3,5,,WET,2.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,2,5,,INTERMEDIATE,3.0,1,,0 days 01:07:49.228000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,3,5,,WET,2.0,2,0 days 03:14:25.767000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,4,5,,WET,3.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,5,5,,WET,4.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,6,5,115.173,WET,5.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,7,6,115.367,WET,6.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,8,9,132.216,INTERMEDIATE,4.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,7,6,115.367,WET,6.0,2,,0 days 03:26:36.289000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,8,9,132.216,INTERMEDIATE,4.0,3,0 days 03:27:01.427000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,9,6,107.518,INTERMEDIATE,5.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,10,5,109.566,INTERMEDIATE,6.0,3,,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,11,5,105.53,INTERMEDIATE,7.0,3,,,15.9,18.2,True,True,
@@ -113,11 +113,11 @@ JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,26,5,109.461,INTERMEDIATE,22.
 JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,27,5,108.784,INTERMEDIATE,23.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,HAM,Mercedes,28,5,109.835,INTERMEDIATE,24.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,1,15,158.944,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,2,15,,INTERMEDIATE,2.0,1,,,17.4,21.2,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,3,15,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,2,15,,INTERMEDIATE,2.0,1,,0 days 01:08:15.262000,17.4,21.2,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,3,15,,WET,1.0,2,0 days 03:15:02.611000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,4,15,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,5,17,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,6,18,135.69,INTERMEDIATE,1.0,3,,,15.9,18.5,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,5,17,,WET,3.0,2,,0 days 03:22:57.822000,15.9,18.6,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,6,18,135.69,INTERMEDIATE,1.0,3,0 days 03:23:22.630000,,15.9,18.5,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,7,16,108.663,INTERMEDIATE,2.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,8,11,109.015,INTERMEDIATE,3.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,9,10,110.071,INTERMEDIATE,4.0,3,,,15.9,18.4,True,True,
@@ -141,13 +141,13 @@ JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,26,9,110.697,INTERMEDIATE,21.
 JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,27,9,110.878,INTERMEDIATE,22.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,LAT,Williams,28,9,110.706,INTERMEDIATE,23.0,3,,,15.9,18.1,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,1,2,124.571,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,2,2,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,3,2,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,2,2,,INTERMEDIATE,2.0,1,,0 days 01:07:42.191000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,3,2,,WET,1.0,2,0 days 03:14:12.106000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,4,2,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,5,2,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,6,2,111.393,WET,4.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,7,2,112.863,WET,5.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,8,5,132.483,INTERMEDIATE,1.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,7,2,112.863,WET,5.0,2,,0 days 03:26:27.669000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,8,5,132.483,INTERMEDIATE,1.0,3,0 days 03:26:53.857000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,9,2,106.672,INTERMEDIATE,2.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,10,2,104.489,INTERMEDIATE,3.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,11,2,105.481,INTERMEDIATE,4.0,3,,,15.9,18.2,True,True,
@@ -169,13 +169,13 @@ JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,26,2,109.523,INTERMEDIATE,19.0
 JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,27,2,109.229,INTERMEDIATE,20.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,LEC,Ferrari,28,2,110.666,INTERMEDIATE,21.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,1,12,152.254,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,2,12,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,3,12,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,2,12,,INTERMEDIATE,2.0,1,,0 days 01:08:08.950000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,3,12,,WET,1.0,2,0 days 03:14:50.958000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,4,12,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,5,12,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,6,11,118.579,WET,4.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,7,11,118.331,WET,5.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,8,17,133.938,INTERMEDIATE,1.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,7,11,118.331,WET,5.0,2,,0 days 03:26:47.174000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,8,17,133.938,INTERMEDIATE,1.0,3,0 days 03:27:12.773000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,9,16,111.148,INTERMEDIATE,2.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,10,15,108.072,INTERMEDIATE,3.0,3,,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,11,15,108.123,INTERMEDIATE,4.0,3,,,15.9,18.2,True,True,
@@ -197,8 +197,8 @@ JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,26,14,110.432,INTERMEDIAT
 JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,27,14,110.317,INTERMEDIATE,20.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MAG,Haas F1 Team,28,14,110.125,INTERMEDIATE,21.0,3,,,15.9,18.1,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,1,10,148.607,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,2,10,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,3,10,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,2,10,,INTERMEDIATE,2.0,1,,0 days 01:08:04.684000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,3,10,,WET,1.0,2,0 days 03:14:45.487000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,4,10,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,5,10,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,6,10,119.53,WET,4.0,2,,,15.9,18.5,True,True,
@@ -206,8 +206,8 @@ JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,7,9,115.038,WET,5.0,2,,,1
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,8,2,113.513,WET,6.0,2,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,9,3,114.213,WET,7.0,2,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,10,6,114.672,WET,8.0,2,,,15.8,18.2,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,11,13,120.481,WET,9.0,2,,,15.9,18.2,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,12,18,129.854,INTERMEDIATE,1.0,3,,,15.9,18.3,False,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,11,13,120.481,WET,9.0,2,,0 days 03:34:26.153000,15.9,18.2,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,12,18,129.854,INTERMEDIATE,1.0,3,0 days 03:34:51.093000,,15.9,18.3,False,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,13,18,106.545,INTERMEDIATE,2.0,3,,,15.9,18.3,False,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,14,18,107.094,INTERMEDIATE,3.0,3,,,15.9,18.3,False,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,15,18,108.285,INTERMEDIATE,4.0,3,,,15.9,18.3,True,True,
@@ -225,12 +225,12 @@ JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,26,18,110.227,INTERMEDIAT
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,27,18,110.332,INTERMEDIATE,16.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,MSC,Haas F1 Team,28,18,110.417,INTERMEDIATE,17.0,3,,,15.9,18.1,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,1,13,154.186,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,2,13,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,3,13,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,2,13,,INTERMEDIATE,2.0,1,,0 days 01:08:10.398000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,3,13,,WET,1.0,2,0 days 03:14:56.622000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,4,13,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,5,13,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,6,13,122.34,WET,4.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,7,17,131.652,INTERMEDIATE,1.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,6,13,122.34,WET,4.0,2,,0 days 03:24:53.737000,15.9,18.5,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,7,17,131.652,INTERMEDIATE,1.0,3,0 days 03:25:18.639000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,8,12,108.175,INTERMEDIATE,2.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,9,11,108.837,INTERMEDIATE,3.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,10,10,108.942,INTERMEDIATE,4.0,3,,,15.8,18.2,True,True,
@@ -253,13 +253,13 @@ JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,26,10,110.237,INTERMEDIATE,20.
 JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,27,10,110.435,INTERMEDIATE,21.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,NOR,McLaren,28,10,110.653,INTERMEDIATE,22.0,3,,,15.9,18.1,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,1,4,132.607,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,2,4,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,3,4,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,2,4,,INTERMEDIATE,2.0,1,,0 days 01:07:46.585000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,3,4,,WET,1.0,2,0 days 03:14:20.101000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,4,4,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,5,4,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,6,4,114.73,WET,4.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,7,4,114.89,WET,5.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,8,8,131.686,INTERMEDIATE,1.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,7,4,114.89,WET,5.0,2,,0 days 03:26:34.998000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,8,8,131.686,INTERMEDIATE,1.0,3,0 days 03:27:00.481000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,9,5,108.747,INTERMEDIATE,2.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,10,4,108.104,INTERMEDIATE,3.0,3,,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,11,4,106.559,INTERMEDIATE,4.0,3,,,15.9,18.2,True,True,
@@ -281,13 +281,13 @@ JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,26,4,109.064,INTERMEDIATE,19.0,
 JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,27,4,109.261,INTERMEDIATE,20.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,OCO,Alpine,28,4,109.582,INTERMEDIATE,21.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,1,3,127.539,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,2,3,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,3,3,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,2,3,,INTERMEDIATE,2.0,1,,0 days 01:07:44.709000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,3,3,,WET,1.0,2,0 days 03:14:17.167000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,4,3,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,5,3,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,6,3,113.662,WET,4.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,7,3,114.053,WET,5.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,8,7,131.551,INTERMEDIATE,1.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,7,3,114.053,WET,5.0,2,,0 days 03:26:32.722000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,8,7,131.551,INTERMEDIATE,1.0,3,0 days 03:26:58.330000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,9,4,107.73,INTERMEDIATE,2.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,10,3,107.088,INTERMEDIATE,3.0,3,,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,11,3,106.12,INTERMEDIATE,4.0,3,,,15.9,18.2,True,True,
@@ -309,14 +309,14 @@ JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,26,3,109.258,INTERMEDI
 JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,27,3,109.491,INTERMEDIATE,20.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,PER,Red Bull Racing,28,3,110.319,INTERMEDIATE,21.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,1,8,144.913,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,2,8,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,3,8,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,2,8,,INTERMEDIATE,2.0,1,,0 days 01:07:57.229000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,3,8,,WET,1.0,2,0 days 03:14:38.918000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,4,8,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,5,8,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,6,8,118.762,WET,4.0,2,,,15.9,18.5,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,7,8,114.988,WET,5.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,8,3,115.504,WET,6.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,9,15,134.512,INTERMEDIATE,1.0,3,,,15.9,18.4,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,8,3,115.504,WET,6.0,2,,0 days 03:28:36.827000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,9,15,134.512,INTERMEDIATE,1.0,3,0 days 03:29:02.236000,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,10,14,108.046,INTERMEDIATE,2.0,3,,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,11,14,107.843,INTERMEDIATE,3.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,12,13,108.404,INTERMEDIATE,4.0,3,,,15.9,18.3,False,True,
@@ -337,13 +337,13 @@ JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,26,11,109.538,INTERMEDIATE,18.
 JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,27,11,109.793,INTERMEDIATE,19.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,RIC,McLaren,28,11,109.565,INTERMEDIATE,20.0,3,,,15.9,18.1,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,1,7,142.299,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,2,7,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,3,7,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,2,7,,INTERMEDIATE,2.0,1,,0 days 01:07:54.715000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,3,7,,WET,1.0,2,0 days 03:14:35.727000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,4,7,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,5,7,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,6,7,117.437,WET,4.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,7,7,116.796,WET,5.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,8,14,136.643,INTERMEDIATE,3.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,7,7,116.796,WET,5.0,2,,0 days 03:26:41.018000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,8,14,136.643,INTERMEDIATE,3.0,3,0 days 03:27:09.779000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,9,13,108.586,INTERMEDIATE,4.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,10,12,108.568,INTERMEDIATE,5.0,3,,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,11,11,108.944,INTERMEDIATE,6.0,3,,,15.9,18.2,True,True,
@@ -366,13 +366,13 @@ JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,27,7,108.359,INTERMEDIATE,22.
 JPN22,2022,Japanese Grand Prix,Suzuka,RUS,Mercedes,28,8,109.685,INTERMEDIATE,23.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,SAI,Ferrari,1,,,INTERMEDIATE,1.0,1,,,17.5,21.1,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,1,11,150.337,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,2,11,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,3,11,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,2,11,,INTERMEDIATE,2.0,1,,0 days 01:08:07.688000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,3,11,,WET,1.0,2,0 days 03:14:48.125000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,4,11,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,5,11,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,6,12,120.467,WET,4.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,7,13,118.562,WET,5.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,8,15,130.741,INTERMEDIATE,1.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,7,13,118.562,WET,5.0,2,,0 days 03:26:48.328000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,8,15,130.741,INTERMEDIATE,1.0,3,0 days 03:27:12.329000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,9,14,108.388,INTERMEDIATE,2.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,10,13,108.474,INTERMEDIATE,3.0,3,,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,11,12,109.142,INTERMEDIATE,4.0,3,,,15.9,18.2,True,True,
@@ -383,8 +383,8 @@ JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,15,12,109.281,INTERMEDIAT
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,16,12,109.813,INTERMEDIATE,9.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,17,12,109.852,INTERMEDIATE,10.0,3,,,15.8,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,18,12,110.399,INTERMEDIATE,11.0,3,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,19,12,112.859,INTERMEDIATE,12.0,3,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,20,16,125.88,INTERMEDIATE,1.0,4,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,19,12,112.859,INTERMEDIATE,12.0,3,,0 days 03:49:04.548000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,20,16,125.88,INTERMEDIATE,1.0,4,0 days 03:49:28.425000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,21,15,105.205,INTERMEDIATE,2.0,4,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,22,14,107.493,INTERMEDIATE,3.0,4,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,23,13,107.396,INTERMEDIATE,4.0,4,,,15.9,18.3,True,True,
@@ -394,13 +394,13 @@ JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,26,12,108.102,INTERMEDIAT
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,27,12,109.672,INTERMEDIATE,8.0,4,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,STR,Aston Martin,28,12,109.611,INTERMEDIATE,9.0,4,,,15.9,18.1,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,1,9,147.133,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,2,9,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,3,9,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,2,9,,INTERMEDIATE,2.0,1,,0 days 01:08:01.021000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,3,9,,WET,1.0,2,0 days 03:14:43.478000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,4,9,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,5,9,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,6,9,119.016,WET,4.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,7,10,118.102,WET,5.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,8,13,131.821,INTERMEDIATE,1.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,7,10,118.102,WET,5.0,2,,0 days 03:26:44.988000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,8,13,131.821,INTERMEDIATE,1.0,3,0 days 03:27:09.443000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,9,12,108.188,INTERMEDIATE,2.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,10,11,108.667,INTERMEDIATE,3.0,3,,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,11,10,109.599,INTERMEDIATE,4.0,3,,,15.9,18.2,True,True,
@@ -412,8 +412,8 @@ JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,16,11,110.166,INTERMEDIATE,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,17,11,110.093,INTERMEDIATE,10.0,3,,,15.8,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,18,11,110.158,INTERMEDIATE,11.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,19,11,110.089,INTERMEDIATE,12.0,3,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,20,11,112.768,INTERMEDIATE,13.0,3,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,21,16,128.07,INTERMEDIATE,1.0,4,,,15.9,18.2,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,20,11,112.768,INTERMEDIATE,13.0,3,,0 days 03:50:53.489000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,21,16,128.07,INTERMEDIATE,1.0,4,0 days 03:51:17.246000,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,22,16,105.893,INTERMEDIATE,2.0,4,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,23,15,107.606,INTERMEDIATE,3.0,4,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,24,15,107.919,INTERMEDIATE,4.0,4,,,15.9,18.3,True,True,
@@ -422,13 +422,13 @@ JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,26,13,107.094,INTERMEDIATE,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,27,13,107.181,INTERMEDIATE,7.0,4,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,TSU,AlphaTauri,28,13,107.639,INTERMEDIATE,8.0,4,,,15.9,18.1,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,1,1,122.046,INTERMEDIATE,1.0,1,,,17.5,21.1,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,2,1,,INTERMEDIATE,2.0,1,,,17.4,21.3,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,3,1,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,2,1,,INTERMEDIATE,2.0,1,,0 days 01:07:39.541000,17.4,21.3,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,3,1,,WET,1.0,2,0 days 03:14:06.948000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,4,1,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,5,1,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,6,1,110.761,WET,4.0,2,,,15.9,18.5,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,7,1,112.865,WET,5.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,8,4,130.625,INTERMEDIATE,1.0,3,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,7,1,112.865,WET,5.0,2,,0 days 03:26:26.364000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,8,4,130.625,INTERMEDIATE,1.0,3,0 days 03:26:51.019000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,9,1,105.148,INTERMEDIATE,2.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,10,1,104.911,INTERMEDIATE,3.0,3,,,15.9,18.4,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,11,1,105.011,INTERMEDIATE,4.0,3,,,15.9,18.2,True,True,
@@ -451,11 +451,11 @@ JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,27,1,108.249,INTERMEDI
 JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,28,1,108.944,INTERMEDIATE,21.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,VER,Red Bull Racing,29,,,INTERMEDIATE,22.0,3,,,15.9,18.1,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,1,16,162.377,INTERMEDIATE,1.0,1,,,17.5,21.2,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,2,16,,INTERMEDIATE,2.0,1,,,17.4,21.2,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,3,16,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,2,16,,INTERMEDIATE,2.0,1,,0 days 01:08:18.111000,17.4,21.2,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,3,16,,WET,1.0,2,0 days 03:15:07.761000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,4,16,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,5,18,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,6,17,132.958,INTERMEDIATE,1.0,3,,,15.9,18.5,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,5,18,,WET,3.0,2,,0 days 03:22:58.221000,15.9,18.6,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,6,17,132.958,INTERMEDIATE,1.0,3,0 days 03:23:22.516000,,15.9,18.5,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,7,15,108.401,INTERMEDIATE,2.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,8,10,110.163,INTERMEDIATE,3.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,9,8,108.638,INTERMEDIATE,4.0,3,,,15.9,18.4,True,True,
@@ -479,15 +479,15 @@ JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,26,6,109.358,INTERMEDIATE
 JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,27,6,109.822,INTERMEDIATE,22.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,VET,Aston Martin,28,7,110.368,INTERMEDIATE,23.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,1,17,167.346,INTERMEDIATE,1.0,1,,,17.5,21.2,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,2,17,,INTERMEDIATE,2.0,1,,,17.4,21.2,True,False,Missing Lap Time
-JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,3,17,,WET,1.0,2,,,15.9,18.8,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,2,17,,INTERMEDIATE,2.0,1,,0 days 01:08:20.257000,17.4,21.2,True,False,Missing Lap Time
+JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,3,17,,WET,1.0,2,0 days 03:15:10.307000,,15.9,18.8,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,4,17,,WET,2.0,2,,,15.9,18.7,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,5,15,,WET,3.0,2,,,15.9,18.6,True,False,Missing Lap Time
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,6,14,117.862,WET,4.0,2,,,15.9,18.5,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,7,12,114.06,WET,5.0,2,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,8,6,113.826,WET,6.0,2,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,9,7,115.996,WET,7.0,2,,,15.9,18.4,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,10,18,130.761,INTERMEDIATE,1.0,3,,,15.8,18.2,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,9,7,115.996,WET,7.0,2,,0 days 03:30:37.898000,15.9,18.4,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,10,18,130.761,INTERMEDIATE,1.0,3,0 days 03:31:02.756000,,15.8,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,11,18,106.008,INTERMEDIATE,2.0,3,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,12,17,106.748,INTERMEDIATE,3.0,3,,,15.9,18.3,False,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,13,17,107.972,INTERMEDIATE,4.0,3,,,15.8,18.2,False,True,
@@ -495,8 +495,8 @@ JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,14,17,109.791,INTERMEDIATE,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,15,17,109.907,INTERMEDIATE,6.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,16,17,110.717,INTERMEDIATE,7.0,3,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,17,17,111.073,INTERMEDIATE,8.0,3,,,15.8,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,18,17,113.531,INTERMEDIATE,9.0,3,,,15.9,18.3,True,True,
-JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,19,18,127.171,INTERMEDIATE,1.0,4,,,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,18,17,113.531,INTERMEDIATE,9.0,3,,0 days 03:47:24.383000,15.9,18.3,True,True,
+JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,19,18,127.171,INTERMEDIATE,1.0,4,0 days 03:47:48.703000,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,20,17,104.411,INTERMEDIATE,2.0,4,,,15.9,18.3,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,21,17,106.464,INTERMEDIATE,3.0,4,,,15.9,18.2,True,True,
 JPN22,2022,Japanese Grand Prix,Suzuka,ZHO,Alfa Romeo,22,17,106.607,INTERMEDIATE,4.0,4,,,15.9,18.3,True,True,

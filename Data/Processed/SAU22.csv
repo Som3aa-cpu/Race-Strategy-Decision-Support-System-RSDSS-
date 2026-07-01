@@ -11,8 +11,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,9,16,98.028,MEDIUM,9.0,1
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,10,16,97.668,MEDIUM,10.0,1,,,25.5,28.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,11,16,97.851,MEDIUM,11.0,1,,,25.5,28.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,12,16,98.253,MEDIUM,12.0,1,,,25.5,28.4,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,13,17,101.186,MEDIUM,13.0,1,,,25.5,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,14,18,115.413,HARD,1.0,2,,,25.6,28.4,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,13,17,101.186,MEDIUM,13.0,1,,0 days 01:23:54.631000,25.5,28.3,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,14,18,115.413,HARD,1.0,2,0 days 01:24:15.299000,,25.6,28.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,15,17,97.345,HARD,2.0,2,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,16,17,124.816,HARD,3.0,2,,,25.5,28.0,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,17,17,128.94,HARD,4.0,2,,,25.4,27.9,False,True,
@@ -62,8 +62,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,12,6,96.315,MEDIUM,12.0,1,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,13,6,96.431,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,14,6,96.486,MEDIUM,14.0,1,,,25.6,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,15,6,96.792,MEDIUM,15.0,1,,,25.5,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,16,6,118.83,MEDIUM,16.0,1,,,25.5,28.2,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,17,8,,HARD,1.0,2,,,25.5,27.9,False,False,Missing Lap Time
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,16,6,118.83,MEDIUM,16.0,1,,0 days 01:28:40.704000,25.5,28.2,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,17,8,,HARD,1.0,2,0 days 01:29:02.229000,,25.5,27.9,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,18,8,,HARD,2.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,19,8,149.932,HARD,3.0,2,,,25.4,28.1,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ALO,Alpine,20,8,,HARD,4.0,2,,,25.4,27.9,False,False,Missing Lap Time
@@ -98,8 +98,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,12,8,96.453,MEDIUM,12.
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,13,8,95.967,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,14,7,96.398,MEDIUM,14.0,1,,,25.6,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,15,7,96.774,MEDIUM,15.0,1,,,25.5,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,16,7,120.798,MEDIUM,16.0,1,,,25.5,28.2,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,17,10,,HARD,1.0,2,,,25.5,27.9,False,False,Missing Lap Time
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,16,7,120.798,MEDIUM,16.0,1,,0 days 01:28:44.084000,25.5,28.2,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,17,10,,HARD,1.0,2,0 days 01:29:06.651000,,25.5,27.9,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,18,10,,HARD,2.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,19,10,,HARD,3.0,2,,,25.4,28.1,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,20,10,,HARD,4.0,2,,,25.4,27.9,False,False,Missing Lap Time
@@ -117,8 +117,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,31,9,93.979,HARD,15.0,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,32,9,95.173,HARD,16.0,2,,,25.5,27.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,33,9,95.069,HARD,17.0,2,,,25.5,27.7,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,34,9,94.06,HARD,18.0,2,,,25.5,27.7,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,35,10,97.908,HARD,19.0,2,,,25.5,27.6,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,36,15,135.831,MEDIUM,1.0,3,,,25.5,27.5,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,35,10,97.908,HARD,19.0,2,,0 days 02:02:48.991000,25.5,27.6,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,BOT,Alfa Romeo,36,15,135.831,MEDIUM,1.0,3,0 days 02:03:11.780000,0 days 02:05:04.826000,25.5,27.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,1,10,103.106,MEDIUM,1.0,1,,,25.4,28.6,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,2,11,98.899,MEDIUM,2.0,1,,,25.4,28.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,3,11,96.881,MEDIUM,3.0,1,,,25.5,28.5,False,True,
@@ -133,8 +133,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,11,10,96.998,MEDIUM,11
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,12,10,97.073,MEDIUM,12.0,1,,,25.5,28.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,13,10,97.094,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,14,11,98.153,MEDIUM,14.0,1,,,25.6,28.2,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,15,11,99.58,MEDIUM,15.0,1,,,25.5,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,16,15,143.731,HARD,1.0,2,,,25.5,28.2,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,15,11,99.58,MEDIUM,15.0,1,,0 days 01:26:53.342000,25.5,28.3,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,16,15,143.731,HARD,1.0,2,0 days 01:27:16.154000,,25.5,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,17,14,129.023,HARD,2.0,2,,,25.5,27.9,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,18,14,,HARD,3.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,GAS,AlphaTauri,19,14,,HARD,4.0,2,,,25.4,28.2,False,False,Missing Lap Time
@@ -208,8 +208,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,36,6,93.79,HARD,37.0,1,,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,37,6,98.059,HARD,38.0,1,,,25.5,27.6,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,38,6,120.592,HARD,39.0,1,,,25.5,27.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,39,6,126.598,HARD,40.0,1,,,25.5,27.5,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,40,6,123.425,HARD,41.0,1,,,25.4,27.5,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,41,12,113.062,MEDIUM,1.0,2,,,25.4,27.4,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,40,6,123.425,HARD,41.0,1,,0 days 02:11:59.558000,25.4,27.5,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,41,12,113.062,MEDIUM,1.0,2,0 days 02:12:21.356000,,25.4,27.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,42,12,93.982,MEDIUM,2.0,2,,,25.3,27.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,43,11,93.945,MEDIUM,3.0,2,,,25.4,27.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,44,11,95.048,MEDIUM,4.0,2,,,25.4,27.3,False,True,
@@ -255,8 +255,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,33,14,95.176,HARD,34
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,34,14,95.319,HARD,35.0,1,,,25.5,27.7,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,35,14,95.613,HARD,36.0,1,,,25.5,27.6,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,36,11,95.096,HARD,37.0,1,,,25.5,27.5,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,37,13,100.236,HARD,38.0,1,,,25.5,27.6,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,38,14,144.318,MEDIUM,2.0,2,,,25.5,27.5,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,37,13,100.236,HARD,38.0,1,,0 days 02:06:16.735000,25.5,27.6,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,38,14,144.318,MEDIUM,2.0,2,0 days 02:06:38.176000,,25.5,27.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,39,14,125.562,MEDIUM,3.0,2,,,25.5,27.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,40,14,105.042,MEDIUM,4.0,2,,,25.3,27.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,HUL,Aston Martin,41,14,94.734,MEDIUM,5.0,2,,,25.4,27.4,False,True,
@@ -299,8 +299,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,12,2,94.915,MEDIUM,12.0,1
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,13,2,94.777,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,14,2,95.214,MEDIUM,14.0,1,,,25.6,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,15,1,95.237,MEDIUM,15.0,1,,,25.6,28.4,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,16,1,103.84,MEDIUM,16.0,1,,,25.6,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,17,1,,HARD,1.0,2,,,25.5,27.9,False,False,Missing Lap Time
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,16,1,103.84,MEDIUM,16.0,1,,0 days 01:27:55.649000,25.6,28.3,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,17,1,,HARD,1.0,2,0 days 01:28:16.673000,,25.5,27.9,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,18,1,,HARD,2.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,19,1,149.002,HARD,3.0,2,,,25.4,28.1,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,20,1,,HARD,4.0,2,,,25.4,27.9,False,False,Missing Lap Time
@@ -370,8 +370,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,33,7,94.144,HARD,35.
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,34,7,94.834,HARD,36.0,1,,,25.5,27.7,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,35,8,95.166,HARD,37.0,1,,,25.5,27.6,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,36,7,94.194,HARD,38.0,1,,,25.5,27.5,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,37,7,99.989,HARD,39.0,1,,,25.5,27.6,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,38,12,143.719,MEDIUM,3.0,2,,,25.5,27.5,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,37,7,99.989,HARD,39.0,1,,0 days 02:05:57.903000,25.5,27.6,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,38,12,143.719,MEDIUM,3.0,2,0 days 02:06:20.285000,,25.5,27.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,39,12,127.206,MEDIUM,4.0,2,,,25.5,27.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,40,12,109.251,MEDIUM,5.0,2,,,25.4,27.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,41,10,93.188,MEDIUM,6.0,2,,,25.4,27.4,False,True,
@@ -399,8 +399,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,12,12,97.266,MEDIUM,12.0,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,13,12,97.27,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,14,12,97.076,MEDIUM,14.0,1,,,25.6,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,15,12,97.115,MEDIUM,15.0,1,,,25.5,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,16,11,121.65,MEDIUM,16.0,1,,,25.5,28.2,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,17,13,148.586,HARD,1.0,2,,,25.5,27.9,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,16,11,121.65,MEDIUM,16.0,1,,0 days 01:28:55.209000,25.5,28.2,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,17,13,148.586,HARD,1.0,2,0 days 01:29:15.592000,,25.5,27.9,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,18,13,,HARD,2.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,19,13,,HARD,3.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,20,13,144.586,HARD,4.0,2,,,25.4,27.9,False,True,
@@ -449,8 +449,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,12,7,96.516,MEDIUM,12.0,1,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,13,7,97.103,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,14,8,97.502,MEDIUM,14.0,1,,,25.6,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,15,8,97.257,MEDIUM,15.0,1,,,25.5,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,16,9,126.558,MEDIUM,16.0,1,,,25.5,28.2,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,17,11,145.977,HARD,1.0,2,,,25.5,27.9,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,16,9,126.558,MEDIUM,16.0,1,,0 days 01:28:51.304000,25.5,28.2,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,17,11,145.977,HARD,1.0,2,0 days 01:29:12.433000,,25.5,27.9,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,18,11,,HARD,2.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,19,11,,HARD,3.0,2,,,25.4,28.1,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,20,11,,HARD,4.0,2,,,25.4,27.9,False,False,Missing Lap Time
@@ -498,8 +498,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,11,1,94.545,MEDIU
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,12,1,94.671,MEDIUM,12.0,1,,,25.5,28.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,13,1,95.214,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,14,1,95.316,MEDIUM,14.0,1,,,25.6,28.2,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,15,2,98.591,MEDIUM,15.0,1,,,25.6,28.4,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,16,4,128.106,HARD,1.0,2,,,25.6,28.3,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,15,2,98.591,MEDIUM,15.0,1,,0 days 01:26:12.906000,25.6,28.4,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,16,4,128.106,HARD,1.0,2,0 days 01:26:33.384000,,25.6,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,17,3,,HARD,2.0,2,,,25.5,27.9,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,18,3,,HARD,3.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,19,3,148.779,HARD,4.0,2,,,25.4,28.1,False,True,
@@ -541,8 +541,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,4,13,97.675,MEDIUM,4.0,1,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,5,13,98.13,MEDIUM,5.0,1,,,25.5,28.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,6,13,97.311,MEDIUM,6.0,1,,,25.5,28.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,7,13,97.139,MEDIUM,7.0,1,,,25.6,28.2,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,8,15,100.276,MEDIUM,8.0,1,,,25.5,28.1,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,9,18,114.148,HARD,1.0,2,,,25.5,28.4,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,8,15,100.276,MEDIUM,8.0,1,,0 days 01:15:37.674000,25.5,28.1,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,9,18,114.148,HARD,1.0,2,0 days 01:15:58.311000,,25.5,28.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,10,18,96.037,HARD,2.0,2,,,25.5,28.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,11,18,96.035,HARD,3.0,2,,,25.5,28.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,12,18,95.716,HARD,4.0,2,,,25.5,28.4,False,True,
@@ -569,7 +569,7 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,32,11,94.793,HARD,24.0,2,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,33,11,94.701,HARD,25.0,2,,,25.5,27.7,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,34,11,94.487,HARD,26.0,2,,,25.5,27.7,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,35,11,94.618,HARD,27.0,2,,,25.5,27.6,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,36,16,,HARD,28.0,2,,,25.5,27.5,False,False,Missing Lap Time
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RIC,McLaren,36,16,,HARD,28.0,2,,0 days 02:09:49.444000,25.5,27.5,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,1,6,100.421,MEDIUM,1.0,1,,,25.4,28.6,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,2,6,96.466,MEDIUM,2.0,1,,,25.4,28.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,3,5,96.513,MEDIUM,3.0,1,,,25.5,28.5,False,True,
@@ -585,8 +585,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,12,5,95.741,MEDIUM,12.0,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,13,5,95.681,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,14,5,95.476,MEDIUM,14.0,1,,,25.6,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,15,5,95.453,MEDIUM,15.0,1,,,25.6,28.4,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,16,5,111.651,MEDIUM,16.0,1,,,25.6,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,17,5,,HARD,1.0,2,,,25.5,27.9,False,False,Missing Lap Time
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,16,5,111.651,MEDIUM,16.0,1,,0 days 01:28:21.549000,25.6,28.3,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,17,5,,HARD,1.0,2,0 days 01:28:42.969000,,25.5,27.9,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,18,5,,HARD,2.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,19,5,149.081,HARD,3.0,2,,,25.4,28.1,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,20,5,,HARD,4.0,2,,,25.4,27.9,False,False,Missing Lap Time
@@ -635,8 +635,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,12,4,95.082,MEDIUM,12.0,1
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,13,4,95.101,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,14,4,95.275,MEDIUM,14.0,1,,,25.6,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,15,4,95.421,MEDIUM,15.0,1,,,25.6,28.4,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,16,3,106.94,MEDIUM,16.0,1,,,25.6,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,17,4,,HARD,1.0,2,,,25.5,27.9,False,False,Missing Lap Time
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,16,3,106.94,MEDIUM,16.0,1,,0 days 01:28:04.594000,25.6,28.3,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,17,4,,HARD,1.0,2,0 days 01:28:26.142000,,25.5,27.9,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,18,4,,HARD,2.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,19,4,149.065,HARD,3.0,2,,,25.4,28.1,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,SAI,Ferrari,20,4,,HARD,4.0,2,,,25.4,27.9,False,False,Missing Lap Time
@@ -682,8 +682,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,9,13,97.799,MEDIUM,1
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,10,13,98.223,MEDIUM,11.0,1,,,25.5,28.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,11,14,99.149,MEDIUM,12.0,1,,,25.5,28.5,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,12,15,98.365,MEDIUM,13.0,1,,,25.5,28.4,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,13,15,101.859,MEDIUM,14.0,1,,,25.5,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,14,17,116.297,HARD,2.0,2,,,25.6,28.4,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,13,15,101.859,MEDIUM,14.0,1,,0 days 01:23:49.710000,25.5,28.3,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,14,17,116.297,HARD,2.0,2,0 days 01:24:12.053000,,25.6,28.4,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,15,16,97.836,HARD,3.0,2,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,16,16,126.144,HARD,4.0,2,,,25.5,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,STR,Aston Martin,17,16,126.975,HARD,5.0,2,,,25.4,27.9,False,True,
@@ -734,8 +734,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,12,3,95.191,MEDIU
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,13,3,94.982,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,14,3,95.093,MEDIUM,14.0,1,,,25.6,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,15,3,95.37,MEDIUM,15.0,1,,,25.6,28.4,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,16,2,104.577,MEDIUM,16.0,1,,,25.6,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,17,2,,HARD,1.0,2,,,25.5,27.9,False,False,Missing Lap Time
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,16,2,104.577,MEDIUM,16.0,1,,0 days 01:27:59.039000,25.6,28.3,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,17,2,,HARD,1.0,2,0 days 01:28:19.770000,,25.5,27.9,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,18,2,,HARD,2.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,19,2,149.635,HARD,3.0,2,,,25.4,28.1,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,20,2,,HARD,4.0,2,,,25.4,27.9,False,False,Missing Lap Time
@@ -784,8 +784,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,12,13,96.926,MEDIUM,12
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,13,13,96.251,MEDIUM,13.0,1,,,25.5,28.3,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,14,13,96.783,MEDIUM,14.0,1,,,25.6,28.2,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,15,13,96.659,MEDIUM,15.0,1,,,25.5,28.3,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,16,12,122.305,MEDIUM,16.0,1,,,25.5,28.2,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,17,15,,HARD,1.0,2,,,25.5,27.9,False,False,Missing Lap Time
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,16,12,122.305,MEDIUM,16.0,1,,0 days 01:28:56.477000,25.5,28.2,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,17,15,,HARD,1.0,2,0 days 01:29:30.130000,,25.5,27.9,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,18,15,,HARD,2.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,19,15,,HARD,3.0,2,,,25.4,28.2,False,False,Missing Lap Time
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,20,15,140.595,HARD,4.0,2,,,25.4,27.9,False,True,
@@ -795,8 +795,8 @@ SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,23,15,95.874,HARD,7.0,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,24,15,96.323,HARD,8.0,2,,,25.5,27.8,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,25,15,96.023,HARD,9.0,2,,,25.4,27.8,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,26,15,96.31,HARD,10.0,2,,,25.5,27.8,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,27,16,98.66,HARD,11.0,2,,,25.5,27.8,False,True,
-SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,28,17,108.451,HARD,12.0,3,,,25.5,27.7,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,27,16,98.66,HARD,11.0,2,,0 days 01:50:19.110000,25.5,27.8,False,True,
+SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,28,17,108.451,HARD,12.0,3,0 days 01:50:34.215000,,25.5,27.7,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,29,17,95.172,HARD,13.0,3,,,25.5,27.8,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,30,17,94.518,HARD,14.0,3,,,25.5,27.8,False,True,
 SAU22,2022,Saudi Arabian Grand Prix,Jeddah,ZHO,Alfa Romeo,31,17,94.78,HARD,15.0,3,,,25.5,27.7,False,True,

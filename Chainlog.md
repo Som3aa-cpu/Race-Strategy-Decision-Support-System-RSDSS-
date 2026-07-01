@@ -18,3 +18,9 @@
 - data validation pipeline
 - Implemented cleaning data pipeline
 - Successfully cleaned the 90 datasets 
+
+## v0.4.0
+- Starting EDA 
+- Merging all datasets into a master one 
+- Setting up the files for the EDA code 
+- Found out the data cleaning removed some values fixed the issue 

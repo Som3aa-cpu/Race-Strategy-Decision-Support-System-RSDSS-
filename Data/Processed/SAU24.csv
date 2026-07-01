@@ -5,8 +5,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,3,13,95.986,MEDIUM,3.0,1
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,4,13,95.553,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,5,13,95.59,MEDIUM,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,6,12,95.977,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,7,12,131.613,MEDIUM,7.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,8,14,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,7,12,131.613,MEDIUM,7.0,1,,0 days 01:11:39.002000,25.7,31.5,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,8,14,,HARD,1.0,2,0 days 01:12:00.635000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,9,14,145.427,HARD,2.0,2,,,25.5,31.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,10,15,100.318,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALB,Williams,11,15,96.232,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -55,8 +55,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,3,5,94.439,MEDIUM,4.
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,4,5,94.746,MEDIUM,5.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,5,5,94.512,MEDIUM,6.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,6,5,94.48,MEDIUM,7.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,7,5,126.883,MEDIUM,8.0,1,,,25.7,31.4,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,8,7,,HARD,2.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,7,5,126.883,MEDIUM,8.0,1,,0 days 01:11:22.311000,25.7,31.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,8,7,,HARD,2.0,2,0 days 01:11:44.551000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,9,7,,HARD,3.0,2,,,25.5,31.4,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,10,7,97.296,HARD,4.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ALO,Aston Martin,11,7,94.53,HARD,5.0,2,,,25.5,31.7,False,True,
@@ -105,8 +105,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,3,11,95.515,SOFT,3.0,1,,,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,4,11,95.645,SOFT,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,5,11,95.593,SOFT,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,6,10,96.122,SOFT,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,7,10,131.168,SOFT,7.0,1,,,25.7,31.4,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,8,12,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,7,10,131.168,SOFT,7.0,1,,0 days 01:11:37.184000,25.7,31.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,8,12,,HARD,1.0,2,0 days 01:11:59.637000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,9,12,147.117,HARD,2.0,2,,,25.5,31.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,10,11,98.427,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BEA,Ferrari,11,11,95.645,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -155,8 +155,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,3,17,96.966,SOFT,3.0,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,4,17,96.417,SOFT,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,5,17,96.244,SOFT,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,6,16,96.225,SOFT,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,7,16,133.58,SOFT,7.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,8,16,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,7,16,133.58,SOFT,7.0,1,,0 days 01:11:45.899000,25.7,31.5,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,8,16,,HARD,1.0,2,0 days 01:12:08.581000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,9,16,141.83,HARD,2.0,2,,,25.5,31.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,10,16,100.082,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,11,16,96.456,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -183,8 +183,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,31,18,95.415,HARD,24.
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,32,18,95.173,HARD,25.0,2,,,25.5,30.9,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,33,18,95.792,HARD,26.0,2,,,25.5,30.9,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,34,18,95.721,HARD,27.0,2,,,25.5,31.0,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,35,18,97.864,HARD,28.0,2,,,25.5,30.8,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,36,18,114.249,SOFT,1.0,3,,,25.5,30.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,35,18,97.864,HARD,28.0,2,,0 days 01:58:44.198000,25.5,30.8,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,36,18,114.249,SOFT,1.0,3,0 days 01:59:07.460000,,25.5,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,37,18,93.08,SOFT,2.0,3,,,25.5,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,38,18,92.927,SOFT,3.0,3,,,25.5,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,39,18,93.028,SOFT,4.0,3,,,25.4,30.7,False,True,
@@ -198,7 +198,7 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,46,17,92.948,SOFT,11.
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,47,17,92.852,SOFT,12.0,3,,,25.3,30.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,48,17,92.947,SOFT,13.0,3,,,25.3,30.0,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,BOT,Kick Sauber,49,17,92.706,SOFT,14.0,3,,,25.3,29.8,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,GAS,Alpine,1,20,121.453,MEDIUM,1.0,1,,,25.4,31.5,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,GAS,Alpine,1,20,121.453,MEDIUM,1.0,1,,0 days 01:01:44.496000,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,1,8,100.9,MEDIUM,1.0,1,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,2,8,95.541,MEDIUM,2.0,1,,,25.4,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,3,8,95.184,MEDIUM,3.0,1,,,25.4,31.7,False,True,
@@ -234,8 +234,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,32,5,93.406,MEDIUM,32.0,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,33,5,93.36,MEDIUM,33.0,1,,,25.5,30.9,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,34,5,93.693,MEDIUM,34.0,1,,,25.5,30.9,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,35,5,93.742,MEDIUM,35.0,1,,,25.5,30.8,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,36,6,95.967,MEDIUM,36.0,1,,,25.5,30.8,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,37,9,109.485,SOFT,4.0,2,,,25.5,30.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,36,6,95.967,MEDIUM,36.0,1,,0 days 01:59:23.974000,25.5,30.8,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,37,9,109.485,SOFT,4.0,2,0 days 01:59:44.210000,,25.5,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,38,9,91.746,SOFT,5.0,2,,,25.5,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,39,9,92.315,SOFT,6.0,2,,,25.5,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HAM,Mercedes,40,9,92.37,SOFT,7.0,2,,,25.4,30.4,False,True,
@@ -281,8 +281,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,29,10,94.235,MEDIUM,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,30,10,94.307,MEDIUM,30.0,1,,,25.6,30.9,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,31,10,94.182,MEDIUM,31.0,1,,,25.5,31.1,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,32,10,93.999,MEDIUM,32.0,1,,,25.5,31.1,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,33,10,96.601,MEDIUM,33.0,1,,,25.5,30.9,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,34,11,111.863,HARD,1.0,2,,,25.5,31.0,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,33,10,96.601,MEDIUM,33.0,1,,0 days 01:55:06.911000,25.5,30.9,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,34,11,111.863,HARD,1.0,2,0 days 01:55:28.018000,,25.5,31.0,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,35,11,93.106,HARD,2.0,2,,,25.5,30.8,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,36,11,93.015,HARD,3.0,2,,,25.5,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,HUL,Haas F1 Team,37,11,93.248,HARD,4.0,2,,,25.5,30.4,False,True,
@@ -305,8 +305,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,3,2,94.549,MEDIUM,3.0,1,,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,4,3,95.213,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,5,3,94.382,MEDIUM,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,6,3,94.244,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,7,3,124.831,MEDIUM,7.0,1,,,25.7,31.4,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,8,5,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,7,3,124.831,MEDIUM,7.0,1,,0 days 01:11:17.159000,25.7,31.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,8,5,,HARD,1.0,2,0 days 01:11:40.533000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,9,5,,HARD,2.0,2,,,25.5,31.4,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,10,5,96.082,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,LEC,Ferrari,11,5,94.443,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -355,8 +355,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,3,12,95.85,MEDIUM,3.
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,4,12,95.367,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,5,12,95.684,MEDIUM,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,6,11,96.027,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,7,11,131.564,MEDIUM,7.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,8,13,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,7,11,131.564,MEDIUM,7.0,1,,0 days 01:11:38.294000,25.7,31.5,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,8,13,,HARD,1.0,2,0 days 01:11:59.754000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,9,13,145.832,HARD,2.0,2,,,25.5,31.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,10,13,99.463,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,MAG,Haas F1 Team,11,13,96.036,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -435,8 +435,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,33,4,93.514,MEDIUM,33.0,1
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,34,4,93.399,MEDIUM,34.0,1,,,25.5,30.9,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,35,4,93.571,MEDIUM,35.0,1,,,25.5,30.8,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,36,4,93.573,MEDIUM,36.0,1,,,25.5,30.8,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,37,4,96.675,MEDIUM,37.0,1,,,25.5,30.4,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,38,8,110.849,SOFT,7.0,2,,,25.5,30.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,37,4,96.675,MEDIUM,37.0,1,,0 days 02:00:53.788000,25.5,30.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,38,8,110.849,SOFT,7.0,2,0 days 02:01:16.054000,,25.5,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,39,8,92.106,SOFT,8.0,2,,,25.5,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,40,8,91.944,SOFT,9.0,2,,,25.4,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,NOR,McLaren,41,8,92.095,SOFT,10.0,2,,,25.5,30.2,False,True,
@@ -455,8 +455,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,3,16,96.92,MEDIUM,3.0,1,,,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,4,16,96.261,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,5,16,96.003,MEDIUM,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,6,15,96.798,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,7,15,132.702,MEDIUM,7.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,8,15,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,7,15,132.702,MEDIUM,7.0,1,,0 days 01:11:44.650000,25.7,31.5,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,8,15,,HARD,1.0,2,0 days 01:12:07.175000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,9,15,143.747,HARD,2.0,2,,,25.5,31.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,10,14,99.439,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,OCO,Alpine,11,14,95.969,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -504,8 +504,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,3,3,94.055,MEDIUM
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,4,2,94.046,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,5,2,94.085,MEDIUM,5.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,6,2,93.842,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,7,2,124.615,MEDIUM,7.0,1,,,25.7,31.4,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,8,4,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,7,2,124.615,MEDIUM,7.0,1,,0 days 01:11:15.418000,25.7,31.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,8,4,,HARD,1.0,2,0 days 01:11:37.661000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,9,4,,HARD,2.0,2,,,25.5,31.4,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,10,4,96.005,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PER,Red Bull Racing,11,4,93.859,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -554,8 +554,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,3,4,94.379,MEDIUM,3.0,1,,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,4,4,94.589,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,5,4,94.557,MEDIUM,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,6,4,94.409,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,7,4,126.72,MEDIUM,7.0,1,,,25.7,31.4,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,8,6,,HARD,2.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,7,4,126.72,MEDIUM,7.0,1,,0 days 01:11:21.605000,25.7,31.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,8,6,,HARD,2.0,2,0 days 01:11:42.984000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,9,6,,HARD,3.0,2,,,25.5,31.4,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,10,6,96.768,HARD,4.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,PIA,McLaren,11,6,94.448,HARD,5.0,2,,,25.5,31.7,False,True,
@@ -604,8 +604,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,3,15,96.766,MEDIUM,3.0,1,,,25.
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,4,15,96.271,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,5,15,95.699,MEDIUM,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,6,14,95.847,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,7,14,132.474,MEDIUM,7.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,8,18,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,7,14,132.474,MEDIUM,7.0,1,,0 days 01:11:42.435000,25.7,31.5,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,8,18,,HARD,1.0,2,0 days 01:12:45.853000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,9,18,129.998,HARD,2.0,2,,,25.5,31.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,10,18,99.99,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RIC,RB,11,18,96.819,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -653,8 +653,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,3,7,95.219,MEDIUM,3.0,1,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,4,7,95.033,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,5,7,95.15,MEDIUM,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,6,7,95.06,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,7,7,128.836,MEDIUM,7.0,1,,,25.7,31.4,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,8,9,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,7,7,128.836,MEDIUM,7.0,1,,0 days 01:11:27.949000,25.7,31.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,8,9,,HARD,1.0,2,0 days 01:11:48.953000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,9,9,,HARD,2.0,2,,,25.5,31.4,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,10,9,97.943,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,RUS,Mercedes,11,9,95.048,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -703,8 +703,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,3,18,96.871,MEDIUM,3.0,1
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,4,18,96.544,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,5,18,96.204,MEDIUM,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,6,17,96.203,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,7,17,134.35,MEDIUM,7.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,8,17,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,7,17,134.35,MEDIUM,7.0,1,,0 days 01:11:47.060000,25.7,31.5,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,8,17,,HARD,1.0,2,0 days 01:12:10.777000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,9,17,141.181,HARD,2.0,2,,,25.5,31.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,10,17,100.141,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,SAR,Williams,11,17,96.468,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -758,8 +758,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,3,10,95.703,MEDIUM,3.0,1,,,25.
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,4,10,95.378,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,5,10,95.589,MEDIUM,5.0,1,,,25.7,32.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,6,9,96.275,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,7,9,130.914,MEDIUM,7.0,1,,,25.7,31.4,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,8,11,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,7,9,130.914,MEDIUM,7.0,1,,0 days 01:11:36.333000,25.7,31.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,8,11,,HARD,1.0,2,0 days 01:11:58.073000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,9,11,147.896,HARD,2.0,2,,,25.5,31.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,10,12,99.222,HARD,3.0,2,,,25.4,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,TSU,RB,11,12,95.738,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -807,8 +807,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,3,1,94.043,MEDIUM
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,4,1,93.754,MEDIUM,4.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,5,1,93.955,MEDIUM,5.0,1,,,25.6,31.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,6,1,93.676,MEDIUM,6.0,1,,,25.7,31.5,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,7,1,122.919,MEDIUM,7.0,1,,,25.7,31.4,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,8,2,,HARD,1.0,2,,,25.7,31.5,False,False,Missing Lap Time
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,7,1,122.919,MEDIUM,7.0,1,,0 days 01:11:11.053000,25.7,31.4,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,8,2,,HARD,1.0,2,0 days 01:11:31.721000,,25.7,31.5,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,9,2,,HARD,2.0,2,,,25.5,31.4,False,False,Missing Lap Time
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,10,2,95.024,HARD,3.0,2,,,25.5,31.5,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,VER,Red Bull Racing,11,2,93.61,HARD,4.0,2,,,25.5,31.7,False,True,
@@ -891,8 +891,8 @@ SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,37,10,94.132,MEDIUM,3
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,38,10,93.914,MEDIUM,38.0,1,,,25.5,30.4,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,39,10,93.915,MEDIUM,39.0,1,,,25.4,30.7,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,40,10,93.736,MEDIUM,40.0,1,,,25.4,30.4,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,41,10,96.379,MEDIUM,41.0,1,,,25.4,30.2,False,True,
-SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,42,18,137.392,SOFT,1.0,2,,,25.4,29.9,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,41,10,96.379,MEDIUM,41.0,1,,0 days 02:07:48.876000,25.4,30.2,False,True,
+SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,42,18,137.392,SOFT,1.0,2,0 days 02:08:35.225000,,25.4,29.9,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,43,18,93.047,SOFT,2.0,2,,,25.4,30.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,44,18,92.77,SOFT,3.0,2,,,25.4,30.2,False,True,
 SAU24,2024,Saudi Arabian Grand Prix,Jeddah,ZHO,Kick Sauber,45,18,92.857,SOFT,4.0,2,,,25.4,30.4,False,True,

@@ -208,10 +208,14 @@ def standardise_types(df: pd.DataFrame) -> pd.DataFrame:
             df[col] = pd.to_numeric(df[col], errors="coerce").astype("Int64")
 
     # Colonnes numériques décimales
-    for col in ["LapTime_Seconds", "TireAge", "PitOutTime", "PitInTime",
+    for col in ["LapTime_Seconds", "TireAge", 
                 "AirTemp", "TrackTemp"]:
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors="coerce")
+
+    for col in ["PitOutTime", "PitInTime"]:
+        if col in df.columns:
+            df[col] = pd.to_timedelta(df[col], errors="coerce")
 
     # Colonnes texte
     for col in ["RaceID", "RaceName", "Circuit", "Driver", "Team", "Compound"]:
