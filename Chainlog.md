@@ -24,3 +24,7 @@
 - Merging all datasets into a master one 
 - Setting up the files for the EDA code 
 - Found out the data cleaning removed some values fixed the issue 
+- Successfully merged all dataset with no errors
+- finished EDA
+
+## v0.5.0

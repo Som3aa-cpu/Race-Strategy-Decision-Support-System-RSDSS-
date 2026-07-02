@@ -6,25 +6,25 @@ from pathlib import Path
 import pandas as pd
 
 
-# CONFIGURATION — tous les constantes en un seul endroit
+# Configration
 
 
 RAW_DATA_DIR       = Path(r"D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Raw\Data\Processed\by_race")
 PROCESSED_DATA_DIR = Path(r"D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed")
 REPORTS_DIR        = Path(r"D:\Automotive\Race Strategy Decision Support System (RSDSS)\Race-Strategy-Decision-Support-System-RSDSS-\Data\Processed\reports")
 
-# Seuils pour les temps au tour (en secondes)
+# Max and Minimum for laps in seconds
 LAP_TIME_MIN = 45.0
 LAP_TIME_MAX = 250.0
 
-# Colonnes obligatoires dans chaque CSV
+# Expected Columns
 REQUIRED_COLUMNS = [
     "RaceID", "RaceName", "Circuit", "Driver", "Team",
     "LapNumber", "Position", "LapTime_Seconds", "Compound", "TireAge",
     "Stint", "PitOutTime", "PitInTime", "AirTemp", "TrackTemp", "Rainfall",
 ]
 
-# Raisons d'exclusion (labels fixes pour éviter les fautes de frappe)
+# Reasons for exclusion 
 REASON_MISSING   = "Missing Lap Time"
 REASON_TOO_SHORT = "Unrealistically Short Lap"
 REASON_TOO_LONG  = "Red Flag / Extremely Long Lap"
@@ -32,25 +32,24 @@ REASON_DUPLICATE = "Duplicate Row"
 
 
 
-# LOGGING — console + fichier rotatif
-
+# Logging
 
 def setup_logger(name: str = "rsdss") -> logging.Logger:
     """Configure et retourne un logger avec handlers console et fichier."""
     logger = logging.getLogger(name)
     if logger.handlers:
-        return logger  # déjà configuré, on évite les doublons
-
+        return logger  # already configured
+    
     logger.setLevel(logging.DEBUG)
     fmt = logging.Formatter("%(asctime)s | %(levelname)-8s | %(message)s",
                             datefmt="%H:%M:%S")
 
-    # Handler console — INFO et plus
+    # Console handeler 
     console = logging.StreamHandler(sys.stdout)
     console.setLevel(logging.INFO)
     console.setFormatter(fmt)
 
-    # Handler fichier — DEBUG et plus
+    # File handeler
     Path("logs").mkdir(exist_ok=True)
     file_h = logging.FileHandler("logs/rsdss_cleaning.log", encoding="utf-8")
     file_h.setLevel(logging.DEBUG)
@@ -66,7 +65,7 @@ log = setup_logger()
 
 
 
-# RAPPORT DE NETTOYAGE — dataclass simple
+# Cleaning sample
 
 
 @dataclass
@@ -80,7 +79,7 @@ class CleaningReport:
     short_laps:       int = 0
     long_laps:        int = 0
 
-    # Propriétés calculées — pas besoin de les stocker
+    # Computed properties no need to store them
     @property
     def rows_flagged(self) -> int:
         return self.missing_laptime + self.short_laps + self.long_laps
@@ -91,27 +90,27 @@ class CleaningReport:
 
     @property
     def rows_kept(self) -> int:
-        # Gardé = total après déduplication - rangées signalées
+        # Kept = total after deduplication - flagged rows
         return (self.rows_read - self.duplicates) - self.rows_flagged
 
     def print_summary(self) -> None:
-        """Affiche un résumé lisible dans les logs."""
+        """Displays a readable summary in the logs."""
         sep = "-" * 50
         log.info(sep)
-        log.info(f" RAPPORT — {self.filename}")
+        log.info(f" Report — {self.filename}")
         log.info(sep)
-        log.info(f"  Lignes lues             : {self.rows_read}")
-        log.info(f"  Doublons supprimés      : {self.duplicates}")
-        log.info(f"  Temps manquants         : {self.missing_laptime}")
-        log.info(f"  Tours trop courts       : {self.short_laps}")
-        log.info(f"  Tours trop longs        : {self.long_laps}")
+        log.info(f"  lines read              : {self.rows_read}")
+        log.info(f"  Duplicates removed      : {self.duplicates}")
+        log.info(f"  Missing lap times       : {self.missing_laptime}")
+        log.info(f"  Too short laps          : {self.short_laps}")
+        log.info(f"  Too long laps           : {self.long_laps}")
         log.info(sep)
-        log.info(f"  Total supprimé/signalé  : {self.rows_removed}")
-        log.info(f"  Lignes valides gardées  : {self.rows_kept}")
+        log.info(f"  Total deleted/reported  : {self.rows_removed}")
+        log.info(f"  Valid lines kept        : {self.rows_kept}")
         log.info(sep)
 
     def to_dict(self) -> dict:
-        """Sérialise le rapport en dictionnaire JSON-compatible."""
+        """Serialize the report to a JSON-compatible dictionary."""
         return {
             "filename":        self.filename,
             "rows_read":       self.rows_read,
@@ -125,33 +124,33 @@ class CleaningReport:
 
 
 
-# I/O — lecture et écriture des fichiers CSV
+# I/O — reading and writing CSV files
 
 
 def discover_files(raw_dir: Path = RAW_DATA_DIR) -> list[Path]:
-    """Retourne tous les fichiers CSV trouvés dans raw_dir."""
+    """Return all CSV files found in raw_dir."""
     if not raw_dir.exists():
-        raise FileNotFoundError(f"Dossier introuvable : {raw_dir}")
+        raise FileNotFoundError(f"Directory not found: {raw_dir}")
 
     files = sorted(raw_dir.glob("*.csv"))
-    log.info(f"{len(files)} fichier(s) CSV trouvé(s) dans '{raw_dir}'")
+    log.info(f"{len(files)} CSV file(s) found in '{raw_dir}'")
     return files
 
 
 def read_csv(file_path: Path) -> pd.DataFrame:
-    """Lit un CSV et vérifie que toutes les colonnes requises sont présentes."""
+    """Reads a CSV and verifies that all required columns are present."""
     log.info(f"Lecture : {file_path.name}")
     df = pd.read_csv(file_path, low_memory=False)
 
     if df.empty:
-        raise ValueError(f"Fichier vide : {file_path.name}")
+        raise ValueError(f"Files empty : {file_path.name}")
 
     # Vérification des colonnes manquantes
     missing_cols = [c for c in REQUIRED_COLUMNS if c not in df.columns]
     if missing_cols:
-        raise ValueError(f"Colonnes manquantes dans {file_path.name} : {missing_cols}")
+        raise ValueError(f"Required columns missing in {file_path.name} : {missing_cols}")
 
-    log.debug(f"  → {len(df)} lignes × {len(df.columns)} colonnes chargées")
+    log.debug(f"  → {len(df)} lines × {len(df.columns)} columns loaded")
     return df
 
 
@@ -169,21 +168,21 @@ def inject_season(df: pd.DataFrame, filename: str) -> pd.DataFrame:
         season = 2000 + year_suffix               # 2022, 2023...
     except (ValueError, IndexError):
         season = None
-        log.warning(f"  Impossible de dériver la saison depuis '{filename}'")
+        log.warning(f"  Unable to derive the season from '{filename}'")
  
     # Insère Season juste après RaceID pour un ordre logique
     insert_at = df.columns.get_loc("RaceID") + 1 if "RaceID" in df.columns else 0
     df.insert(insert_at, "Season", season)
-    log.debug(f"  Colonne Season = {season} injectée depuis le nom de fichier.")
+    log.debug(f"  Column Season = {season} injected from the file name.")
     return df
 
 def write_csv(df: pd.DataFrame, source_file: Path,
               out_dir: Path = PROCESSED_DATA_DIR) -> Path:
-    """Sauvegarde le DataFrame nettoyé dans out_dir avec le même nom de fichier."""
+    """Saves the cleaned DataFrame in out_dir with the same file name."""
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / source_file.name
     df.to_csv(out_path, index=False)
-    log.info(f"  → Sauvegardé : {out_path}  ({len(df)} lignes)")
+    log.info(f"  → Saved : {out_path}  ({len(df)} lines)")
     return out_path
 
 
@@ -192,7 +191,7 @@ def write_csv(df: pd.DataFrame, source_file: Path,
 
 
 def add_flag_columns(df: pd.DataFrame) -> pd.DataFrame:
-    """Ajoute les colonnes ValidLap et ExclusionReason si elles n'existent pas."""
+    """Adds the ValidLap and ExclusionReason columns if they don't exist."""
     if "ValidLap" not in df.columns:
         df["ValidLap"] = True
     if "ExclusionReason" not in df.columns:
@@ -201,7 +200,7 @@ def add_flag_columns(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def standardise_types(df: pd.DataFrame) -> pd.DataFrame:
-    """Convertit les colonnes vers leurs types corrects (int, float, string)."""
+    """Converts the columns to their correct types (int, float, string)."""
     # Colonnes numériques entières — nullable pour tolérer les NaN
     for col in ["Season", "LapNumber", "Position", "Stint"]:
         if col in df.columns:
@@ -227,12 +226,12 @@ def standardise_types(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def remove_duplicates(df: pd.DataFrame) -> tuple[pd.DataFrame, int]:
-    """Supprime physiquement les lignes exactement identiques."""
+    """Removes physically the exact duplicate rows."""
     before = len(df)
     df = df.drop_duplicates(keep="first").reset_index(drop=True)
     count = before - len(df)
     if count:
-        log.debug(f"  {count} doublon(s) supprimé(s).")
+        log.debug(f"  {count} duplicate(s) removed.")
     return df, count
 
 
@@ -243,12 +242,12 @@ def flag_missing_lap_times(df: pd.DataFrame) -> tuple[pd.DataFrame, int]:
     if count:
         df.loc[mask, "ValidLap"] = False
         df.loc[mask, "ExclusionReason"] = REASON_MISSING
-        log.debug(f"  {count} tour(s) avec temps manquant signalé(s).")
+        log.debug(f"  {count} lap(s) with missing time flagged.")
     return df, count
 
 
 def flag_short_laps(df: pd.DataFrame) -> tuple[pd.DataFrame, int]:
-    """Signale les tours inférieurs à LAP_TIME_MIN secondes."""
+    """Flags laps shorter than LAP_TIME_MIN seconds."""
     mask = (df["LapTime_Seconds"].notna()
             & (df["LapTime_Seconds"] < LAP_TIME_MIN)
             & df["ValidLap"])
@@ -256,12 +255,12 @@ def flag_short_laps(df: pd.DataFrame) -> tuple[pd.DataFrame, int]:
     if count:
         df.loc[mask, "ValidLap"] = False
         df.loc[mask, "ExclusionReason"] = REASON_TOO_SHORT
-        log.debug(f"  {count} tour(s) trop court(s) (< {LAP_TIME_MIN}s) signalé(s).")
+        log.debug(f"  {count} lap(s) too short (< {LAP_TIME_MIN}s) flagged.")
     return df, count
 
 
 def flag_long_laps(df: pd.DataFrame) -> tuple[pd.DataFrame, int]:
-    """Signale les tours supérieurs à LAP_TIME_MAX secondes (drapeau rouge, VSC...)."""
+    """Flags laps longer than LAP_TIME_MAX seconds (red flag, VSC...)."""
     mask = (df["LapTime_Seconds"].notna()
             & (df["LapTime_Seconds"] > LAP_TIME_MAX)
             & df["ValidLap"])
@@ -269,48 +268,48 @@ def flag_long_laps(df: pd.DataFrame) -> tuple[pd.DataFrame, int]:
     if count:
         df.loc[mask, "ValidLap"] = False
         df.loc[mask, "ExclusionReason"] = REASON_TOO_LONG
-        log.debug(f"  {count} tour(s) trop long(s) (> {LAP_TIME_MAX}s) signalé(s).")
+        log.debug(f"  {count} lap(s) too long (> {LAP_TIME_MAX}s) flagged.")
     return df, count
 
 
 
-# PIPELINE — applique toutes les règles sur un seul DataFrame
+# PIPELINE
 
 
 def clean_dataframe(df: pd.DataFrame, filename: str) -> tuple[pd.DataFrame, CleaningReport]:
     """
-    Applique toutes les règles de nettoyage sur df et retourne
-    le DataFrame nettoyé + le rapport de statistiques.
+    Applies all cleaning rules to df and returns
+    the cleaned DataFrame + the statistics report.
     """
     report = CleaningReport(filename=filename, rows_read=len(df))
     df = df.copy()
 
-    log.info(f"[{filename}] Début du nettoyage — {report.rows_read} lignes")
+    log.info(f"[{filename}] start of cleaning — {report.rows_read} lines")
 
-    # Étape 1 : Ajouter les colonnes de flag
+    # step 1 : Add flag columns
     df = add_flag_columns(df)
 
-    # Étape 2 : Standardiser les types
+    # step 2 : Standardise types
     df = standardise_types(df)
 
-    # Étape 3 : Supprimer les doublons exacts
+    # step 3 : Remove exact duplicates
     df, report.duplicates = remove_duplicates(df)
 
-    # Étape 4 : Signaler les temps manquants
+    # step 4 : Flag missing lap times
     df, report.missing_laptime = flag_missing_lap_times(df)
 
-    # Étape 5 : Signaler les tours trop courts
+    # step 5 : Flag short laps
     df, report.short_laps = flag_short_laps(df)
 
-    # Étape 6 : Signaler les tours trop longs
+    # step 6 : Flag long laps
     df, report.long_laps = flag_long_laps(df)
 
-    log.info(f"[{filename}] Terminé — {report.rows_kept} valides, {report.rows_removed} supprimés/signalés")
+    log.info(f"[{filename}] Completed — {report.rows_kept} valid, {report.rows_removed} removed flagged")
     return df, report
 
 
 
-# MAIN — boucle sur tous les fichiers CSV du dossier raw
+# MAIN — loop over all CSV files in the raw directory
 
 
 def run_pipeline(
@@ -318,16 +317,16 @@ def run_pipeline(
     out_dir: Path = PROCESSED_DATA_DIR,
     report_dir: Path = REPORTS_DIR,
 ) -> list[CleaningReport]:
-    """Lance le pipeline sur tous les fichiers CSV de raw_dir."""
+    """Run the pipeline on all CSV files in raw_dir."""
 
     
-    log.info("  RSDSS — Pipeline de nettoyage F1")
+    log.info("  RSDSS — Cleaning pipeline F1")
     log.info(f"  Source   : {raw_dir}")
-    log.info(f"  Sortie   : {out_dir}")
-    log.info(f"  Rapports : {report_dir}")
+    log.info(f"  Output   : {out_dir}")
+    log.info(f"  Reports  : {report_dir}")
     
 
-    # Découverte des fichiers
+    #
     try:
         csv_files = discover_files(raw_dir)
     except FileNotFoundError as e:
@@ -341,20 +340,19 @@ def run_pipeline(
     all_reports = []
 
     for csv_path in csv_files:
-        # Lecture — on saute les fichiers corrompus sans arrêter le pipeline
+       
         try:
             raw_df = read_csv(csv_path)
         except (ValueError, Exception) as e:
             log.error(f"Fichier ignoré '{csv_path.name}' — {e}")
             continue
 
-        # Nettoyage
+
         cleaned_df, report = clean_dataframe(raw_df, csv_path.name)
 
-        # Sauvegarde CSV nettoyé
+       
         write_csv(cleaned_df, csv_path, out_dir)
 
-        # Affichage + sauvegarde du rapport JSON
         report.print_summary()
         report_dir.mkdir(parents=True, exist_ok=True)
         report_path = report_dir / f"{csv_path.stem}_report.json"
@@ -364,20 +362,19 @@ def run_pipeline(
 
         all_reports.append(report)
 
-    # Résumé global à la fin
+    
     if all_reports:
         log.info("=" * 50)
-        log.info(f"  RÉSUMÉ GLOBAL — {len(all_reports)} fichier(s) traité(s)")
-        log.info(f"  Total lignes lues    : {sum(r.rows_read    for r in all_reports)}")
-        log.info(f"  Total valides gardés : {sum(r.rows_kept    for r in all_reports)}")
-        log.info(f"  Total supprimés      : {sum(r.rows_removed for r in all_reports)}")
+        log.info(f"  Global Report — {len(all_reports)} file(s) processed")
+        log.info(f"  Total lines read    : {sum(r.rows_read    for r in all_reports)}")
+        log.info(f"  Total valid rows kept : {sum(r.rows_kept    for r in all_reports)}")
+        log.info(f"  Total rows removed      : {sum(r.rows_removed for r in all_reports)}")
         log.info("=" * 50)
 
     return all_reports
 
 
 
-# POINT D'ENTRÉE
 
 
 if __name__ == "__main__":
