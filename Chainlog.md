@@ -28,3 +28,6 @@
 - finished EDA
 
 ## v0.5.0
+- Setting up feature engneering files
+- Enrchide the dataset with ciruits information
+- 

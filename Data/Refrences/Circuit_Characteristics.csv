@@ -1,0 +1,27 @@
+Circuit,Length_km,Corners,DRS_Zones,Direction,HighSpeedCircuit,SurfaceAbrasion
+Austin,5.513,20,2,Counterclockwise,No,Medium
+Baku,6.003,20,2,Counterclockwise,Yes,Low
+Barcelona,4.657,14,2,Clockwise,No,High
+Budapest,4.381,14,1,Clockwise,No,Medium
+Imola,4.909,19,1,Counterclockwise,No,Medium
+Jeddah,6.174,27,3,Counterclockwise,Yes,Medium
+Las Vegas,6.201,17,2,Clockwise,Yes,Low
+Le Castellet,5.842,15,2,Clockwise,Yes,Medium
+Lusail,5.419,16,1,Clockwise,Yes,High
+Marina Bay,4.940,19,4,Counterclockwise,No,Low
+Melbourne,5.278,14,4,Clockwise,No,Medium
+Mexico City,4.304,17,3,Clockwise,No,Low
+Miami,5.412,19,3,Counterclockwise,No,Medium
+Miami Gardens,5.412,19,3,Counterclockwise,No,Medium
+Monaco,3.337,19,1,Clockwise,No,Low
+Montréal,4.361,14,3,Clockwise,No,Low
+Monza,5.793,11,2,Clockwise,Yes,Medium
+Sakhir,5.412,15,3,Clockwise,No,High
+Shanghai,5.451,16,2,Clockwise,No,Medium
+Silverstone,5.891,18,2,Clockwise,Yes,High
+Spa-Francorchamps,7.004,20,2,Clockwise,Yes,Medium
+Spielberg,4.318,10,3,Clockwise,Yes,Medium
+Suzuka,5.807,18,1,Figure-8,Yes,High
+São Paulo,4.309,15,2,Counterclockwise,No,Medium
+Yas Island,5.281,16,2,Counterclockwise,No,Low
+Zandvoort,4.259,14,2,Clockwise,No,High
