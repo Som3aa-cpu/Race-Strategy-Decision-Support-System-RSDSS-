@@ -30,4 +30,4 @@
 ## v0.5.0
 - Setting up feature engneering files
 - Enrchide the dataset with ciruits information
-- 
+- Wrote some of the feature engneering to be implemented in pipeline
