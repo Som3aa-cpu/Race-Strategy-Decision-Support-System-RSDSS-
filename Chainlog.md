@@ -32,4 +32,4 @@
 - Enrchide the dataset with ciruits information
 - creating files for each feature engineered
 - features done working on pipeline to add to dataset
-- Succesfully added the engineered features
+- Succesfully added the engineered featuresWrote some of the feature engneering to be implemented in pipeline
