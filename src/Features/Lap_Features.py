@@ -98,7 +98,7 @@ def add_rolling_mean_5(df: pd.DataFrame) -> pd.DataFrame:
 
 
 
-# FEATURE 5 — RollingStd5
+# Feature 5 — RollingStd5
 
 
 def add_rolling_std_5(df: pd.DataFrame) -> pd.DataFrame:

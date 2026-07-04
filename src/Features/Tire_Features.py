@@ -12,9 +12,9 @@ if not log.handlers:
         datefmt="%H:%M:%S",
     )
 
-# Minimum laps in a stint required to compute a meaningful degradation slope.
-# Below this threshold DegradationRate is set to NaN.
-MIN_LAPS_FOR_SLOPE = 3
+# Rolling window size for DegradationRate.
+DEGRADATION_WINDOW   = 5   # use the last 5 laps (including current)
+MIN_LAPS_FOR_SLOPE   = 3   # NaN until at least 3 laps are available
 
 # Thresholds for the boolean flags
 FRESH_TIRE_THRESHOLD = 2    # TireAge <= 2  → fresh
@@ -152,74 +152,87 @@ def add_is_long_stint(df: pd.DataFrame) -> pd.DataFrame:
 # Feature 5 — DegradationRate  
 
 
-def _slope(series_x: pd.Series, series_y: pd.Series) -> float:
+def _rolling_slope(group: pd.DataFrame,
+                   window: int = DEGRADATION_WINDOW,
+                   min_laps: int = MIN_LAPS_FOR_SLOPE) -> pd.Series:
     """
-    Fit a linear regression and return the slope (s/lap).
-    Returns NaN if fewer than MIN_LAPS_FOR_SLOPE valid data points exist
-    or if the fit cannot be computed.
+    Compute a rolling linear regression slope of LapTime ~ TireAge.
+    For every row i, fits a regression on the window [i-window+1 : i+1].
+    The current lap IS included — a race engineer knows the current lap
+    time when making decisions.  Returns NaN until min_laps are available.
     """
-    mask = series_x.notna() & series_y.notna()
-    x = series_x[mask].values
-    y = series_y[mask].values
-
-    if len(x) < MIN_LAPS_FOR_SLOPE:
-        return np.nan
-
-    # np.polyfit degree=1 → [slope, intercept]
-    try:
-        slope, _ = np.polyfit(x, y, 1)
-        return round(float(slope), 6)
-    except (np.linalg.LinAlgError, ValueError):
-        return np.nan
-
-
+    laps = group[["TireAge", "LapTime_Seconds"]].to_numpy(dtype=float)
+    slopes = []
+ 
+    for i in range(len(laps)):
+        start       = max(0, i - window + 1)
+        window_data = laps[start : i + 1]
+ 
+        # Remove rows where either value is NaN
+        mask = ~(np.isnan(window_data[:, 0]) | np.isnan(window_data[:, 1]))
+        x, y = window_data[mask, 0], window_data[mask, 1]
+ 
+        if len(x) < min_laps:
+            slopes.append(np.nan)
+        else:
+            try:
+                slope, _ = np.polyfit(x, y, 1)
+                slopes.append(round(float(slope)))
+            except (np.linalg.LinAlgError, ValueError):
+                slopes.append(np.nan)
+ 
+    return pd.Series(slopes, index=group.index)
+ 
+ 
 def add_degradation_rate(df: pd.DataFrame) -> pd.DataFrame:
-    """Add DegradationRate — the rate at which lap time increases per lap
-    of tyre age within each individual stint.
-    Method:
-        For every [RaceID, Driver, Stint] group, fit a linear regression
-        of LapTime_Seconds ~ TireAge and store the slope.
-
-        Example: slope = 0.08 means the driver loses 0.08 s per lap
-        of tyre age within that stint — i.e. the tyre is degrading at
-        80 ms per lap.
+    """Add DegradationRate — a dynamic, rolling estimate of how quickly
+    lap time is increasing with tyre age at each point in the stint.
+ 
+    Method (rolling window):
+        For every lap, fit a linear regression of LapTime_Seconds ~ TireAge
+        using the current lap and up to the previous 4 laps (window = 5).
+        If fewer than 5 laps are available but at least 3 exist, use all
+        available laps (expanding window).  Below 3 laps → NaN.
+ 
+    Why rolling and not whole-stint:
+        The whole-stint approach uses future laps to compute a slope on
+        early laps — that is look-ahead leakage.  The rolling window only
+        uses information available at race time, matching how an F1
+        strategist actually monitors tyre behaviour lap by lap.
+ 
+    Example output for a degrading Soft tyre:
+        TireAge   DegradationRate
+            1     NaN              ← not enough data
+            2     NaN              ← not enough data
+            3     0.06             ← first estimate, 3 laps
+            4     0.07
+            5     0.09
+            6     0.12             ← rate rising: tyre starting to fall off
+            7     0.15             ← cliff approaching
+ 
     Interpretation:
-        DegradationRate > 0  → lap time increasing as tyre ages (normal degradation)
-        DegradationRate ≈ 0  → no degradation (hard compound, cool conditions)
-        DegradationRate < 0  → lap time improving despite tyre age
-                                (track rubbering-in, fuel burn, driver push)
-    Requirements:
-        - Minimum MIN_LAPS_FOR_SLOPE laps per stint (default 3).
-        - Stints below this threshold receive NaN.
-    This is expected to be the strongest ML feature in the project because
-    it directly quantifies tyre wear — the primary driver of pit stop timing.
+        DegradationRate > 0  → pace getting slower as tyre wears (normal)
+        DegradationRate ≈ 0  → stable pace, no meaningful degradation
+        DegradationRate < 0  → pace improving  (track evolution, fuel burn)
     """
-    # Compute slope per stint and broadcast back to every lap in that stint
-    degradation = (
-        df.groupby(["RaceID", "Driver", "Stint"])
-        .apply(
-            lambda g: pd.Series(
-                _slope(g["TireAge"], g["LapTime_Seconds"]),
-                index=g.index,
-            )
-        )
-    )
-
-    # apply with groupby returns a multi-index Series — flatten it
-    if isinstance(degradation.index, pd.MultiIndex):
-        degradation = degradation.droplevel([0, 1, 2])
-
-    df["DegradationRate"] = degradation
+    # Use a list-based approach to guarantee index alignment across
+    # pandas versions — iterate groups, compute slopes, collect results.
+    results = pd.Series(index=df.index, dtype=float)
+    for _, group in df.groupby(["RaceID", "Driver", "Stint"]):
+        group = group.sort_values("LapNumber")
+        results.loc[group.index] = _rolling_slope(group).values
+ 
+    df["DegradationRate"] = results
     log.info(
-        "Added : DegradationRate  (linear slope LapTime ~ TireAge per stint, "
-        "min %d laps required)",
-        MIN_LAPS_FOR_SLOPE,
+        "Added : DegradationRate  "
+        "(rolling window=%d, min_laps=%d, no look-ahead)",
+        DEGRADATION_WINDOW, MIN_LAPS_FOR_SLOPE,
     )
     return df
 
 
 
-# the function that is called by the feature engineering pipeline
+# the function that will be called by the feature engineering pipeline
 
 
 def add_tire_features(df: pd.DataFrame) -> pd.DataFrame:

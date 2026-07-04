@@ -28,6 +28,8 @@
 - finished EDA
 
 ## v0.5.0
-- Setting up feature engneering files
+- Setting up feature engineering files
 - Enrchide the dataset with ciruits information
-- 
+- creating files for each feature engineered
+- features done working on pipeline to add to dataset
+- Succesfully added the engineered features
