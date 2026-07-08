@@ -1,0 +1,3 @@
+RaceID,Check,Severity,Detail
+featured_dataset,laptime_missing,WARNING,1556 lap time(s) missing
+featured_dataset,laptime_range,ERROR,"17 lap time(s) outside realistic range [45-250s], e.g.: [282.084, 2494.817, 2513.184]"

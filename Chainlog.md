@@ -33,3 +33,8 @@
 - creating files for each feature engineered
 - features done working on pipeline to add to dataset
 - Succesfully added the engineered features
+- validating features added
+- all data is valid
+
+## v0.6.0
+- 
