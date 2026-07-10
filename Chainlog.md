@@ -37,4 +37,10 @@
 - all data is valid
 
 ## v0.6.0
-- 
+- working on the baseline models
+- trained Linear Regression, Random Forest and Gradient Boosting
+- Gradient Bossinting was the best one based on MAE, RMSE and R²
+- Checked feature importance 
+- Exprimented with the history of laps to check how important it is in predictions
+- done another expreiment removing race lenght proxy 
+- both expirements yeild the the modek adapts and tire degradation is prominante feature
