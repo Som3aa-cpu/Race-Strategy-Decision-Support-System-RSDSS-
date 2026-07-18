@@ -43,4 +43,8 @@
 - Checked feature importance 
 - Exprimented with the history of laps to check how important it is in predictions
 - done another expreiment removing race lenght proxy 
-- both expirements yeild the the modek adapts and tire degradation is prominante feature
+- both expirements yeild the the model adapts and tire degradation is prominante feature
+
+## v0.7.0
+- model analysis successfully done 
+- building optimizer to simulate racing 
